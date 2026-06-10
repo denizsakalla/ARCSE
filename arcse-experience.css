@@ -3261,6 +3261,12 @@ body.headquarters-open {
   box-shadow: 0 32px 120px rgba(60, 86, 130, 0.18);
 }
 
+.hq-boot-card .brand-mark {
+  width: 48px;
+  height: 48px;
+  animation: hqLogoFlicker 2.4s ease-in-out infinite;
+}
+
 .hq-live-dot {
   width: 10px;
   height: 10px;
@@ -3281,6 +3287,24 @@ body.headquarters-open {
 
 .hq-boot-card p.pulse {
   animation: hqBootLine 430ms ease both;
+}
+
+.hq-boot-progress {
+  width: min(330px, 70vw);
+  height: 2px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: rgba(196, 159, 82, 0.18);
+}
+
+.hq-boot-progress::before {
+  content: "";
+  display: block;
+  width: 48%;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, transparent, #c49f52, transparent);
+  animation: hqBootProgress 1.35s ease-in-out infinite;
 }
 
 .hq-command {
@@ -3360,6 +3384,31 @@ body.headquarters-open {
 .hq-profile-button .brand-mark {
   width: 24px;
   height: 24px;
+}
+
+.hq-presentation-button {
+  min-height: 38px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid rgba(196, 159, 82, 0.28);
+  border-radius: 8px;
+  padding: 0 13px;
+  color: #5b4519;
+  background: linear-gradient(180deg, #fffaf0, #fff);
+  box-shadow: 0 8px 24px rgba(196, 159, 82, 0.10);
+  font: inherit;
+  font-size: 0.74rem;
+  font-weight: 850;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.hq-presentation-button:hover,
+.hq-presentation-button:focus-visible {
+  border-color: rgba(196, 159, 82, 0.46);
+  box-shadow: 0 12px 30px rgba(196, 159, 82, 0.15);
+  outline: none;
 }
 
 .hq-app-shell {
@@ -4438,6 +4487,102 @@ body.headquarters-open {
   border-radius: 7px;
 }
 
+.hq-mini-timeline button.is-live,
+.hq-notice-list p.is-live {
+  border-color: rgba(34, 184, 115, 0.24);
+  background: linear-gradient(180deg, rgba(237, 255, 247, 0.92), rgba(255, 255, 255, 0.9));
+  box-shadow: 0 10px 26px rgba(34, 184, 115, 0.08);
+}
+
+.presentation-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 260;
+  display: none;
+  place-items: center;
+  padding: 24px;
+  background: rgba(5, 10, 18, 0.78);
+  backdrop-filter: blur(18px);
+}
+
+.presentation-overlay.open {
+  display: grid;
+}
+
+.presentation-shell {
+  width: min(1180px, 96vw);
+  max-height: min(92dvh, 860px);
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 10px;
+  background: rgba(9, 15, 26, 0.84);
+  box-shadow: 0 34px 110px rgba(0, 0, 0, 0.42);
+  overflow: hidden;
+}
+
+.presentation-topbar {
+  min-height: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 12px 14px 12px 18px;
+  color: #fff;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.02));
+}
+
+.presentation-topbar small,
+.presentation-topbar strong {
+  display: block;
+}
+
+.presentation-topbar small {
+  color: #d4b979;
+  font-size: 0.68rem;
+  font-weight: 850;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.presentation-topbar strong {
+  margin-top: 2px;
+  font-size: 1rem;
+}
+
+.presentation-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.presentation-actions button {
+  min-height: 34px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 8px;
+  padding: 0 12px;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.08);
+  font: inherit;
+  font-size: 0.76rem;
+  font-weight: 820;
+  cursor: pointer;
+}
+
+.presentation-actions button:hover,
+.presentation-actions button:focus-visible {
+  background: rgba(255, 255, 255, 0.16);
+  outline: none;
+}
+
+.presentation-video {
+  width: 100%;
+  height: min(78dvh, 720px);
+  display: block;
+  background: #000;
+  object-fit: contain;
+}
+
 @keyframes hqPanelIn {
   from {
     opacity: 0;
@@ -4472,6 +4617,17 @@ body.headquarters-open {
   0% { box-shadow: 0 0 0 0 rgba(34, 184, 115, 0.28); }
   70% { box-shadow: 0 0 0 10px rgba(34, 184, 115, 0); }
   100% { box-shadow: 0 0 0 0 rgba(34, 184, 115, 0); }
+}
+
+@keyframes hqLogoFlicker {
+  0%, 94%, 100% { opacity: 1; filter: none; transform: translateY(0); }
+  95% { opacity: 0.86; filter: brightness(1.08); transform: translateY(-1px); }
+  97% { opacity: 1; filter: none; transform: translateY(0); }
+}
+
+@keyframes hqBootProgress {
+  0% { transform: translateX(-105%); }
+  100% { transform: translateX(230%); }
 }
 
 @keyframes hqLineFlow {
@@ -4748,6 +4904,7 @@ body.headquarters-open {
 
   .hq-top-actions {
     justify-content: space-between;
+    flex-wrap: wrap;
   }
 
   .hq-app-shell {
@@ -5069,6 +5226,38 @@ body.headquarters-open {
 
   .hq-status-chip {
     white-space: normal;
+  }
+
+  .hq-presentation-button {
+    flex: 1 1 100%;
+    justify-content: center;
+  }
+
+  .presentation-overlay {
+    padding: 8px;
+  }
+
+  .presentation-shell {
+    width: 100%;
+    max-height: 100dvh;
+    border-radius: 8px;
+  }
+
+  .presentation-topbar {
+    display: grid;
+    align-items: start;
+    min-height: auto;
+    padding: 10px;
+  }
+
+  .presentation-actions {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .presentation-video {
+    height: calc(100dvh - 112px);
   }
 
   .hq-network {

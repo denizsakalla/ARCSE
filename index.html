@@ -77,6 +77,7 @@
           <span class="brand-mark" aria-hidden="true"></span>
           <span class="hq-live-dot"></span>
           <p data-hq-boot-line>Connecting to preserved intelligence...</p>
+          <span class="hq-boot-progress" aria-hidden="true"></span>
         </div>
       </div>
 
@@ -110,6 +111,10 @@
             <div class="hq-autocomplete" data-hq-autocomplete role="listbox" aria-label="ARC SE intelligence suggestions"></div>
           </form>
           <div class="hq-top-actions">
+            <button class="hq-presentation-button" type="button" data-presentation-open>
+              <span aria-hidden="true">&#127916;</span>
+              Fullscreen Presentation
+            </button>
             <span class="hq-language-pill" data-language-current>EN</span>
             <button class="hq-profile-button" type="button" data-hq-close aria-label="Return to public museum">
               <span class="brand-mark" aria-hidden="true"></span>
@@ -311,6 +316,25 @@
         </div>
       </div>
     </section>
+
+    <div class="presentation-overlay" data-presentation-overlay data-i18n-static aria-hidden="true">
+      <div class="presentation-shell" role="dialog" aria-modal="true" aria-label="ARC SE fullscreen presentation">
+        <div class="presentation-topbar">
+          <div>
+            <small>ARC SE Presentation</small>
+            <strong>Why ARC Exists</strong>
+          </div>
+          <div class="presentation-actions">
+            <button type="button" data-presentation-fullscreen>Fullscreen</button>
+            <button type="button" data-presentation-close aria-label="Close presentation">Close</button>
+          </div>
+        </div>
+        <video class="presentation-video" data-presentation-video controls playsinline preload="metadata" poster="why_arc_exists_video_v5/render/arcse frontpage.png">
+          <source data-presentation-source src="why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_EN.mp4" type="video/mp4">
+          <track kind="subtitles" src="why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_EN.vtt" srclang="en" label="English" default data-presentation-track>
+        </video>
+      </div>
+    </div>
 
     <aside class="journey-rail" aria-label="Journey progress">
       <a href="#room-introduction" data-rail="room-introduction"><span>01</span></a>
