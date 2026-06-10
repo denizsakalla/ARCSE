@@ -1,14 +1,15 @@
 {
-  "generatedAt": "2026-06-10T04:58:49.502Z",
+  "generatedAt": "2026-06-10T05:10:15.646Z",
   "releaseRoot": "ARC_SE_PUBLIC_DIGITAL_HEADQUARTERS_RELEASE_20260609",
   "excludedTopLevel": [
     "ARC_SE_PUBLIC_DIGITAL_HEADQUARTERS_RELEASE_20260609"
   ],
   "counts": {
-    "files": 849,
+    "files": 850,
     "folders": 44,
-    "bytes": 402579126,
+    "bytes": 402579312,
     "byType": {
+      "file": 1,
       "image": 398,
       "pdf": 112,
       "md": 29,
@@ -73,6 +74,12 @@
     "why_arc_exists_video_v5/render"
   ],
   "files": [
+    {
+      "path": ".nojekyll",
+      "size": 7,
+      "sha256": "652cabf0de6cd70f66f72b17d6409203b84909be9864261feb614943f2e6cc62",
+      "type": "file"
+    },
     {
       "path": "ARC evidence performance scrnshots/0442210a-4cb5-4d19-9883-5e573b6bfe5a.png",
       "size": 300218,
@@ -2667,14 +2674,14 @@
     },
     {
       "path": "DEPLOYMENT_MANIFEST_20260609.json",
-      "size": 188369,
-      "sha256": "20491e309a2e15ef0ce6734794188d6609a96877e9d0edd85b624033a19133cc",
+      "size": 188548,
+      "sha256": "1aabea53642a261a3126c8bc647bd64d9ca814c610f4586fd91bc5128b124290",
       "type": "json"
     },
     {
       "path": "DEPLOYMENT_VALIDATION_LOCAL_20260609.json",
       "size": 771,
-      "sha256": "4ce276c6096c818fc21765b5c1f73c81d12749ba35c4d863e1e0c6b6f9a26d01",
+      "sha256": "13bb3b0af9f1ef1499d096a9cefe082f230167d0501675f6f53c0db03fab5316",
       "type": "json"
     },
     {
