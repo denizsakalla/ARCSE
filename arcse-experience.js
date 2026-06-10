@@ -486,6 +486,15 @@ document.addEventListener("click", (event) => {
   }
 });
 
+function shouldOpenHeadquartersOnLanding() {
+  const params = new URLSearchParams(window.location.search);
+  return !window.location.hash && params.get("museum") !== "1";
+}
+
+if (shouldOpenHeadquartersOnLanding()) {
+  window.setTimeout(openHeadquarters, 160);
+}
+
 const navLinks = Array.from(document.querySelectorAll(".nav-links a, .mobile-panel a"));
 const railLinks = Array.from(document.querySelectorAll(".journey-rail a"));
 const rooms = Array.from(document.querySelectorAll(".room[id]"));
