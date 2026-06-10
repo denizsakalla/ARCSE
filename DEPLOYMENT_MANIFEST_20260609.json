@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T06:12:31.201Z",
+  "generatedAt": "2026-06-10T06:51:07.547Z",
   "releaseRoot": "ARC_SE_PUBLIC_DIGITAL_HEADQUARTERS_RELEASE_20260609",
   "excludedTopLevel": [
     "ARC_SE_PUBLIC_DIGITAL_HEADQUARTERS_RELEASE_20260609"
@@ -7,7 +7,7 @@
   "counts": {
     "files": 850,
     "folders": 44,
-    "bytes": 402620950,
+    "bytes": 402631848,
     "byType": {
       "file": 1,
       "image": 398,
@@ -2638,8 +2638,8 @@
     },
     {
       "path": "arcse-experience.css",
-      "size": 91279,
-      "sha256": "cf32d340e267660423f129ac655353fe6f447a58e2579ad8795ca08dda2d9251",
+      "size": 101501,
+      "sha256": "3365d0bcdcacc4f61dc92be15b9788d21acc50eb92b7f79ae67d96a4784fcef6",
       "type": "css"
     },
     {
@@ -2674,14 +2674,14 @@
     },
     {
       "path": "DEPLOYMENT_MANIFEST_20260609.json",
-      "size": 188548,
-      "sha256": "2ec4b7d5793aa1c47dad90237deb2f7a1ce40aa8dfb2cb86a5df0182f947a7b4",
+      "size": 188549,
+      "sha256": "a4b37d1f1a1675fc0120ab3fb4b5621237045d5c257aa985e095c44136e8347c",
       "type": "json"
     },
     {
       "path": "DEPLOYMENT_VALIDATION_LOCAL_20260609.json",
       "size": 771,
-      "sha256": "1c9bc2a34da6dd91250bb88b59848aec02c279cf01b7f9d68ea5285e75704d2b",
+      "sha256": "965245193dd827ff99afafc32e27924711a250d91b93a68517c4d8b4f68d38bb",
       "type": "json"
     },
     {
@@ -2860,8 +2860,8 @@
     },
     {
       "path": "index.html",
-      "size": 83093,
-      "sha256": "8a992d5e36268fcad3fc923701b5ad72b2116917a7c54d4c50f1a9b2dd1b05e2",
+      "size": 83768,
+      "sha256": "45154833beb624cfbd3d14f79713138b6b790fb869ed8c965e065b17274e24dc",
       "type": "html"
     },
     {
