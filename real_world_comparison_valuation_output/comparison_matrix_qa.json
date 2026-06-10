@@ -1,0 +1,28 @@
+{
+  "output": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_COMPARISON_MATRIX.xlsx",
+  "bytes": 40252,
+  "date_checked": "2026-06-06",
+  "sheets_expected": [
+    "Executive Summary",
+    "Company Comparison",
+    "Additional Examples",
+    "Category Matrix",
+    "Capability Map",
+    "Capability Interactions",
+    "Current Inventory",
+    "Current Asset Components",
+    "Value Separation",
+    "Proof Gaps",
+    "Replacement Difficulty",
+    "Rebuild Timeline",
+    "Current Valuation",
+    "Future Commercialization",
+    "Graduation Framework",
+    "Investor Assets",
+    "Risk Discounts",
+    "Diligence Questions",
+    "Source Register",
+    "QA Flags"
+  ],
+  "inspect": "{\"kind\":\"sheet\",\"id\":\"ws/tgwuvc\",\"name\":\"Executive Summary\",\"index\":0,\"range\":\"A1:B13\",\"address\":\"A1:B13\"}\n{\"kind\":\"sheet\",\"id\":\"ws/4ssxkg\",\"name\":\"Company Comparison\",\"index\":1,\"range\":\"A1:L13\",\"address\":\"A1:L13\"}\n{\"kind\":\"sheet\",\"id\":\"ws/xdd7t5\",\"name\":\"Additional Examples\",\"index\":2,\"range\":\"A1:G7\",\"address\":\"A1:G7\"}\n{\"kind\":\"sheet\",\"id\":\"ws/zpkbkk\",\"name\":\"Category Matrix\",\"index\":3,\"range\":\"A1:F11\",\"address\":\"A1:F11\"}\n{\"kind\":\"sheet\",\"id\":\"ws/9x7anm\",\"name\":\"Capability Map\",\"index\":4,\"range\":\"A1:D12\",\"address\":\"A1:D12\"}\n{\"kind\":\"sheet\",\"id\":\"ws/skycpa\",\"name\":\"Capability Interactions\",\"index\":5,\"range\":\"A1:D8\",\"address\":\"A1:D8\"}\n{\"kind\":\"sheet\",\"id\":\"ws/jfkgij\",\"name\":\"Current Inventory\",\"index\":6,\"range\":\"A1:D12\",\"address\":\"A1:D12\"}\n{\"kind\":\"sheet\",\"id\":\"ws/u72se5\",\"name\":\"Current Asset Components\",\"index\":7,\"range\":\"A1:E15\",\"address\":\"A1:E15\"}\n{\"kind\":\"sheet\",\"id\":\"ws/xlgfpo\",\"name\":\"Value Separation\",\"index\":8,\"range\":\"A1:D5\",\"address\":\"A1:D5\"}\n{\"kind\":\"sheet\",\"id\":\"ws/pso70a\",\"name\":\"Proof Gaps\",\"index\":9,\"range\":\"A1:D10\",\"address\":\"A1:D10\"}\n{\"kind\":\"sheet\",\"id\":\"ws/c1otxn\",\"name\":\"Replacement Difficulty\",\"index\":10,\"range\":\"A1:E11\",\"address\":\"A1:E11\"}\n{\"kind\":\"sheet\",\"id\":\"ws/apq35w\",\"name\":\"Rebuild Timeline\",\"index\":11,\"range\":\"A1:E7\",\"address\":\"A1:E7\"}\n{\"kind\":\"sheet\",\"id\":\"ws/hlm22e\",\"name\":\"Current Valuation\",\"index\":12,\"range\":\"A1:E9\",\"address\":\"A1:E9\"}\n{\"kind\":\"sheet\",\"id\":\"ws/7dxnlx\",\"name\":\"Future Commercialization\",\"index\":13,\"range\":\"A1:D7\",\"address\":\"A1:D7\"}\n{\"kind\":\"sheet\",\"id\":\"ws/jjhcj4\",\"name\":\"Graduation Framework\",\"index\":14,\"range\":\"A1:E8\",\"address\":\"A1:E8\"}\n{\"kind\":\"sheet\",\"id\":\"ws/e805jw\",\"name\":\"Investor Assets\",\"index\":15,\"range\":\"A1:E12\",\"address\":\"A1:E12\"}\n{\"kind\":\"sheet\",\"id\":\"ws/2dzguz\",\"name\":\"Risk Discounts\",\"index\":16,\"range\":\"A1:D9\",\"address\":\"A1:D9\"}\n{\"kind\":\"sheet\",\"id\":\"ws/l3uy8j\",\"name\":\"Diligence Questions\",\"index\":17,\"range\":\"A1:D11\",\"address\":\"A1:D11\"}\n{\"kind\":\"sheet\",\"id\":\"ws/5lsgq7\",\"name\":\"Source Register\",\"index\":18,\"range\":\"A1:C11\",\"address\":\"A1:C11\"}\n{\"kind\":\"sheet\",\"id\":\"ws/z23cua\",\"name\":\"QA Flags\",\"index\":19,\"range\":\"A1:B8\",\"address\":\"A1:B8\"}"
+}

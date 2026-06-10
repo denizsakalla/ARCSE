@@ -1,0 +1,130 @@
+1
+00:00:22,200 --> 00:00:27,000
+ARC SE a demandé ce qui pouvait
+survivre.
+
+2
+00:00:27,900 --> 00:00:32,700
+Tout écosystème a besoin
+d'observateurs.
+
+3
+00:00:34,900 --> 00:00:39,700
+Watcher n'était pas seulement un
+concept. Il avait une interface.
+
+4
+00:00:41,900 --> 00:00:46,700
+La performance est devenue mémoire.
+
+5
+00:00:48,900 --> 00:00:53,700
+La collecte est devenue préservation.
+
+6
+00:00:55,900 --> 00:01:00,700
+L'observateur a laissé des preuves
+derrière lui.
+
+7
+00:01:02,900 --> 00:01:07,700
+Toute mémoire a besoin de gouvernance.
+
+8
+00:01:09,900 --> 00:01:14,700
+Coordinator existait comme une vraie
+frontière de commande.
+
+9
+00:01:17,900 --> 00:01:22,700
+Le routage est devenu inspectable.
+
+10
+00:01:24,900 --> 00:01:29,700
+Toute affirmation a besoin d'un corps.
+
+11
+00:01:31,900 --> 00:01:36,700
+Core portait la vérité opérationnelle.
+
+12
+00:01:39,900 --> 00:01:44,700
+L'exécution était visible.
+
+13
+00:01:46,900 --> 00:01:51,700
+La parité l'a rendue comparable.
+
+14
+00:01:53,900 --> 00:01:58,700
+Le chasseur baissier avait une
+identité.
+
+15
+00:02:00,900 --> 00:02:05,700
+Puis l'organisme réel est apparu.
+
+16
+00:02:08,900 --> 00:02:13,700
+Les preuves ont suivi.
+
+17
+00:02:15,900 --> 00:02:20,700
+Le chasseur haussier avait une
+identité.
+
+18
+00:02:22,900 --> 00:02:27,700
+Puis l'organisme réel est apparu.
+
+19
+00:02:30,900 --> 00:02:35,700
+Les preuves ont suivi.
+
+20
+00:02:37,900 --> 00:02:42,700
+Strike est entré comme exécuteur.
+
+21
+00:02:44,900 --> 00:02:49,700
+La surface de preuve était réelle.
+
+22
+00:02:51,900 --> 00:02:56,700
+Micro Harvest est entré comme
+collecteur.
+
+23
+00:02:58,900 --> 00:03:03,700
+Son interface réelle a survécu.
+
+24
+00:03:06,900 --> 00:03:11,700
+Ses preuves ont survécu.
+
+25
+00:03:13,900 --> 00:03:18,700
+Puis la prise de conscience est
+arrivée : cela existait vraiment.
+
+26
+00:03:20,900 --> 00:03:25,700
+Les organismes fonctionnaient comme un
+système.
+
+27
+00:03:27,900 --> 00:03:32,700
+ARC SE. Demandez l'accès à l'Evidence
+Vault.
+
+28
+00:03:36,700 --> 00:03:39,250
+Ce n'est pas la destination.
+
+29
+00:03:39,500 --> 00:03:42,350
+Ce n'est que la première génération.
+
+30
+00:03:42,600 --> 00:03:47,150
+Voilà ce que nous imaginons devenir.

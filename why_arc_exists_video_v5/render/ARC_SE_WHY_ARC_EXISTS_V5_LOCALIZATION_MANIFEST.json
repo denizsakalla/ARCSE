@@ -1,0 +1,78 @@
+{
+  "visualMaster": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_video_only.mp4",
+  "strategy": "Identical V5 visual master with localized native narration and synchronized captions.",
+  "languages": {
+    "en": {
+      "name": "English",
+      "video": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_EN.mp4",
+      "subtitles": {
+        "srt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_EN.srt",
+        "vtt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_EN.vtt"
+      },
+      "voice": "en-US-BrianMultilingualNeural"
+    },
+    "bg": {
+      "name": "Bulgarian",
+      "video": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_BG.mp4",
+      "subtitles": {
+        "srt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_BG.srt",
+        "vtt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_BG.vtt"
+      },
+      "voice": "bg-BG-BorislavNeural"
+    },
+    "tr": {
+      "name": "Turkish",
+      "video": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_TR.mp4",
+      "subtitles": {
+        "srt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_TR.srt",
+        "vtt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_TR.vtt"
+      },
+      "voice": "tr-TR-AhmetNeural"
+    },
+    "de": {
+      "name": "German",
+      "video": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_DE.mp4",
+      "subtitles": {
+        "srt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_DE.srt",
+        "vtt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_DE.vtt"
+      },
+      "voice": "de-DE-ConradNeural"
+    },
+    "ja": {
+      "name": "Japanese",
+      "video": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_JA.mp4",
+      "subtitles": {
+        "srt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_JA.srt",
+        "vtt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_JA.vtt"
+      },
+      "voice": "ja-JP-KeitaNeural"
+    },
+    "fr": {
+      "name": "French",
+      "video": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_FR.mp4",
+      "subtitles": {
+        "srt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_FR.srt",
+        "vtt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_FR.vtt"
+      },
+      "voice": "fr-FR-HenriNeural"
+    },
+    "es": {
+      "name": "Spanish",
+      "video": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ES.mp4",
+      "subtitles": {
+        "srt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ES.srt",
+        "vtt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ES.vtt"
+      },
+      "voice": "es-ES-AlvaroNeural"
+    },
+    "zh": {
+      "name": "Simplified Chinese",
+      "video": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ZH.mp4",
+      "subtitles": {
+        "srt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ZH.srt",
+        "vtt": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ZH.vtt"
+      },
+      "voice": "zh-CN-YunxiNeural"
+    }
+  }
+}

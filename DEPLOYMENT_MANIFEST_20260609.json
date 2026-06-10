@@ -1,0 +1,5171 @@
+{
+  "generatedAt": "2026-06-10T04:58:49.502Z",
+  "releaseRoot": "ARC_SE_PUBLIC_DIGITAL_HEADQUARTERS_RELEASE_20260609",
+  "excludedTopLevel": [
+    "ARC_SE_PUBLIC_DIGITAL_HEADQUARTERS_RELEASE_20260609"
+  ],
+  "counts": {
+    "files": 849,
+    "folders": 44,
+    "bytes": 402579126,
+    "byType": {
+      "image": 398,
+      "pdf": 112,
+      "md": 29,
+      "html": 2,
+      "xlsx": 2,
+      "srt": 9,
+      "css": 1,
+      "javascript": 2,
+      "json": 20,
+      "log": 1,
+      "csv": 15,
+      "mp3": 240,
+      "wav": 1,
+      "video": 9,
+      "vtt": 8
+    }
+  },
+  "folders": [
+    ".",
+    "ARC evidence performance scrnshots",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ecosystem_dossier_output",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/investment_memorandum_output",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/legendary_sessions_output",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/researches",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/strategic_acquisition_output",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/valuation_thesis_output",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets",
+    "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets",
+    "arc_se_overview_assets",
+    "arc_se_website_assets",
+    "arc_se_website_assets/leviathan_archive",
+    "arc_se_website_assets/micro_harvest_evidence",
+    "arc_se_website_assets/profit_evidence",
+    "current_value_report_output",
+    "economic_validation_output",
+    "ecosystem_dossier_output",
+    "investment_memorandum_output",
+    "lang",
+    "legendary_sessions_output",
+    "real_world_comparison_report_output",
+    "real_world_comparison_valuation_output",
+    "researches",
+    "strategic_acquisition_output",
+    "valuation_thesis_output",
+    "valuation_thesis_output/visual_qa",
+    "why_arc_exists_video_v5",
+    "why_arc_exists_video_v5/audio",
+    "why_arc_exists_video_v5/audio/bg",
+    "why_arc_exists_video_v5/audio/de",
+    "why_arc_exists_video_v5/audio/en",
+    "why_arc_exists_video_v5/audio/es",
+    "why_arc_exists_video_v5/audio/fr",
+    "why_arc_exists_video_v5/audio/ja",
+    "why_arc_exists_video_v5/audio/tr",
+    "why_arc_exists_video_v5/audio/zh",
+    "why_arc_exists_video_v5/evidence_plates",
+    "why_arc_exists_video_v5/qa",
+    "why_arc_exists_video_v5/render"
+  ],
+  "files": [
+    {
+      "path": "ARC evidence performance scrnshots/0442210a-4cb5-4d19-9883-5e573b6bfe5a.png",
+      "size": 300218,
+      "sha256": "1e535647790e9c85628f66e2f630562dcd601ff12b72c059bb0fefe87a210b84",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/13c00938-88ed-43c2-9ed3-d6ae92e7ccf5.png",
+      "size": 340175,
+      "sha256": "4a4f86051d23a5bdd5f639c3949681e680206201744ffc3cd8566bcb07a6ec2d",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/25 min comparison stats.png",
+      "size": 317756,
+      "sha256": "0131bb4731820f8b98c4b091447fa3fc972000bf72ab304b658c200c61cf10ca",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/25m comparison performance.png",
+      "size": 344134,
+      "sha256": "dadc574b8f74028d80a98813c64d83620d5eedf300961f9ed9ef8a826d1214b4",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/2ca90b0b-d7ba-44b2-b037-cd70840018db.png",
+      "size": 290255,
+      "sha256": "4bab9cfadb72c338ab0937abec3b57552e68736744d04dc1e62167a1b05e50da",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/314b85bb-52d7-4a88-a5ce-5b332f6c98e7.png",
+      "size": 328706,
+      "sha256": "cc441ef6242cef4d05abce5a4e24442c4b600c9a37bc6257f06ef9a78945c3c2",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/39a2f7a8-e667-4f5a-89d3-0dcb4ad685f9.png",
+      "size": 321043,
+      "sha256": "ccc89ebd2bb9f745e41c59ccb5e8b0322335c7e6fa5081e5241b76bf2422ec5c",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/50a11edb-62ff-4ad0-8248-e13f5c83bf58.png",
+      "size": 366097,
+      "sha256": "bab00794cb4f398ab12c02c02733dbe5c8e63cbc2bb953f98e1962249d41de48",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/6bfae1e0-d245-4aa6-83fd-5c23c17e5b88.png",
+      "size": 30661,
+      "sha256": "76f3c1c2d25521865673c569cf8643de00cd322814b65deb948b2280e646b708",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/765f59ff-3f72-4781-85cf-897f70666f28.png",
+      "size": 306683,
+      "sha256": "e4471429b546af6701d74173aac2955992d17e7f19b0d19cdf583661da20dc9c",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/94c06e2a-584b-4b1c-b486-377d8ed31c10.png",
+      "size": 303941,
+      "sha256": "b646b453e05ffc04f034bbfc496a17e9baa6b069c0a4d966593044d19c569d19",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/99b330c8-ed6e-44f9-9f03-db6d25c1e811.png",
+      "size": 139772,
+      "sha256": "69eb90433ecd65f7a8aa0adaf41a0db6e6c2e146a3fca7611867c5fd114d5a3f",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/d7723934-892b-48ba-a87b-acb20ca87f7a.png",
+      "size": 322972,
+      "sha256": "9bfe94d7e9231db9a63531cb3dc81448e54a5e348bf2713f6b2c408933db0eaa",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/local start.png",
+      "size": 139760,
+      "sha256": "a0340a8315388331d0c5594049317d262e4c3488062b96581f3dc5f2152c4b57",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/mission start.png",
+      "size": 306730,
+      "sha256": "cf09619b9ba8732513748cce2d7d7d4801848d82fe805a9afeac390e019e26b9",
+      "type": "image"
+    },
+    {
+      "path": "ARC evidence performance scrnshots/Pure start stats.png",
+      "size": 269353,
+      "sha256": "7160905b5b623429a55d4c6fc38ad4af19b98affaddebc8ff01c2abd4b767d50",
+      "type": "image"
+    },
+    {
+      "path": "arc_screenshot_contact_sheet.jpg",
+      "size": 403731,
+      "sha256": "47ec3e2beeed4129d70cc27d58b7acbf95887d1537efe02023f82857731e4dab",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_CURRENT_VALUE_REPORT_BG.pdf",
+      "size": 129703,
+      "sha256": "320fd81302ff797ff05f023545ad5ba927418fb47f1d97767861ff01eca8f34e",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_CURRENT_VALUE_REPORT_EN.pdf",
+      "size": 107901,
+      "sha256": "8a9fbdd8f1d8f4caa43991de2c3cc20b0f28843c24c6692b679f4191fc4d1daf",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_CURRENT_VALUE_REPORT_QA_REPORT_BG.pdf",
+      "size": 86512,
+      "sha256": "17ddd3f0bf1b594c1682a48acfafd29e3a85138b157c1ac225c36cf89d1d2289",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_CURRENT_VALUE_REPORT_QA_REPORT_EN.pdf",
+      "size": 75485,
+      "sha256": "220a13ba12a38476459f45dd2a2f1e1b2870690995b2566dbb28f303b92d28e9",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_CURRENT_VALUE_REPORT_QA_REPORT.pdf",
+      "size": 75485,
+      "sha256": "220a13ba12a38476459f45dd2a2f1e1b2870690995b2566dbb28f303b92d28e9",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_CURRENT_VALUE_REPORT_SOURCE_MAP_BG.pdf",
+      "size": 93870,
+      "sha256": "b7ab044cf79eead864b6497b4c481385d2f1b2b586da98dbe2b4ee82391a4535",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_CURRENT_VALUE_REPORT_SOURCE_MAP_EN.pdf",
+      "size": 81068,
+      "sha256": "74c0327888571c086bc0c6134a0ff8a8a5488b5e92398df74fa1d884af2baf2f",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_CURRENT_VALUE_REPORT_SOURCE_MAP.pdf",
+      "size": 81068,
+      "sha256": "74c0327888571c086bc0c6134a0ff8a8a5488b5e92398df74fa1d884af2baf2f",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_CURRENT_VALUE_REPORT.pdf",
+      "size": 107901,
+      "sha256": "8a9fbdd8f1d8f4caa43991de2c3cc20b0f28843c24c6692b679f4191fc4d1daf",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_ECOSYSTEM_DOSSIER_EN.pdf",
+      "size": 2278175,
+      "sha256": "0313e9d204e8cc59c2fedee6d554508da72c9a9df8cc88d5c37c53b47c51ebef",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_EVOLUTION_DOCUMENTARY_2_BG.pdf",
+      "size": 85820,
+      "sha256": "a8a4071aab584036338ab44a1a4c0e57a7d6f5120f35b1c58166669826981477",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_EVOLUTION_DOCUMENTARY_2.pdf",
+      "size": 643870,
+      "sha256": "29dfd57ba83ba501b4b477be66efeae264340fe32467753315b8dc8a20f58921",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_FOUNDER_STORY_1.pdf",
+      "size": 58517,
+      "sha256": "1c45d7b0be976b396faf68904e00465a9810701dbdf07b7701a854afbca25bd2",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_FUTURE_MARKETS_AND_COMMERCIALIZATION_REPORT_BG.pdf",
+      "size": 158739,
+      "sha256": "c9e6bfefae7864c941499e5de7d2937138d18ec386d6861e83fca8d140431956",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_FUTURE_MARKETS_AND_COMMERCIALIZATION_REPORT_EN.pdf",
+      "size": 157642,
+      "sha256": "5826927b98dd435f594904379cb94337e698030114b570b1a34974a750ffee1c",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTMENT_MEMORANDUM_FINAL.pdf",
+      "size": 98353,
+      "sha256": "af0274e83c24d83d57f0529f64c23507fd21711f21d9c63834ca1f8e02be6fb4",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTMENT_MEMORANDUM_QA_REPORT.pdf",
+      "size": 74797,
+      "sha256": "fc21366927bdfce732935006fd89a8da1b4b1c724d15412c535cc432173928e9",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTMENT_OPPORTUNITY_MEMORANDUM_BG.pdf",
+      "size": 184922,
+      "sha256": "19793e4884cd04d708dc24e04d86b3ba9dbe9c115957c8e01e8f46dacbaf495a",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTMENT_OPPORTUNITY_MEMORANDUM_EN.pdf",
+      "size": 189266,
+      "sha256": "26bcb4982c03e740b18f8e8556aa4c8f8297f58b2a2eba998f0277b481fbca43",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTMENT_OPPORTUNITY_MEMORANDUM_QA_REPORT.pdf",
+      "size": 76457,
+      "sha256": "073d93f225d9f19b08eed4d259604341f5ff5f9cd6ef3340fad82f02691d27f1",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTMENT_OPPORTUNITY_MEMORANDUM_SOURCE_MAP.pdf",
+      "size": 86600,
+      "sha256": "b4ceb5411c0fac60d9cdb3ba550f2f8b6205548c35b8a727840f66d7861694b5",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/BUNDLE_MANIFEST.md",
+      "size": 1521,
+      "sha256": "d6d84619c953fd002eaa6b2f6aee54dd2f50a4b66abff12635af94b68a38bbef",
+      "type": "md"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_CURRENT_VALUE_REPORT_BG.pdf",
+      "size": 129703,
+      "sha256": "320fd81302ff797ff05f023545ad5ba927418fb47f1d97767861ff01eca8f34e",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_CURRENT_VALUE_REPORT_EN.pdf",
+      "size": 107901,
+      "sha256": "8a9fbdd8f1d8f4caa43991de2c3cc20b0f28843c24c6692b679f4191fc4d1daf",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_CURRENT_VALUE_REPORT_QA_REPORT_BG.pdf",
+      "size": 86512,
+      "sha256": "17ddd3f0bf1b594c1682a48acfafd29e3a85138b157c1ac225c36cf89d1d2289",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_CURRENT_VALUE_REPORT_QA_REPORT_EN.pdf",
+      "size": 75485,
+      "sha256": "220a13ba12a38476459f45dd2a2f1e1b2870690995b2566dbb28f303b92d28e9",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_CURRENT_VALUE_REPORT_QA_REPORT.pdf",
+      "size": 75485,
+      "sha256": "220a13ba12a38476459f45dd2a2f1e1b2870690995b2566dbb28f303b92d28e9",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_CURRENT_VALUE_REPORT_SOURCE_MAP_BG.pdf",
+      "size": 93870,
+      "sha256": "b7ab044cf79eead864b6497b4c481385d2f1b2b586da98dbe2b4ee82391a4535",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_CURRENT_VALUE_REPORT_SOURCE_MAP_EN.pdf",
+      "size": 81068,
+      "sha256": "74c0327888571c086bc0c6134a0ff8a8a5488b5e92398df74fa1d884af2baf2f",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_CURRENT_VALUE_REPORT_SOURCE_MAP.pdf",
+      "size": 81068,
+      "sha256": "74c0327888571c086bc0c6134a0ff8a8a5488b5e92398df74fa1d884af2baf2f",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_CURRENT_VALUE_REPORT.pdf",
+      "size": 107901,
+      "sha256": "8a9fbdd8f1d8f4caa43991de2c3cc20b0f28843c24c6692b679f4191fc4d1daf",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_ECOSYSTEM_DOSSIER_EN.pdf",
+      "size": 2278175,
+      "sha256": "0313e9d204e8cc59c2fedee6d554508da72c9a9df8cc88d5c37c53b47c51ebef",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_EVOLUTION_DOCUMENTARY_2_BG.pdf",
+      "size": 85820,
+      "sha256": "a8a4071aab584036338ab44a1a4c0e57a7d6f5120f35b1c58166669826981477",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_EVOLUTION_DOCUMENTARY_2.pdf",
+      "size": 643870,
+      "sha256": "29dfd57ba83ba501b4b477be66efeae264340fe32467753315b8dc8a20f58921",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_FOUNDER_STORY_1.pdf",
+      "size": 58517,
+      "sha256": "1c45d7b0be976b396faf68904e00465a9810701dbdf07b7701a854afbca25bd2",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_FUTURE_MARKETS_AND_COMMERCIALIZATION_REPORT_BG.pdf",
+      "size": 158739,
+      "sha256": "c9e6bfefae7864c941499e5de7d2937138d18ec386d6861e83fca8d140431956",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_FUTURE_MARKETS_AND_COMMERCIALIZATION_REPORT_EN.pdf",
+      "size": 157642,
+      "sha256": "5826927b98dd435f594904379cb94337e698030114b570b1a34974a750ffee1c",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_INVESTMENT_MEMORANDUM_FINAL.pdf",
+      "size": 98353,
+      "sha256": "af0274e83c24d83d57f0529f64c23507fd21711f21d9c63834ca1f8e02be6fb4",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_INVESTMENT_MEMORANDUM_QA_REPORT.pdf",
+      "size": 74797,
+      "sha256": "fc21366927bdfce732935006fd89a8da1b4b1c724d15412c535cc432173928e9",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_INVESTMENT_OPPORTUNITY_MEMORANDUM_BG.pdf",
+      "size": 184922,
+      "sha256": "19793e4884cd04d708dc24e04d86b3ba9dbe9c115957c8e01e8f46dacbaf495a",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_INVESTMENT_OPPORTUNITY_MEMORANDUM_EN.pdf",
+      "size": 189266,
+      "sha256": "26bcb4982c03e740b18f8e8556aa4c8f8297f58b2a2eba998f0277b481fbca43",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_INVESTMENT_OPPORTUNITY_MEMORANDUM_QA_REPORT.pdf",
+      "size": 76457,
+      "sha256": "073d93f225d9f19b08eed4d259604341f5ff5f9cd6ef3340fad82f02691d27f1",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_INVESTMENT_OPPORTUNITY_MEMORANDUM_SOURCE_MAP.pdf",
+      "size": 86600,
+      "sha256": "b4ceb5411c0fac60d9cdb3ba550f2f8b6205548c35b8a727840f66d7861694b5",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_MASTER_BOOK_DENSITY_REPORT.pdf",
+      "size": 5596,
+      "sha256": "451753c6b8174274b64c371ab5f0a70109e5a2ecc93ac7903880769fc348c19a",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_MASTER_BOOK_FINAL_QA_REPORT.pdf",
+      "size": 4825,
+      "sha256": "97813bb27728513426491e2d7bf65dfba09f86a7b10595b44344037217387612",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_MASTER_BOOK_FINAL.pdf",
+      "size": 13686630,
+      "sha256": "4bbce86cc6cba2f41fdb8faa189cb2157acfacdc4297bd43c5d089415bcaa313",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_MASTER_BOOK_QA_REPORT.pdf",
+      "size": 4685,
+      "sha256": "6879832753cb8b79441db4c35fc97834910abc9306e7fc6d518c5e17b8fea03a",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_MASTER_BOOK_SOURCE_MAP.pdf",
+      "size": 5007,
+      "sha256": "8005373e836b3f59d340e21866ba88b60eb71b0124b78c3e1372ef8b28ed841d",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_MASTER_BOOK.pdf",
+      "size": 11914129,
+      "sha256": "034c8bc2a5073f0486ac872a0e003342dfa6ef698acc8e2fa9187bbf2770fd00",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_MAY15_RESURRECTION_3_BG.pdf",
+      "size": 87564,
+      "sha256": "b19d68616b39662edfa557f64b4308d788c1b8c88bebf6bc533330d870091796",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_MAY15_RESURRECTION_3.pdf",
+      "size": 5544026,
+      "sha256": "3951680c2e2a1e6c714ae04085daa57ca5fcc2eaeca45916e1964318a149937f",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_QA_REPORT.pdf",
+      "size": 76167,
+      "sha256": "2008d077ac49a393ad220f7f39b5f712915fde93e60d5cdb1453b2bd54e46c46",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_SOURCE_MAP.pdf",
+      "size": 83844,
+      "sha256": "1007b9c0554eb88d6e27a5dc6123c09558af64862fc6af15e5e569ec538bee5c",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT.pdf",
+      "size": 160076,
+      "sha256": "e55b4ca5aa1b94770feea6334c6909a9fb5ec423fff3895e89bf3ec369329f59",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_REAL_WORLD_COMPARISON_QA_REPORT.pdf",
+      "size": 75151,
+      "sha256": "ad1306f7c694449bb5d8084452052a4704c50400694203c7336b5fed7e0da742",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_REAL_WORLD_COMPARISON_REPORT_BG.pdf",
+      "size": 165241,
+      "sha256": "c5cdbc0f7459323ca009b32c57903b650d9d08dc844c468ed9dd13f53923e475",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_REAL_WORLD_COMPARISON_REPORT_EN.pdf",
+      "size": 135935,
+      "sha256": "7c4de675300e8d68195750f38030c4d768193f8a228f67710f0d88eaba6d8462",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_REAL_WORLD_COMPARISON_SOURCE_MAP.pdf",
+      "size": 81097,
+      "sha256": "b04dcd6f365614a3ed1e1254b35c5d299043cff3e9e955b1df0e39bd35c1317d",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_STRATEGIC_ACQUISITION_MARKET_POSITION_THESIS_EN.pdf",
+      "size": 297161,
+      "sha256": "fd62a7926d7cfd4194ceb371555dc75ed37bcf496076713d1984c44166cff7ee",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_TRANSFERABLE_OPERATIONAL_INTELLIGENCE_REPORT.pdf",
+      "size": 92366,
+      "sha256": "3f707e4cd46c40436c33536e8c55489a47245b1657bb3841458add12965ced6a",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ARC_SE_VALUATION_THESIS_EN_HARDENED.pdf",
+      "size": 866855,
+      "sha256": "830d87c9081baa228db62dcdb779ec20f6a1c80d1de5311dcd312f4bd3a9d57e",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/ecosystem_dossier_output/ARC_SE_ECOSYSTEM_DOSSIER_EN.pdf",
+      "size": 2278175,
+      "sha256": "0313e9d204e8cc59c2fedee6d554508da72c9a9df8cc88d5c37c53b47c51ebef",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/investment_memorandum_output/ARC_SE_INVESTMENT_MEMORANDUM_FINAL.pdf",
+      "size": 98353,
+      "sha256": "af0274e83c24d83d57f0529f64c23507fd21711f21d9c63834ca1f8e02be6fb4",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/investment_memorandum_output/ARC_SE_INVESTMENT_MEMORANDUM_QA_REPORT.pdf",
+      "size": 74797,
+      "sha256": "fc21366927bdfce732935006fd89a8da1b4b1c724d15412c535cc432173928e9",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/legendary_sessions_output/ARC_SE_LEGENDARY_SESSIONS_HALL_OF_LEGENDS_BG.pdf",
+      "size": 2148179,
+      "sha256": "4ea29c7de9fa453629e09dc33e2a5cdbd1dec79b1e6b796373fa84bc628a5415",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/legendary_sessions_output/ARC_SE_LEGENDARY_SESSIONS_HALL_OF_LEGENDS_EN.pdf",
+      "size": 2101739,
+      "sha256": "92895b056d07886750ef4a6833384fef105d6eedac6dd735eaf699bad2baa04b",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/legendary_sessions_output/ARC_SE_LEGENDARY_SESSIONS_HALL_OF_LEGENDS_TR.pdf",
+      "size": 2108255,
+      "sha256": "ce8e1110ff5dc5a154baf3831de8fbe0527630ab4a3c668ce02a0b11ed101482",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/researches/ARC_SE_APPENDIX_A_EVIDENCE_BOOK.pdf",
+      "size": 1696550,
+      "sha256": "5efd556bfaf8477da3fac55bbc15f4b7b5cc186804c1e9e4ec3cb31f10f07999",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/researches/ARC_SE_VALUATION_AND_MARKET_POSITION_REPORT.pdf",
+      "size": 28000,
+      "sha256": "05d984a295c1fd513716cb0db751fcc0c02062c0a02c68c51df58039f8472d42",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/researches/ARCSE_FULL_ECOSYSTEM_VALUATION_REPORT.pdf",
+      "size": 85291,
+      "sha256": "208bdf327b9f0e3c0c2be0e3112570ebb75c46f27963d7bea3a3941615c26903",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/researches/RAPIDQUANT_ANCESTOR_REPORT.pdf",
+      "size": 619238,
+      "sha256": "7de9a0644c71b69f1b5940ef27e6e12475f1a6200c3e044a4fa07e64615ee061",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_MARKET_POSITION_THESIS_EN.pdf",
+      "size": 297161,
+      "sha256": "fd62a7926d7cfd4194ceb371555dc75ed37bcf496076713d1984c44166cff7ee",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_EN_HARDENED_CHANGELOG.pdf",
+      "size": 75150,
+      "sha256": "57c5fa6414700d76eb335a958e9935df3867faff4dcce73beb1888adb4acb31c",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_EN_HARDENED_QA_REPORT.pdf",
+      "size": 74857,
+      "sha256": "41e32ac548bd2bd6045ab0ea3ae71326cccb0a107e46381378afb4d206716432",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_EN_HARDENED_SOURCE_MAP.pdf",
+      "size": 78508,
+      "sha256": "4fd49494cae83eff5608820fc30cd47930c544dc989bdb79b6ac6a1357f85cf0",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_EN_HARDENED.pdf",
+      "size": 357483,
+      "sha256": "af5c8171c0547f2661c08407e16e4dc42ba4cf04919a8dcb0ecb11f515000bb6",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/valuation_thesis_output/ARC_SE_VALUATION_THESIS_EN_HARDENED.pdf",
+      "size": 866855,
+      "sha256": "830d87c9081baa228db62dcdb779ec20f6a1c80d1de5311dcd312f4bd3a9d57e",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/pdfs/valuation_thesis_output/ARC_SE_VALUATION_THESIS_EN.pdf",
+      "size": 747329,
+      "sha256": "eec782352069ed6194013753189786fb6967942e0d864d80fe4f37af2324fb7f",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/0442210a-4cb5-4d19-9883-5e573b6bfe5a.png",
+      "size": 300218,
+      "sha256": "1e535647790e9c85628f66e2f630562dcd601ff12b72c059bb0fefe87a210b84",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/13c00938-88ed-43c2-9ed3-d6ae92e7ccf5.png",
+      "size": 340175,
+      "sha256": "4a4f86051d23a5bdd5f639c3949681e680206201744ffc3cd8566bcb07a6ec2d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/25 min comparison stats.png",
+      "size": 317756,
+      "sha256": "0131bb4731820f8b98c4b091447fa3fc972000bf72ab304b658c200c61cf10ca",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/25m comparison performance.png",
+      "size": 344134,
+      "sha256": "dadc574b8f74028d80a98813c64d83620d5eedf300961f9ed9ef8a826d1214b4",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/2ca90b0b-d7ba-44b2-b037-cd70840018db.png",
+      "size": 290255,
+      "sha256": "4bab9cfadb72c338ab0937abec3b57552e68736744d04dc1e62167a1b05e50da",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/314b85bb-52d7-4a88-a5ce-5b332f6c98e7.png",
+      "size": 328706,
+      "sha256": "cc441ef6242cef4d05abce5a4e24442c4b600c9a37bc6257f06ef9a78945c3c2",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/39a2f7a8-e667-4f5a-89d3-0dcb4ad685f9.png",
+      "size": 321043,
+      "sha256": "ccc89ebd2bb9f745e41c59ccb5e8b0322335c7e6fa5081e5241b76bf2422ec5c",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/50a11edb-62ff-4ad0-8248-e13f5c83bf58.png",
+      "size": 366097,
+      "sha256": "bab00794cb4f398ab12c02c02733dbe5c8e63cbc2bb953f98e1962249d41de48",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/6bfae1e0-d245-4aa6-83fd-5c23c17e5b88.png",
+      "size": 30661,
+      "sha256": "76f3c1c2d25521865673c569cf8643de00cd322814b65deb948b2280e646b708",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/765f59ff-3f72-4781-85cf-897f70666f28.png",
+      "size": 306683,
+      "sha256": "e4471429b546af6701d74173aac2955992d17e7f19b0d19cdf583661da20dc9c",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/94c06e2a-584b-4b1c-b486-377d8ed31c10.png",
+      "size": 303941,
+      "sha256": "b646b453e05ffc04f034bbfc496a17e9baa6b069c0a4d966593044d19c569d19",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/99b330c8-ed6e-44f9-9f03-db6d25c1e811.png",
+      "size": 139772,
+      "sha256": "69eb90433ecd65f7a8aa0adaf41a0db6e6c2e146a3fca7611867c5fd114d5a3f",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/d7723934-892b-48ba-a87b-acb20ca87f7a.png",
+      "size": 322972,
+      "sha256": "9bfe94d7e9231db9a63531cb3dc81448e54a5e348bf2713f6b2c408933db0eaa",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/local start.png",
+      "size": 139760,
+      "sha256": "a0340a8315388331d0c5594049317d262e4c3488062b96581f3dc5f2152c4b57",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/mission start.png",
+      "size": 306730,
+      "sha256": "cf09619b9ba8732513748cce2d7d7d4801848d82fe805a9afeac390e019e26b9",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/ARC evidence performance scrnshots/Pure start stats.png",
+      "size": 269353,
+      "sha256": "7160905b5b623429a55d4c6fc38ad4af19b98affaddebc8ff01c2abd4b767d50",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_screenshot_contact_sheet.jpg",
+      "size": 403731,
+      "sha256": "47ec3e2beeed4129d70cc27d58b7acbf95887d1537efe02023f82857731e4dab",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p001_01.jpg",
+      "size": 27804,
+      "sha256": "77e41d268b60b114a3c446a4b339d7765c5374faddb5c20cd8b4984a86cb83e4",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p005_01.jpg",
+      "size": 24990,
+      "sha256": "b027d92ce6ec3e5c8039dd13938398d4e1fa72910f8aa48142dfc6e48cbc7701",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p006_01.jpg",
+      "size": 24400,
+      "sha256": "d64ff1079b0fdc7907266f3b02cbd1fdc28b6c9dbddbc88f1ced25d8572751c3",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p019_01.jpg",
+      "size": 18224,
+      "sha256": "fc46f65667a170c1c76ccf4a5f12dc8bd975fd31a4bcbb558b6757fc58d35c4f",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p019_02.jpg",
+      "size": 25805,
+      "sha256": "b0523dcf5d75c6e295e91511364523537fb3d30c71ab5281fce6021a6fb79282",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p026_01.jpg",
+      "size": 21418,
+      "sha256": "48e74f4275ebd39c4f3fcd013d326e476cb316abcdb95d220b370846782a328d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p028_01.jpg",
+      "size": 21740,
+      "sha256": "a1a1bf294e1fdc48103c3f77da2c15beea5a2225e9cc6e10b021f2befab52b9f",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p031_01.jpg",
+      "size": 29892,
+      "sha256": "28bcdca724bbbcef06c96f2033041549d3eabbe2fd6ba1d772e90343c9878b9b",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p040_01.jpg",
+      "size": 25429,
+      "sha256": "3d93242d07351510c6a73eb36d3598e98c5a8bada21069b3941705c6d8c9f8f8",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p040_02.jpg",
+      "size": 25665,
+      "sha256": "5b08d59ef5204d4cafab861a1497e946d2b0b60d239c8ab1c5ead4b70e70b32d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p045_01.jpg",
+      "size": 21084,
+      "sha256": "2364e35b9d6b262ec2c25b0c5c4d648a397730c06dbe5e1e000b0852b750f5a1",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/evolution_p051_01.jpg",
+      "size": 21418,
+      "sha256": "48e74f4275ebd39c4f3fcd013d326e476cb316abcdb95d220b370846782a328d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p009_01.jpg",
+      "size": 45036,
+      "sha256": "05a2aacfb4124c8d35ce709fa3f3fa31655cd1564618900b0e02b35d9bb1ef98",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p014_01.jpg",
+      "size": 103217,
+      "sha256": "0c2a7ec440ed906418a1e7fcd27d063df885f960943cd0ec6a3d99acea833bce",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p016_01.jpg",
+      "size": 66114,
+      "sha256": "2c6870febe29a3eb2c1c31cc316f9728417f681e72a87f31f530c24e0e760c69",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p017_01.jpg",
+      "size": 59854,
+      "sha256": "d2a5433b23218d68f090494d63834bb0322d54957ed0ee563d374fc785480d9e",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p018_01.jpg",
+      "size": 65508,
+      "sha256": "1cbde4b72a326a4f7377f2c3992b8bd185f5d81fece38d0b88c26ccbf952e016",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p022_01.jpg",
+      "size": 53596,
+      "sha256": "1cb9b911c8d9f4c9d3bb716bd9366860338e7fec43f4acb7ec39aaf87829c37d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p024_01.jpg",
+      "size": 56744,
+      "sha256": "93a3c35612d0f0d9d563f2309cca0d478a55e8a5f0454ba7e3afbdb6b6810dec",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p030_01.jpg",
+      "size": 53453,
+      "sha256": "02d0661ab19691967c1c12dbaf97d0c6ad673d4d0a588a720a286e7d2d72dfec",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p032_01.jpg",
+      "size": 53771,
+      "sha256": "7b67386e7a075276149545916c407ec9bfd1b55faa770a03b27b62fb5bcedef5",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p035_01.jpg",
+      "size": 56505,
+      "sha256": "24619bf9bd9d166c0a095a15f16f7cddd8828e71c93c82475a490006b52c4ab2",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p038_01.jpg",
+      "size": 56970,
+      "sha256": "2359241a6b248b4f7435dfaee8e74941dcc9373634effc06afa8bd3c9219a5ec",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p039_01.jpg",
+      "size": 55600,
+      "sha256": "439f13d7f9092b6926cadf563a1ed6f8d1c02da0e877cf52ab3a781d08b9fa5b",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p041_01.jpg",
+      "size": 58260,
+      "sha256": "67ff60bf6b908100eb68a73fe52516a8dcd9cb50cfd69de2ecf96a5f99310028",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p042_01.jpg",
+      "size": 53986,
+      "sha256": "df1cfb7db4a29aa177913f2a7b04871cdaa6d4d58121453d7eb619722354b0bb",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p046_01.jpg",
+      "size": 67268,
+      "sha256": "62311ed1ff2f4274b258cbc3ff81fc9f4067f1586a36818c3978b294b24e4cad",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p047_01.jpg",
+      "size": 57817,
+      "sha256": "648f730bd9df84488eba915b755e1c533c0d926dc7ccb625caa3d436bec11561",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p071_01.jpg",
+      "size": 56744,
+      "sha256": "93a3c35612d0f0d9d563f2309cca0d478a55e8a5f0454ba7e3afbdb6b6810dec",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p071_02.jpg",
+      "size": 53596,
+      "sha256": "1cb9b911c8d9f4c9d3bb716bd9366860338e7fec43f4acb7ec39aaf87829c37d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p071_03.jpg",
+      "size": 45036,
+      "sha256": "05a2aacfb4124c8d35ce709fa3f3fa31655cd1564618900b0e02b35d9bb1ef98",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p071_04.jpg",
+      "size": 65508,
+      "sha256": "1cbde4b72a326a4f7377f2c3992b8bd185f5d81fece38d0b88c26ccbf952e016",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p071_05.jpg",
+      "size": 53771,
+      "sha256": "7b67386e7a075276149545916c407ec9bfd1b55faa770a03b27b62fb5bcedef5",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p071_06.jpg",
+      "size": 66114,
+      "sha256": "2c6870febe29a3eb2c1c31cc316f9728417f681e72a87f31f530c24e0e760c69",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p071_07.jpg",
+      "size": 103217,
+      "sha256": "0c2a7ec440ed906418a1e7fcd27d063df885f960943cd0ec6a3d99acea833bce",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p071_08.jpg",
+      "size": 53453,
+      "sha256": "02d0661ab19691967c1c12dbaf97d0c6ad673d4d0a588a720a286e7d2d72dfec",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p072_01.jpg",
+      "size": 58260,
+      "sha256": "67ff60bf6b908100eb68a73fe52516a8dcd9cb50cfd69de2ecf96a5f99310028",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p072_02.jpg",
+      "size": 67268,
+      "sha256": "62311ed1ff2f4274b258cbc3ff81fc9f4067f1586a36818c3978b294b24e4cad",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p072_03.jpg",
+      "size": 55600,
+      "sha256": "439f13d7f9092b6926cadf563a1ed6f8d1c02da0e877cf52ab3a781d08b9fa5b",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p072_04.jpg",
+      "size": 56970,
+      "sha256": "2359241a6b248b4f7435dfaee8e74941dcc9373634effc06afa8bd3c9219a5ec",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p072_05.jpg",
+      "size": 53986,
+      "sha256": "df1cfb7db4a29aa177913f2a7b04871cdaa6d4d58121453d7eb619722354b0bb",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p072_06.jpg",
+      "size": 57817,
+      "sha256": "648f730bd9df84488eba915b755e1c533c0d926dc7ccb625caa3d436bec11561",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p072_07.jpg",
+      "size": 59854,
+      "sha256": "d2a5433b23218d68f090494d63834bb0322d54957ed0ee563d374fc785480d9e",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_overview_assets/may15_p072_08.jpg",
+      "size": 56505,
+      "sha256": "24619bf9bd9d166c0a095a15f16f7cddd8828e71c93c82475a490006b52c4ab2",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-live-dashboard.png",
+      "size": 115794,
+      "sha256": "e7082e36b9d1564adc1d9c1da1e4aac36818c674999f650f6ac77eec096136a3",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-tab-basis-curve.png",
+      "size": 226154,
+      "sha256": "7447318b97aafa3aad3c2015a3961ff1c98020079982f982d6c7df918d903b45",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-tab-governor.png",
+      "size": 301272,
+      "sha256": "c212b907e94efb4cb9a7ea58da52c9b898ea8aace5f42698169a14d9640e13eb",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-tab-live-execution.png",
+      "size": 215174,
+      "sha256": "e55fc58f7318266818adc987f135eb2382858bfca7f7a23e245e9c6bf68ab062",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-tab-live-trades.png",
+      "size": 166342,
+      "sha256": "2ea58e6658a2a79a669528c2a69c73392a3bde0f55856b39d65d460dbf829e2d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-tab-market-scope.png",
+      "size": 176782,
+      "sha256": "5fc7b0207643ce8eaa77eeb6e883797a7a27b60eef383ff130e29d2ad67254dc",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-tab-overview.png",
+      "size": 237481,
+      "sha256": "7bd0a0fb75c5227d79762d242f8d6f8157acfdf246f7c2f210562514905d8b0f",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-tab-paper-live-parity.png",
+      "size": 197804,
+      "sha256": "27952f018b1a587a891750c40fab14ce867488a865d7aa19141e48b27c3c0e8a",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-tab-settlement-redeem.png",
+      "size": 145387,
+      "sha256": "dc43af4bd9aef916dbb9bda4122417519a399b963298307e0be0cc221dd9547f",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/3004-tab-stream-data.png",
+      "size": 233703,
+      "sha256": "1430f33c8deb26f195c9edc6abd1d5797bffca111da5ac0e2a9227040d31f0ef",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/capital-scenarios.png",
+      "size": 52481,
+      "sha256": "6ee602280411c7a25fb1fcdd6d5ab162d4e576d70909ecef787c5c8426dd218a",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/evolution-coordinator-page45.jpg",
+      "size": 21084,
+      "sha256": "2364e35b9d6b262ec2c25b0c5c4d648a397730c06dbe5e1e000b0852b750f5a1",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/evolution-ecosystem-page26.jpg",
+      "size": 21418,
+      "sha256": "48e74f4275ebd39c4f3fcd013d326e476cb316abcdb95d220b370846782a328d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/evolution-evidence-register-page51.jpg",
+      "size": 21418,
+      "sha256": "48e74f4275ebd39c4f3fcd013d326e476cb316abcdb95d220b370846782a328d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/evolution-watcher-page40-a.jpg",
+      "size": 25429,
+      "sha256": "3d93242d07351510c6a73eb36d3598e98c5a8bada21069b3941705c6d8c9f8f8",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/evolution-watcher-page40-b.jpg",
+      "size": 25665,
+      "sha256": "5b08d59ef5204d4cafab861a1497e946d2b0b60d239c8ab1c5ead4b70e70b32d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/frontpage-concept.png",
+      "size": 1440586,
+      "sha256": "8273c809a5e96c7e342a488b21cf5ac0d23d6f29931ccd667b33b95bfaf2aa90",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/historical-runtime-contact-sheet.jpg",
+      "size": 403731,
+      "sha256": "47ec3e2beeed4129d70cc27d58b7acbf95887d1537efe02023f82857731e4dab",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/investor-executive-dashboard.png",
+      "size": 98153,
+      "sha256": "8eef89f20065a41d75267529cb7e4b8b194b20c4dc085e951f1c9598d53f0679",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/may15-25-minute-comparison-page46.jpg",
+      "size": 67268,
+      "sha256": "62311ed1ff2f4274b258cbc3ff81fc9f4067f1586a36818c3978b294b24e4cad",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/may15-fix-rerun-page14.jpg",
+      "size": 103217,
+      "sha256": "0c2a7ec440ed906418a1e7fcd27d063df885f960943cd0ec6a3d99acea833bce",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/may15-resurrection-shape-page39.jpg",
+      "size": 55600,
+      "sha256": "439f13d7f9092b6926cadf563a1ed6f8d1c02da0e877cf52ab3a781d08b9fa5b",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/organism-3001.png",
+      "size": 86382,
+      "sha256": "aec2474c37502843aa405329cf9d8a6d4eba1f46549e3350b701b5c082941271",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/organism-3002.png",
+      "size": 87555,
+      "sha256": "7e485793764c562bf247464b09118a283958be42bb9d9aca709e6e2f2dafe505",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/organism-3004.png",
+      "size": 95852,
+      "sha256": "d70832e75c4f6cb3d40f9906e5f9aa67dab3359384abb73342a63dc314bfc01e",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/organism-3005.png",
+      "size": 91665,
+      "sha256": "0024bcd4f96911e1c861fd87cb6276c3c21bfb5ca13255fabeb90cafd001d19a",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/organism-3006.png",
+      "size": 79825,
+      "sha256": "d4411e3709d2b6a92f86940545365160d7fb4d34ef134bd3a2e44519040f3ad6",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/organism-3007.png",
+      "size": 90958,
+      "sha256": "98805ee32194f63c8364136f6463d6eeb70d66b4eb452421bc83d0e7bfccee32",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/organism-3008.png",
+      "size": 89765,
+      "sha256": "a122dc4f4709d199bf57d70ca00cda16b8e468846d737d814dbc3fabcb22c54c",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/organism-comparison.png",
+      "size": 45707,
+      "sha256": "f8914fa4324da71b59cb017e4687b82c39e0edf07cb1e07a75852b625dc8ef97",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/parity-quality-matrix.png",
+      "size": 86395,
+      "sha256": "a7ad2c72597128fd34a7aa770c281c962d72a82df677cdb6d075cb9914b012b1",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-basis-curve-may15-benchmark.png",
+      "size": 67244,
+      "sha256": "16eba2bfd1fde47de98d6b21dd0e7026538e4baaed1bc845f57f8653054c8cae",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-evidence-map.png",
+      "size": 85552,
+      "sha256": "8f97e933c7ecf8dcbf564aa66a76bddc2ec43dabaacd43324c9990ff4c9c6a41",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-evolution-timeline.png",
+      "size": 78289,
+      "sha256": "8d4d4be32a4b89de9613456caa0c93a2765a7bc1a6c49317510b876c6eddd1e1",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-live-causal-reality-check.png",
+      "size": 90981,
+      "sha256": "4d045e1c5d87b14d10eca2ea02af7dd640e0e02a9c3564accda423e67ae30e2e",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-may9-benchmark-battlefield.png",
+      "size": 118025,
+      "sha256": "b508a589bb306148f9f9816b0f0851a08c1244fbb2987f85ba5c52f0336f5db2",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-organism-comparison-3004-3008.png",
+      "size": 119301,
+      "sha256": "ea3dd78d0f96d0acd0e269d12f64ae564eca10ebbd6dd2f6d856504968fffd1c",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-paper-to-live-realism.png",
+      "size": 78700,
+      "sha256": "0eaabf8aeee3b3e681ee47f5745f3c9f29b65fadf532f438b1687e0a4ddcc542",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-top-10-session-net-chart.png",
+      "size": 127555,
+      "sha256": "f5d9435ce27bb55e615a11c0f9d36f14ced9273bb4424012450203aad2ce7c12",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-valuation-defense-framework.png",
+      "size": 83774,
+      "sha256": "3c349e735e9edbc2659f8235e22b04ccd386e17e0b2718109c8bb36d3635fc49",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/plate-watcher-intelligence-era.png",
+      "size": 82281,
+      "sha256": "8befbb0ec4a8d2c9a19b082dadd53f5078b5abf1eb6c2a2dd9cea535e7df9b1c",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-3004-anchor.png",
+      "size": 536569,
+      "sha256": "380d80ac5969df4c79e97db933539001ad85f8fe334caecafde2bf1a076d68db",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-3004.png",
+      "size": 383085,
+      "sha256": "0a86f52ba935ee041f69301da9e5b0f2ff8d98ebf8a82e50e901a89df97b0ea7",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-desktop.png",
+      "size": 688920,
+      "sha256": "2accd34663ef13359f450b6c5496de095b36248186200b96207c44c4b597e9e6",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-lightbox-polished.png",
+      "size": 293729,
+      "sha256": "ec56397ac25f50d14c8cacd87e90c6fd53f68dcfdeee248bc9d00f1b02b90034",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-lightbox.png",
+      "size": 293672,
+      "sha256": "ae7c5e6496e8bc7d0117483573f50def3f3b1cc42b772d57bb271fa755356341",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-mobile-3004-anchor.png",
+      "size": 166870,
+      "sha256": "6318db2d53da11c44f3d736655237f096e24de93309d152d7f5f451a49a583bc",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-mobile-watcher-anchor.png",
+      "size": 130964,
+      "sha256": "c8d0e1a8272ec8d27129dbc1e755dab26fc4a67c1d309a3e33a67d34a7252699",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-mobile.png",
+      "size": 209200,
+      "sha256": "9df57b688fc7d1a6ef69bbb46d5af04be00e2abf4f4d3fa60a4e73dcd2512920",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-watcher-anchor.png",
+      "size": 494104,
+      "sha256": "65c1a1d293c1b82c5483ff7e3bae56333b489e8d82ca659343bd0df7d9b052bd",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-addon-watcher-atlas.png",
+      "size": 443171,
+      "sha256": "448d878e7c167512c766465280f2c750adcffbd69631959112277517e1064944",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-coordinator.png",
+      "size": 576063,
+      "sha256": "e9590cb93065e06362516865662ca5f63d1e26a0e0e0690bccc2ab2873b12c01",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-desktop.png",
+      "size": 735792,
+      "sha256": "34d5c46d4b1f82dd3b361e92319a428910da5ab5941c0dc7301709f7d06dc24f",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-ecosystem.png",
+      "size": 809510,
+      "sha256": "8e4214ad723e03b6c29ec14969184fba632276fbb992aedc514420cbbed87892",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-may15.png",
+      "size": 589737,
+      "sha256": "94f531b4e1dea1b79186c4e1a3cf1570bb5eaf333f95814f309959dde4dfa5ff",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-mobile.png",
+      "size": 302961,
+      "sha256": "57c7b5e9d482bf1256862c75e36b62b094adc011d1f86b58144d1959426015c6",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-vault.png",
+      "size": 508120,
+      "sha256": "7994b11811ce84495a065a16b947dcaf310bfe6b6ac709b3fc7dd9feb2b5465d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/qa-watcher.png",
+      "size": 508500,
+      "sha256": "23987e7c8279604ea1afbaca2e05d8750d54c680afe78f1d4569c0987e3285db",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/real-3004-api-panel.png",
+      "size": 100479,
+      "sha256": "6942943292d163e911ad14750c7fc59e0857acf1540cd64e87c6a082162cf740",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/resurrection-dashboard.png",
+      "size": 86323,
+      "sha256": "fd8170bc289fc18e8cadb33202c310183fd01c932c6ca5c824e86ef179e07ccd",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/runtime-3001-analytics-live.png",
+      "size": 97862,
+      "sha256": "2c203d81148e1d9f669b5d66116a63c879ff485f666b662194b440c0ef0ceed9",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/runtime-3001-analytics-local.png",
+      "size": 134508,
+      "sha256": "15185814305433becf15091799aba0beb6a68ffa3be2a50a59f19a2686d7d0d0",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/runtime-3001-dashboard-vps.png",
+      "size": 91522,
+      "sha256": "dfbf8c196543a08314cea8427a885da13c239aacc5d657606204408fb2583c38",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/runtime-3001-performance-refresh.png",
+      "size": 71135,
+      "sha256": "2a7d8b11bfb31689e67c20b947410702574f3fc94a5b5b4278303929e39c164d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/runtime-3002-dashboard.png",
+      "size": 147765,
+      "sha256": "7056b4b2556630979821cd6d899c49eaf1423426419bd3615b9d4c00294ffc63",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/runtime-3006-watcher-dashboard.png",
+      "size": 115323,
+      "sha256": "b8452ad9b2e450e5ed14456b50bec2c762f8de5dc2946afff01ee5b95bab80e5",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/runtime-3008-competitive-benchmark-panel.png",
+      "size": 65844,
+      "sha256": "7c225325fb663ee3a73e6219780245600d8745ee8c8d4d375098a4ea45157e04",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/runtime-3008-competitive-benchmark-proof.png",
+      "size": 1337062,
+      "sha256": "8c56d965ad8803430ac8a61bc18b1d64baeff06b1fad70fbf36a251ea97422d2",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/runtime-3008-dashboard.png",
+      "size": 303837,
+      "sha256": "b26143dffd87d4c7d9f5f3c575a05b67465f049e1ff5c520560d1e98904a4a0d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/top-sessions-dashboard.png",
+      "size": 104264,
+      "sha256": "e0ce0841a2f751955d9b661e9ecce4dd3c96b3acf24c520e915f8a3d6e13fcd9",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/truth-crisis-dashboard.png",
+      "size": 86455,
+      "sha256": "e0203d2e424cc7aed84f1ebec1c4f48921ccef98c57849dfcf42bd9cbe28b984",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/valuation-defense-dashboard.png",
+      "size": 89757,
+      "sha256": "36b879b6f250998d3d9b9fbd4f85d57b5e3517ad280b33f043fba2ecf33550e0",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-birth-dashboard.png",
+      "size": 80918,
+      "sha256": "a0fb80262d3b3893e7461b6f3f8cf69568479dd69a23fc09f0f053bdd592ef0a",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-analytics-build.png",
+      "size": 97862,
+      "sha256": "2c203d81148e1d9f669b5d66116a63c879ff485f666b662194b440c0ef0ceed9",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-battlefield-mobile-full.png",
+      "size": 2227063,
+      "sha256": "0c01220ba88fe1c844de89c8a57d54bd27c7ae13d5d4ad5b3452d95a221058e1",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-battlefield-mobile-top.png",
+      "size": 79260,
+      "sha256": "5acf72f7a47672f1ff9a2ba075246815c2502a246c031590d807ecb33f58dfbc",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-collector.png",
+      "size": 129730,
+      "sha256": "4c3876ac8b04623abced4fd7445a031d1a2580772d392ac6bd86dd68ec51fa19",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-competitive-benchmark.png",
+      "size": 143558,
+      "sha256": "59b247f8c760e6493b09c43b19cb79c763b593f1f52b262848fc1ef10764e591",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-coordinator-performance.png",
+      "size": 267656,
+      "sha256": "8c26f858f23385f8e010c9401879907a475e07418a3aeb96a0ccb3b8420e9fa0",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-equilibrium-lab.png",
+      "size": 272548,
+      "sha256": "57f5bdca5373a3da7cd396f0a458b56640943c84e122c1252b92a7397da8b17e",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-live-command-center.png",
+      "size": 91555,
+      "sha256": "16060a4aba86be079dc990637cd14dc46a128fe5adda6c0f9f64d7332fd1a324",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-paper-command-center.png",
+      "size": 91518,
+      "sha256": "e4aea1f5d58d3b1aaba72321be4c23c0d4813f02b4e7a87c3149ee48613072b5",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-performance-stats.png",
+      "size": 69167,
+      "sha256": "2dbd4dce0e1f49bd85cc3e7469637c14099943454398c3fe9e96a602930d4306",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-promotion-blockers.png",
+      "size": 90863,
+      "sha256": "45a325d3ef515b10f243e7386d53d0874d9505e60dc3195c8333ace94b2ae53d",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_INVESTOR_EVIDENCE_BUNDLE/screenshots_and_visuals/arc_se_website_assets/watcher-tab-risk-mobile.png",
+      "size": 41629,
+      "sha256": "a5f901e74b55103ba07d8666c043a05888c35461060133daae1ef291a1479dc7",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_MASTER_BOOK_DENSITY_REPORT.pdf",
+      "size": 5596,
+      "sha256": "451753c6b8174274b64c371ab5f0a70109e5a2ecc93ac7903880769fc348c19a",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_MASTER_BOOK_FINAL_QA_REPORT.pdf",
+      "size": 4825,
+      "sha256": "97813bb27728513426491e2d7bf65dfba09f86a7b10595b44344037217387612",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_MASTER_BOOK_FINAL.pdf",
+      "size": 13686630,
+      "sha256": "4bbce86cc6cba2f41fdb8faa189cb2157acfacdc4297bd43c5d089415bcaa313",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_MASTER_BOOK_QA_REPORT.pdf",
+      "size": 4685,
+      "sha256": "6879832753cb8b79441db4c35fc97834910abc9306e7fc6d518c5e17b8fea03a",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_MASTER_BOOK_SOURCE_MAP.pdf",
+      "size": 5007,
+      "sha256": "8005373e836b3f59d340e21866ba88b60eb71b0124b78c3e1372ef8b28ed841d",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_MASTER_BOOK.pdf",
+      "size": 11914129,
+      "sha256": "034c8bc2a5073f0486ac872a0e003342dfa6ef698acc8e2fa9187bbf2770fd00",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_MAY15_RESURRECTION_3_BG.pdf",
+      "size": 87564,
+      "sha256": "b19d68616b39662edfa557f64b4308d788c1b8c88bebf6bc533330d870091796",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_MAY15_RESURRECTION_3.pdf",
+      "size": 5544026,
+      "sha256": "3951680c2e2a1e6c714ae04085daa57ca5fcc2eaeca45916e1964318a149937f",
+      "type": "pdf"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p001_01.jpg",
+      "size": 27804,
+      "sha256": "77e41d268b60b114a3c446a4b339d7765c5374faddb5c20cd8b4984a86cb83e4",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p005_01.jpg",
+      "size": 24990,
+      "sha256": "b027d92ce6ec3e5c8039dd13938398d4e1fa72910f8aa48142dfc6e48cbc7701",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p006_01.jpg",
+      "size": 24400,
+      "sha256": "d64ff1079b0fdc7907266f3b02cbd1fdc28b6c9dbddbc88f1ced25d8572751c3",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p019_01.jpg",
+      "size": 18224,
+      "sha256": "fc46f65667a170c1c76ccf4a5f12dc8bd975fd31a4bcbb558b6757fc58d35c4f",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p019_02.jpg",
+      "size": 25805,
+      "sha256": "b0523dcf5d75c6e295e91511364523537fb3d30c71ab5281fce6021a6fb79282",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p026_01.jpg",
+      "size": 21418,
+      "sha256": "48e74f4275ebd39c4f3fcd013d326e476cb316abcdb95d220b370846782a328d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p028_01.jpg",
+      "size": 21740,
+      "sha256": "a1a1bf294e1fdc48103c3f77da2c15beea5a2225e9cc6e10b021f2befab52b9f",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p031_01.jpg",
+      "size": 29892,
+      "sha256": "28bcdca724bbbcef06c96f2033041549d3eabbe2fd6ba1d772e90343c9878b9b",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p040_01.jpg",
+      "size": 25429,
+      "sha256": "3d93242d07351510c6a73eb36d3598e98c5a8bada21069b3941705c6d8c9f8f8",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p040_02.jpg",
+      "size": 25665,
+      "sha256": "5b08d59ef5204d4cafab861a1497e946d2b0b60d239c8ab1c5ead4b70e70b32d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p045_01.jpg",
+      "size": 21084,
+      "sha256": "2364e35b9d6b262ec2c25b0c5c4d648a397730c06dbe5e1e000b0852b750f5a1",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/evolution_p051_01.jpg",
+      "size": 21418,
+      "sha256": "48e74f4275ebd39c4f3fcd013d326e476cb316abcdb95d220b370846782a328d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p009_01.jpg",
+      "size": 45036,
+      "sha256": "05a2aacfb4124c8d35ce709fa3f3fa31655cd1564618900b0e02b35d9bb1ef98",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p014_01.jpg",
+      "size": 103217,
+      "sha256": "0c2a7ec440ed906418a1e7fcd27d063df885f960943cd0ec6a3d99acea833bce",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p016_01.jpg",
+      "size": 66114,
+      "sha256": "2c6870febe29a3eb2c1c31cc316f9728417f681e72a87f31f530c24e0e760c69",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p017_01.jpg",
+      "size": 59854,
+      "sha256": "d2a5433b23218d68f090494d63834bb0322d54957ed0ee563d374fc785480d9e",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p018_01.jpg",
+      "size": 65508,
+      "sha256": "1cbde4b72a326a4f7377f2c3992b8bd185f5d81fece38d0b88c26ccbf952e016",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p022_01.jpg",
+      "size": 53596,
+      "sha256": "1cb9b911c8d9f4c9d3bb716bd9366860338e7fec43f4acb7ec39aaf87829c37d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p024_01.jpg",
+      "size": 56744,
+      "sha256": "93a3c35612d0f0d9d563f2309cca0d478a55e8a5f0454ba7e3afbdb6b6810dec",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p030_01.jpg",
+      "size": 53453,
+      "sha256": "02d0661ab19691967c1c12dbaf97d0c6ad673d4d0a588a720a286e7d2d72dfec",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p032_01.jpg",
+      "size": 53771,
+      "sha256": "7b67386e7a075276149545916c407ec9bfd1b55faa770a03b27b62fb5bcedef5",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p035_01.jpg",
+      "size": 56505,
+      "sha256": "24619bf9bd9d166c0a095a15f16f7cddd8828e71c93c82475a490006b52c4ab2",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p038_01.jpg",
+      "size": 56970,
+      "sha256": "2359241a6b248b4f7435dfaee8e74941dcc9373634effc06afa8bd3c9219a5ec",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p039_01.jpg",
+      "size": 55600,
+      "sha256": "439f13d7f9092b6926cadf563a1ed6f8d1c02da0e877cf52ab3a781d08b9fa5b",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p041_01.jpg",
+      "size": 58260,
+      "sha256": "67ff60bf6b908100eb68a73fe52516a8dcd9cb50cfd69de2ecf96a5f99310028",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p042_01.jpg",
+      "size": 53986,
+      "sha256": "df1cfb7db4a29aa177913f2a7b04871cdaa6d4d58121453d7eb619722354b0bb",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p046_01.jpg",
+      "size": 67268,
+      "sha256": "62311ed1ff2f4274b258cbc3ff81fc9f4067f1586a36818c3978b294b24e4cad",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p047_01.jpg",
+      "size": 57817,
+      "sha256": "648f730bd9df84488eba915b755e1c533c0d926dc7ccb625caa3d436bec11561",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p071_01.jpg",
+      "size": 56744,
+      "sha256": "93a3c35612d0f0d9d563f2309cca0d478a55e8a5f0454ba7e3afbdb6b6810dec",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p071_02.jpg",
+      "size": 53596,
+      "sha256": "1cb9b911c8d9f4c9d3bb716bd9366860338e7fec43f4acb7ec39aaf87829c37d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p071_03.jpg",
+      "size": 45036,
+      "sha256": "05a2aacfb4124c8d35ce709fa3f3fa31655cd1564618900b0e02b35d9bb1ef98",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p071_04.jpg",
+      "size": 65508,
+      "sha256": "1cbde4b72a326a4f7377f2c3992b8bd185f5d81fece38d0b88c26ccbf952e016",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p071_05.jpg",
+      "size": 53771,
+      "sha256": "7b67386e7a075276149545916c407ec9bfd1b55faa770a03b27b62fb5bcedef5",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p071_06.jpg",
+      "size": 66114,
+      "sha256": "2c6870febe29a3eb2c1c31cc316f9728417f681e72a87f31f530c24e0e760c69",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p071_07.jpg",
+      "size": 103217,
+      "sha256": "0c2a7ec440ed906418a1e7fcd27d063df885f960943cd0ec6a3d99acea833bce",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p071_08.jpg",
+      "size": 53453,
+      "sha256": "02d0661ab19691967c1c12dbaf97d0c6ad673d4d0a588a720a286e7d2d72dfec",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p072_01.jpg",
+      "size": 58260,
+      "sha256": "67ff60bf6b908100eb68a73fe52516a8dcd9cb50cfd69de2ecf96a5f99310028",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p072_02.jpg",
+      "size": 67268,
+      "sha256": "62311ed1ff2f4274b258cbc3ff81fc9f4067f1586a36818c3978b294b24e4cad",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p072_03.jpg",
+      "size": 55600,
+      "sha256": "439f13d7f9092b6926cadf563a1ed6f8d1c02da0e877cf52ab3a781d08b9fa5b",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p072_04.jpg",
+      "size": 56970,
+      "sha256": "2359241a6b248b4f7435dfaee8e74941dcc9373634effc06afa8bd3c9219a5ec",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p072_05.jpg",
+      "size": 53986,
+      "sha256": "df1cfb7db4a29aa177913f2a7b04871cdaa6d4d58121453d7eb619722354b0bb",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p072_06.jpg",
+      "size": 57817,
+      "sha256": "648f730bd9df84488eba915b755e1c533c0d926dc7ccb625caa3d436bec11561",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p072_07.jpg",
+      "size": 59854,
+      "sha256": "d2a5433b23218d68f090494d63834bb0322d54957ed0ee563d374fc785480d9e",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview_assets/may15_p072_08.jpg",
+      "size": 56505,
+      "sha256": "24619bf9bd9d166c0a095a15f16f7cddd8828e71c93c82475a490006b52c4ab2",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_overview.html",
+      "size": 68604,
+      "sha256": "1f1db79668a1b836304186f3f09020dcbb38323e4c5fc6a4614babff06156c75",
+      "type": "html"
+    },
+    {
+      "path": "ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_COMPARISON_MATRIX.xlsx",
+      "size": 40252,
+      "sha256": "b1a92c00321d5a134d216bb7f26e6855f96d3a226ddf1e79418c0dbfc7fb2b2a",
+      "type": "xlsx"
+    },
+    {
+      "path": "ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_QA_REPORT.pdf",
+      "size": 76167,
+      "sha256": "2008d077ac49a393ad220f7f39b5f712915fde93e60d5cdb1453b2bd54e46c46",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_SOURCE_MAP.pdf",
+      "size": 83844,
+      "sha256": "1007b9c0554eb88d6e27a5dc6123c09558af64862fc6af15e5e569ec538bee5c",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT.pdf",
+      "size": 160076,
+      "sha256": "e55b4ca5aa1b94770feea6334c6909a9fb5ec423fff3895e89bf3ec369329f59",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_REAL_WORLD_COMPARISON_QA_REPORT.pdf",
+      "size": 75151,
+      "sha256": "ad1306f7c694449bb5d8084452052a4704c50400694203c7336b5fed7e0da742",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_REAL_WORLD_COMPARISON_REPORT_BG.pdf",
+      "size": 165241,
+      "sha256": "c5cdbc0f7459323ca009b32c57903b650d9d08dc844c468ed9dd13f53923e475",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_REAL_WORLD_COMPARISON_REPORT_EN.pdf",
+      "size": 135935,
+      "sha256": "7c4de675300e8d68195750f38030c4d768193f8a228f67710f0d88eaba6d8462",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_REAL_WORLD_COMPARISON_SOURCE_MAP.pdf",
+      "size": 81097,
+      "sha256": "b04dcd6f365614a3ed1e1254b35c5d299043cff3e9e955b1df0e39bd35c1317d",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_STRATEGIC_ACQUISITION_MARKET_POSITION_THESIS_EN.pdf",
+      "size": 297161,
+      "sha256": "fd62a7926d7cfd4194ceb371555dc75ed37bcf496076713d1984c44166cff7ee",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_TRANSFERABLE_OPERATIONAL_INTELLIGENCE_REPORT.pdf",
+      "size": 92366,
+      "sha256": "3f707e4cd46c40436c33536e8c55489a47245b1657bb3841458add12965ced6a",
+      "type": "pdf"
+    },
+    {
+      "path": "ARC_SE_VALUATION_THESIS_EN_HARDENED.pdf",
+      "size": 866855,
+      "sha256": "830d87c9081baa228db62dcdb779ec20f6a1c80d1de5311dcd312f4bd3a9d57e",
+      "type": "pdf"
+    },
+    {
+      "path": "arc_se_website_assets/3004-live-dashboard.png",
+      "size": 115794,
+      "sha256": "e7082e36b9d1564adc1d9c1da1e4aac36818c674999f650f6ac77eec096136a3",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/3004-tab-basis-curve.png",
+      "size": 226154,
+      "sha256": "7447318b97aafa3aad3c2015a3961ff1c98020079982f982d6c7df918d903b45",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/3004-tab-governor.png",
+      "size": 301272,
+      "sha256": "c212b907e94efb4cb9a7ea58da52c9b898ea8aace5f42698169a14d9640e13eb",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/3004-tab-live-execution.png",
+      "size": 215174,
+      "sha256": "e55fc58f7318266818adc987f135eb2382858bfca7f7a23e245e9c6bf68ab062",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/3004-tab-live-trades.png",
+      "size": 166342,
+      "sha256": "2ea58e6658a2a79a669528c2a69c73392a3bde0f55856b39d65d460dbf829e2d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/3004-tab-market-scope.png",
+      "size": 176782,
+      "sha256": "5fc7b0207643ce8eaa77eeb6e883797a7a27b60eef383ff130e29d2ad67254dc",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/3004-tab-overview.png",
+      "size": 237481,
+      "sha256": "7bd0a0fb75c5227d79762d242f8d6f8157acfdf246f7c2f210562514905d8b0f",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/3004-tab-paper-live-parity.png",
+      "size": 197804,
+      "sha256": "27952f018b1a587a891750c40fab14ce867488a865d7aa19141e48b27c3c0e8a",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/3004-tab-settlement-redeem.png",
+      "size": 145387,
+      "sha256": "dc43af4bd9aef916dbb9bda4122417519a399b963298307e0be0cc221dd9547f",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/3004-tab-stream-data.png",
+      "size": 233703,
+      "sha256": "1430f33c8deb26f195c9edc6abd1d5797bffca111da5ac0e2a9227040d31f0ef",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/capital-scenarios.png",
+      "size": 52481,
+      "sha256": "6ee602280411c7a25fb1fcdd6d5ab162d4e576d70909ecef787c5c8426dd218a",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/evolution-coordinator-page45.jpg",
+      "size": 21084,
+      "sha256": "2364e35b9d6b262ec2c25b0c5c4d648a397730c06dbe5e1e000b0852b750f5a1",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/evolution-ecosystem-page26.jpg",
+      "size": 21418,
+      "sha256": "48e74f4275ebd39c4f3fcd013d326e476cb316abcdb95d220b370846782a328d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/evolution-evidence-register-page51.jpg",
+      "size": 21418,
+      "sha256": "48e74f4275ebd39c4f3fcd013d326e476cb316abcdb95d220b370846782a328d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/evolution-watcher-page40-a.jpg",
+      "size": 25429,
+      "sha256": "3d93242d07351510c6a73eb36d3598e98c5a8bada21069b3941705c6d8c9f8f8",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/evolution-watcher-page40-b.jpg",
+      "size": 25665,
+      "sha256": "5b08d59ef5204d4cafab861a1497e946d2b0b60d239c8ab1c5ead4b70e70b32d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/frontpage-concept.png",
+      "size": 1440586,
+      "sha256": "8273c809a5e96c7e342a488b21cf5ac0d23d6f29931ccd667b33b95bfaf2aa90",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/historical-runtime-contact-sheet.jpg",
+      "size": 403731,
+      "sha256": "47ec3e2beeed4129d70cc27d58b7acbf95887d1537efe02023f82857731e4dab",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/investor-executive-dashboard.png",
+      "size": 98153,
+      "sha256": "8eef89f20065a41d75267529cb7e4b8b194b20c4dc085e951f1c9598d53f0679",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/leviathan_archive/leviathan-basis-equity-485-alt.png",
+      "size": 98641,
+      "sha256": "e8bd596fb6465756c07a514361eceff929ce9f620edc0874b4f35bb5da33834a",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/leviathan_archive/leviathan-basis-equity-485.png",
+      "size": 98641,
+      "sha256": "e8bd596fb6465756c07a514361eceff929ce9f620edc0874b4f35bb5da33834a",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/leviathan_archive/leviathan-basis-equity-572.png",
+      "size": 85755,
+      "sha256": "b5abe76ba1686d57bb1dd98ef7fa42c7b74a853d19e7ec58f76fb46f0cc6daf8",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/leviathan_archive/leviathan-mobile-654-retained.png",
+      "size": 704373,
+      "sha256": "d91acc979a5c279e34a02f1e77884947cd481dc55f6a45b107a7528da06390a4",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/leviathan_archive/leviathan-official-streams-btc-eth-sol.png",
+      "size": 162198,
+      "sha256": "9d25e52e26c9ef1ebc7b6814b975de9e32cb51fb2570d53bc397cebf5f588ca6",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/may15-25-minute-comparison-page46.jpg",
+      "size": 67268,
+      "sha256": "62311ed1ff2f4274b258cbc3ff81fc9f4067f1586a36818c3978b294b24e4cad",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/may15-fix-rerun-page14.jpg",
+      "size": 103217,
+      "sha256": "0c2a7ec440ed906418a1e7fcd27d063df885f960943cd0ec6a3d99acea833bce",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/may15-resurrection-shape-page39.jpg",
+      "size": 55600,
+      "sha256": "439f13d7f9092b6926cadf563a1ed6f8d1c02da0e877cf52ab3a781d08b9fa5b",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/micro_harvest_evidence/micro_bot_aggregate_peak_vs_realized_capture.png",
+      "size": 99531,
+      "sha256": "5c13539443f880df42a2ad2adec32dd92dae1cdce2fba6aa96e913bb9a241d9d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/micro_harvest_evidence/micro_capture_density.png",
+      "size": 54624,
+      "sha256": "4bb4614138d618cd85e9c2dd534c7a5b4eb7f986db51892046710bd12357f696",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/micro_harvest_evidence/micro_daily_capture_profile.png",
+      "size": 42281,
+      "sha256": "cfc8ad16b7540af494027a1461a69461b48f254b7362ebff36c74c2dee8d28fe",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/micro_harvest_evidence/micro_peak_vs_realized_capture.png",
+      "size": 166620,
+      "sha256": "3f3f195901329c1bc2f2279bafe8b9d5adffc3ccb9e22fe991031251d6042b17",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/micro_harvest_evidence/micro_replay_value_recovery.png",
+      "size": 87477,
+      "sha256": "bbc979f9d6068191166fcd6520e8abc00be3d30cb47ffd4e0e7255eb6ac1ed33",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/micro_harvest_evidence/micro_version_lineage.png",
+      "size": 60977,
+      "sha256": "f266a1b06f699c03d1ed49f38346576804146d7264974bdf375c28bf24bac78f",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/micro_harvest_evidence/source_organism_3005_down_predator.png",
+      "size": 91665,
+      "sha256": "0024bcd4f96911e1c861fd87cb6276c3c21bfb5ca13255fabeb90cafd001d19a",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/micro_harvest_evidence/source_organism_3006_up_predator.png",
+      "size": 79825,
+      "sha256": "d4411e3709d2b6a92f86940545365160d7fb4d34ef134bd3a2e44519040f3ad6",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/micro_harvest_evidence/source_organism_3007_april_recovery.png",
+      "size": 90958,
+      "sha256": "98805ee32194f63c8364136f6463d6eeb70d66b4eb452421bc83d0e7bfccee32",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3001.png",
+      "size": 86382,
+      "sha256": "aec2474c37502843aa405329cf9d8a6d4eba1f46549e3350b701b5c082941271",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3002.png",
+      "size": 87555,
+      "sha256": "7e485793764c562bf247464b09118a283958be42bb9d9aca709e6e2f2dafe505",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3004.png",
+      "size": 95852,
+      "sha256": "d70832e75c4f6cb3d40f9906e5f9aa67dab3359384abb73342a63dc314bfc01e",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3005-proof-surface.png",
+      "size": 128874,
+      "sha256": "86cafe1bc20b4c0073a1f33047d939d29e702677ab18b7e4d07d04e0d82b77da",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3005.png",
+      "size": 91665,
+      "sha256": "0024bcd4f96911e1c861fd87cb6276c3c21bfb5ca13255fabeb90cafd001d19a",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3006-proof-surface.png",
+      "size": 120568,
+      "sha256": "06a23abc2510787feb8b5875caa76291e498744a43c0c9fa9a266b7b91f16803",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3006.png",
+      "size": 79825,
+      "sha256": "d4411e3709d2b6a92f86940545365160d7fb4d34ef134bd3a2e44519040f3ad6",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3007-proof-surface.png",
+      "size": 124872,
+      "sha256": "30329665e4091b906afe90b1ae9a6b150fe9cdc2ee4740be2e0649936a8ec059",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3007.png",
+      "size": 90958,
+      "sha256": "98805ee32194f63c8364136f6463d6eeb70d66b4eb452421bc83d0e7bfccee32",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3008-proof-surface.png",
+      "size": 108267,
+      "sha256": "83c87d2d1df5b9027683d34449eac029521247cc818328807614810200f8c98a",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-3008.png",
+      "size": 89765,
+      "sha256": "a122dc4f4709d199bf57d70ca00cda16b8e468846d737d814dbc3fabcb22c54c",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/organism-comparison.png",
+      "size": 45707,
+      "sha256": "f8914fa4324da71b59cb017e4687b82c39e0edf07cb1e07a75852b625dc8ef97",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/parity-quality-matrix.png",
+      "size": 86395,
+      "sha256": "a7ad2c72597128fd34a7aa770c281c962d72a82df677cdb6d075cb9914b012b1",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-basis-curve-may15-benchmark.png",
+      "size": 67244,
+      "sha256": "16eba2bfd1fde47de98d6b21dd0e7026538e4baaed1bc845f57f8653054c8cae",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-evidence-map.png",
+      "size": 85552,
+      "sha256": "8f97e933c7ecf8dcbf564aa66a76bddc2ec43dabaacd43324c9990ff4c9c6a41",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-evolution-timeline.png",
+      "size": 78289,
+      "sha256": "8d4d4be32a4b89de9613456caa0c93a2765a7bc1a6c49317510b876c6eddd1e1",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-live-causal-reality-check.png",
+      "size": 90981,
+      "sha256": "4d045e1c5d87b14d10eca2ea02af7dd640e0e02a9c3564accda423e67ae30e2e",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-may9-benchmark-battlefield.png",
+      "size": 118025,
+      "sha256": "b508a589bb306148f9f9816b0f0851a08c1244fbb2987f85ba5c52f0336f5db2",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-organism-comparison-3004-3008.png",
+      "size": 119301,
+      "sha256": "ea3dd78d0f96d0acd0e269d12f64ae564eca10ebbd6dd2f6d856504968fffd1c",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-paper-to-live-realism.png",
+      "size": 78700,
+      "sha256": "0eaabf8aeee3b3e681ee47f5745f3c9f29b65fadf532f438b1687e0a4ddcc542",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-top-10-session-net-chart.png",
+      "size": 127555,
+      "sha256": "f5d9435ce27bb55e615a11c0f9d36f14ced9273bb4424012450203aad2ce7c12",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-valuation-defense-framework.png",
+      "size": 83774,
+      "sha256": "3c349e735e9edbc2659f8235e22b04ccd386e17e0b2718109c8bb36d3635fc49",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/plate-watcher-intelligence-era.png",
+      "size": 82281,
+      "sha256": "8befbb0ec4a8d2c9a19b082dadd53f5078b5abf1eb6c2a2dd9cea535e7df9b1c",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/profit_evidence/source_capital_scenarios.png",
+      "size": 52481,
+      "sha256": "6ee602280411c7a25fb1fcdd6d5ab162d4e576d70909ecef787c5c8426dd218a",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/profit_evidence/source_live_causal_reality_check.png",
+      "size": 90981,
+      "sha256": "4d045e1c5d87b14d10eca2ea02af7dd640e0e02a9c3564accda423e67ae30e2e",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/profit_evidence/source_paper_to_live_realism.png",
+      "size": 78700,
+      "sha256": "0eaabf8aeee3b3e681ee47f5745f3c9f29b65fadf532f438b1687e0a4ddcc542",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/profit_evidence/source_parity_quality_matrix.png",
+      "size": 86395,
+      "sha256": "a7ad2c72597128fd34a7aa770c281c962d72a82df677cdb6d075cb9914b012b1",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/profit_evidence/source_plate_top_10_session_net_chart.png",
+      "size": 127555,
+      "sha256": "f5d9435ce27bb55e615a11c0f9d36f14ced9273bb4424012450203aad2ce7c12",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/profit_evidence/source_runtime_3008_competitive_benchmark_panel.png",
+      "size": 65844,
+      "sha256": "7c225325fb663ee3a73e6219780245600d8745ee8c8d4d375098a4ea45157e04",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/profit_evidence/top_bot_snapshot_deltas.png",
+      "size": 76923,
+      "sha256": "b404ea02ba87fabf6c70ff30c50c31ed1b20bed1aab276d95d57f257367855d6",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/profit_evidence/top_sessions_net_extracted.png",
+      "size": 85749,
+      "sha256": "a96187d3dd54a62368ee9e612c16d4a8be78a8e86c7181dd6e8cdd3694224467",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/profit_evidence/top_vps_mirror_sessions_net_extracted.png",
+      "size": 82267,
+      "sha256": "65c8d5c705b3bfd09325cd50b3136763c3ebd2500cdc3ea27d1517d167a4f7ca",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-3004-anchor.png",
+      "size": 536569,
+      "sha256": "380d80ac5969df4c79e97db933539001ad85f8fe334caecafde2bf1a076d68db",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-3004.png",
+      "size": 383085,
+      "sha256": "0a86f52ba935ee041f69301da9e5b0f2ff8d98ebf8a82e50e901a89df97b0ea7",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-desktop.png",
+      "size": 688920,
+      "sha256": "2accd34663ef13359f450b6c5496de095b36248186200b96207c44c4b597e9e6",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-lightbox-polished.png",
+      "size": 293729,
+      "sha256": "ec56397ac25f50d14c8cacd87e90c6fd53f68dcfdeee248bc9d00f1b02b90034",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-lightbox.png",
+      "size": 293672,
+      "sha256": "ae7c5e6496e8bc7d0117483573f50def3f3b1cc42b772d57bb271fa755356341",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-mobile-3004-anchor.png",
+      "size": 166870,
+      "sha256": "6318db2d53da11c44f3d736655237f096e24de93309d152d7f5f451a49a583bc",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-mobile-watcher-anchor.png",
+      "size": 130964,
+      "sha256": "c8d0e1a8272ec8d27129dbc1e755dab26fc4a67c1d309a3e33a67d34a7252699",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-mobile.png",
+      "size": 209200,
+      "sha256": "9df57b688fc7d1a6ef69bbb46d5af04be00e2abf4f4d3fa60a4e73dcd2512920",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-watcher-anchor.png",
+      "size": 494104,
+      "sha256": "65c1a1d293c1b82c5483ff7e3bae56333b489e8d82ca659343bd0df7d9b052bd",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-addon-watcher-atlas.png",
+      "size": 443171,
+      "sha256": "448d878e7c167512c766465280f2c750adcffbd69631959112277517e1064944",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-coordinator.png",
+      "size": 576063,
+      "sha256": "e9590cb93065e06362516865662ca5f63d1e26a0e0e0690bccc2ab2873b12c01",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-desktop.png",
+      "size": 735792,
+      "sha256": "34d5c46d4b1f82dd3b361e92319a428910da5ab5941c0dc7301709f7d06dc24f",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-ecosystem.png",
+      "size": 809510,
+      "sha256": "8e4214ad723e03b6c29ec14969184fba632276fbb992aedc514420cbbed87892",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-may15.png",
+      "size": 589737,
+      "sha256": "94f531b4e1dea1b79186c4e1a3cf1570bb5eaf333f95814f309959dde4dfa5ff",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-mobile.png",
+      "size": 302961,
+      "sha256": "57c7b5e9d482bf1256862c75e36b62b094adc011d1f86b58144d1959426015c6",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-vault.png",
+      "size": 508120,
+      "sha256": "7994b11811ce84495a065a16b947dcaf310bfe6b6ac709b3fc7dd9feb2b5465d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/qa-watcher.png",
+      "size": 508500,
+      "sha256": "23987e7c8279604ea1afbaca2e05d8750d54c680afe78f1d4569c0987e3285db",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/real-3004-api-panel.png",
+      "size": 100479,
+      "sha256": "6942943292d163e911ad14750c7fc59e0857acf1540cd64e87c6a082162cf740",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/resurrection-dashboard.png",
+      "size": 86323,
+      "sha256": "fd8170bc289fc18e8cadb33202c310183fd01c932c6ca5c824e86ef179e07ccd",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/runtime-3001-analytics-live.png",
+      "size": 97862,
+      "sha256": "2c203d81148e1d9f669b5d66116a63c879ff485f666b662194b440c0ef0ceed9",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/runtime-3001-analytics-local.png",
+      "size": 134508,
+      "sha256": "15185814305433becf15091799aba0beb6a68ffa3be2a50a59f19a2686d7d0d0",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/runtime-3001-dashboard-vps.png",
+      "size": 91522,
+      "sha256": "dfbf8c196543a08314cea8427a885da13c239aacc5d657606204408fb2583c38",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/runtime-3001-performance-refresh.png",
+      "size": 71135,
+      "sha256": "2a7d8b11bfb31689e67c20b947410702574f3fc94a5b5b4278303929e39c164d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/runtime-3002-dashboard.png",
+      "size": 147765,
+      "sha256": "7056b4b2556630979821cd6d899c49eaf1423426419bd3615b9d4c00294ffc63",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/runtime-3006-watcher-dashboard.png",
+      "size": 115323,
+      "sha256": "b8452ad9b2e450e5ed14456b50bec2c762f8de5dc2946afff01ee5b95bab80e5",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/runtime-3008-competitive-benchmark-panel.png",
+      "size": 65844,
+      "sha256": "7c225325fb663ee3a73e6219780245600d8745ee8c8d4d375098a4ea45157e04",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/runtime-3008-competitive-benchmark-proof.png",
+      "size": 1337062,
+      "sha256": "8c56d965ad8803430ac8a61bc18b1d64baeff06b1fad70fbf36a251ea97422d2",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/runtime-3008-dashboard.png",
+      "size": 303837,
+      "sha256": "b26143dffd87d4c7d9f5f3c575a05b67465f049e1ff5c520560d1e98904a4a0d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/SCREENSHOT_MANIFEST.md",
+      "size": 7875,
+      "sha256": "887225aaff3e760f929a7f346d878153869ebe6901a88d09c56b0cf5353da40e",
+      "type": "md"
+    },
+    {
+      "path": "arc_se_website_assets/top-sessions-dashboard.png",
+      "size": 104264,
+      "sha256": "e0ce0841a2f751955d9b661e9ecce4dd3c96b3acf24c520e915f8a3d6e13fcd9",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/truth-crisis-dashboard.png",
+      "size": 86455,
+      "sha256": "e0203d2e424cc7aed84f1ebec1c4f48921ccef98c57849dfcf42bd9cbe28b984",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/valuation-defense-dashboard.png",
+      "size": 89757,
+      "sha256": "36b879b6f250998d3d9b9fbd4f85d57b5e3517ad280b33f043fba2ecf33550e0",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/VISUAL_ASSET_INVENTORY.md",
+      "size": 9156,
+      "sha256": "d1f5bdbfd2ff77ba60e70e18ae3e4430fec8bc74bc017ac3a62e939e192bf0fc",
+      "type": "md"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-birth-dashboard.png",
+      "size": 80918,
+      "sha256": "a0fb80262d3b3893e7461b6f3f8cf69568479dd69a23fc09f0f053bdd592ef0a",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-analytics-build.png",
+      "size": 97862,
+      "sha256": "2c203d81148e1d9f669b5d66116a63c879ff485f666b662194b440c0ef0ceed9",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-battlefield-mobile-full.png",
+      "size": 2227063,
+      "sha256": "0c01220ba88fe1c844de89c8a57d54bd27c7ae13d5d4ad5b3452d95a221058e1",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-battlefield-mobile-top.png",
+      "size": 79260,
+      "sha256": "5acf72f7a47672f1ff9a2ba075246815c2502a246c031590d807ecb33f58dfbc",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-collector.png",
+      "size": 129730,
+      "sha256": "4c3876ac8b04623abced4fd7445a031d1a2580772d392ac6bd86dd68ec51fa19",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-competitive-benchmark.png",
+      "size": 143558,
+      "sha256": "59b247f8c760e6493b09c43b19cb79c763b593f1f52b262848fc1ef10764e591",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-coordinator-performance.png",
+      "size": 267656,
+      "sha256": "8c26f858f23385f8e010c9401879907a475e07418a3aeb96a0ccb3b8420e9fa0",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-equilibrium-lab.png",
+      "size": 272548,
+      "sha256": "57f5bdca5373a3da7cd396f0a458b56640943c84e122c1252b92a7397da8b17e",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-live-command-center.png",
+      "size": 91555,
+      "sha256": "16060a4aba86be079dc990637cd14dc46a128fe5adda6c0f9f64d7332fd1a324",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-paper-command-center.png",
+      "size": 91518,
+      "sha256": "e4aea1f5d58d3b1aaba72321be4c23c0d4813f02b4e7a87c3149ee48613072b5",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-performance-stats.png",
+      "size": 69167,
+      "sha256": "2dbd4dce0e1f49bd85cc3e7469637c14099943454398c3fe9e96a602930d4306",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-promotion-blockers.png",
+      "size": 90863,
+      "sha256": "45a325d3ef515b10f243e7386d53d0874d9505e60dc3195c8333ace94b2ae53d",
+      "type": "image"
+    },
+    {
+      "path": "arc_se_website_assets/watcher-tab-risk-mobile.png",
+      "size": 41629,
+      "sha256": "a5f901e74b55103ba07d8666c043a05888c35461060133daae1ef291a1479dc7",
+      "type": "image"
+    },
+    {
+      "path": "ARC_SE_WHY_ARC_EXISTS_ASSET_MANIFEST.md",
+      "size": 5229,
+      "sha256": "425424445fcfb4ad81d8125c4bf27632cf6dab1ff3332e7e339c2b2a568449a1",
+      "type": "md"
+    },
+    {
+      "path": "ARC_SE_WHY_ARC_EXISTS_STORYBOARD.md",
+      "size": 5077,
+      "sha256": "15399e5fde013340c5178049e817b27aa10c767b1f235a15b87b2daf1a2f8cef",
+      "type": "md"
+    },
+    {
+      "path": "ARC_SE_WHY_ARC_EXISTS_SUBTITLES.srt",
+      "size": 2631,
+      "sha256": "873e552f80f0b0f694cd301d6e2d2815482104a228dcff3f8c42bf454fb86c70",
+      "type": "srt"
+    },
+    {
+      "path": "ARC_SE_WHY_ARC_EXISTS_VIDEO_SCRIPT.md",
+      "size": 2215,
+      "sha256": "070c0d42ba5fc2845fcafd1f496ad6ef2a453337303a73db28c9ae6555df5b7a",
+      "type": "md"
+    },
+    {
+      "path": "ARC_SE_WHY_ARC_EXISTS_VIDEO_V2_SCRIPT.md",
+      "size": 2617,
+      "sha256": "58e1240859f45b7724d47a894624a1ec8459074e551d00faaa9cd2709adc2c8b",
+      "type": "md"
+    },
+    {
+      "path": "ARC_SE_WHY_ARC_EXISTS_VIDEO_V2_STYLE_REFERENCE.md",
+      "size": 1095,
+      "sha256": "aaa6c88988d7a8c18815b123dd7de7d8ba2f8fd12780e94d97fea59ba36a4843",
+      "type": "md"
+    },
+    {
+      "path": "ARC_SE_WHY_ARC_EXISTS_VISUAL_PLAN.md",
+      "size": 2976,
+      "sha256": "ca56d642a805b68252c274c1f48e96824bba370770ebf98d777b04bbed6c7ca7",
+      "type": "md"
+    },
+    {
+      "path": "arcse-experience.css",
+      "size": 72687,
+      "sha256": "cf43557919060bb40bc9f2082c21c4e49bdb790eab1eb3ed203474f9375e3030",
+      "type": "css"
+    },
+    {
+      "path": "arcse-experience.js",
+      "size": 31842,
+      "sha256": "95063854f5ee1798443b94f901de734cee0833237be2d34f9f0aa05c5a666492",
+      "type": "javascript"
+    },
+    {
+      "path": "CONTENT_SURFACE_SUMMARY.md",
+      "size": 3953,
+      "sha256": "f014e0cfbe109392108102850fcdb7ad376f09ef93e2f2292a8368fee22bc159",
+      "type": "md"
+    },
+    {
+      "path": "current_value_report_output/qa_checks_bg.json",
+      "size": 1068,
+      "sha256": "714db1fd43744b8b5e948af3acfe5ab7c4c0464e682f1a9918c41263d766226b",
+      "type": "json"
+    },
+    {
+      "path": "current_value_report_output/qa_checks.json",
+      "size": 1247,
+      "sha256": "20a19bb6d232950b50c99a4e6e5b0e6fa2a89bc0e70e1d7160687f9831455efc",
+      "type": "json"
+    },
+    {
+      "path": "debug.log",
+      "size": 968,
+      "sha256": "a881c6761059de988f9e34de4ffcfaf050bc3918dde4109df9b1c825365a4091",
+      "type": "log"
+    },
+    {
+      "path": "DEPLOYMENT_MANIFEST_20260609.json",
+      "size": 188369,
+      "sha256": "20491e309a2e15ef0ce6734794188d6609a96877e9d0edd85b624033a19133cc",
+      "type": "json"
+    },
+    {
+      "path": "DEPLOYMENT_VALIDATION_LOCAL_20260609.json",
+      "size": 771,
+      "sha256": "4ce276c6096c818fc21765b5c1f73c81d12749ba35c4d863e1e0c6b6f9a26d01",
+      "type": "json"
+    },
+    {
+      "path": "economic_validation_output/arcse_economic_audit_summary.json",
+      "size": 311802,
+      "sha256": "e320579c5bde660326efd201e3c6124a292e034fefcecb771f6f6813f19cda71",
+      "type": "json"
+    },
+    {
+      "path": "economic_validation_output/html_qa_economic_validation.png",
+      "size": 384842,
+      "sha256": "57877ea39a88eaac8ff828640a4c6a9ec53257667fc7aa1d0a5a0c401e103b36",
+      "type": "image"
+    },
+    {
+      "path": "economic_validation_output/html_qa_micro_eth_dump_tab.png",
+      "size": 129948,
+      "sha256": "c273feb5193641304e73bf5163cedbbc27e695a665c3793debbba3eecf1f1eff",
+      "type": "image"
+    },
+    {
+      "path": "economic_validation_output/html_qa_micro_harvest.png",
+      "size": 384000,
+      "sha256": "064d17030eeb154af8c6a2fb547178790bf507ec4b497e1cf4e5d9d6ee244ee0",
+      "type": "image"
+    },
+    {
+      "path": "economic_validation_output/html_qa_router_home.png",
+      "size": 866053,
+      "sha256": "7e0b54b030be5e43c237bd87326f77b91ed9000e166a637bd0641a6568395490",
+      "type": "image"
+    },
+    {
+      "path": "economic_validation_output/html_qa_router_micro_polished.png",
+      "size": 739820,
+      "sha256": "995f286c8614e1d149811ed93824699cd4692be0f4bbff09a1b7b65f8ecdb0a4",
+      "type": "image"
+    },
+    {
+      "path": "economic_validation_output/html_qa_router_vault.png",
+      "size": 491751,
+      "sha256": "66f721e29f41a253603635723aaf2e488f85215585a4532660036a06b72aeaa8",
+      "type": "image"
+    },
+    {
+      "path": "economic_validation_output/html_qa_why_home_tab.png",
+      "size": 864658,
+      "sha256": "54f2faabf755f58889aeba0d852e4e084707151012bed65907d6b74b960d472d",
+      "type": "image"
+    },
+    {
+      "path": "economic_validation_output/html_qa_why_landing_proof.png",
+      "size": 544784,
+      "sha256": "d6d16a51fda15862cd405dfb2cca562cc62bceb80d9b0a31d87b56b114fab8cd",
+      "type": "image"
+    },
+    {
+      "path": "economic_validation_output/html_qa_why_landing_top.png",
+      "size": 653809,
+      "sha256": "5b2f74741f830a3c97c284ec40112c9e4e06eef44ed7c02d1906194348266b24",
+      "type": "image"
+    },
+    {
+      "path": "economic_validation_output/micro_bot_metrics.csv",
+      "size": 107246,
+      "sha256": "24273a1436e7cebcf9b0673ed077ac02c19fd50b55e4fdfec6b9d2e53e53c8b7",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/micro_daily_profile.csv",
+      "size": 1791,
+      "sha256": "45af20bb23b13c2cfdc3361714dc86bcce39d3c02e65bb7129bc6bc20d51a938",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/micro_market_sessions.csv",
+      "size": 5797,
+      "sha256": "3d710ca1b2070ba33a5ccaf4bf8ad11999d9423199bc86b43003a1d223df5735",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/micro_pump_dump_top10_winners_losers_by_bot.csv",
+      "size": 52353,
+      "sha256": "224dd4b973fb66d62b89a62deca5ca3e5ec03f7c9293dfaeee29222f26f75560",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/MICRO_PUMP_DUMP_TOP10_WINNERS_LOSERS_BY_BOT.md",
+      "size": 19670,
+      "sha256": "4334ee44130f6ccbae26b5c5ac3ba68eadc9f02c265de9842503570e86fa50cd",
+      "type": "md"
+    },
+    {
+      "path": "economic_validation_output/micro_trade_rows.csv",
+      "size": 5899304,
+      "sha256": "c3b663ed1c32b667a39ea075d11675beeb66de8b5f91f1147dea7b7c8461b2ca",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/paper_live_similarity_cases.csv",
+      "size": 2803642,
+      "sha256": "1d94fcf91d8d70f92b919ecc374c76833e94ebb8a00a61851fa4e0c9c69066c8",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/paper_live_similarity_top_cases.csv",
+      "size": 6458,
+      "sha256": "a6801506256cd91f1f055840d8d5e2c4ed55c36a6160830a7c9f92428ee4662e",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/reconstructed_bot_snapshots.csv",
+      "size": 183179,
+      "sha256": "f7face085a4391144e2f18bbe40f934bed6659a840629b1d7b68dbae9fdcb7e2",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/reconstructed_sessions.csv",
+      "size": 34587,
+      "sha256": "c3185c5eab02ad761656d2ce223a175451c02a4b6ed1d48623516875e1c33187",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/replay_adjustments.csv",
+      "size": 24196,
+      "sha256": "80cd08a142b91e3370b2798fa9139e9d740e970994bb1a66e3017b5cd5809463",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/top_micro_harvest_sessions.csv",
+      "size": 5468,
+      "sha256": "60f09345c3b6a88fbe70f4556fb1411dfdf15977693c38fc8099ef50357f8a23",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/top_peak_trades.csv",
+      "size": 7165,
+      "sha256": "a1b3e0ca6b1d51cfffdc1672ee1da564af1546cc1724aa07501e56dc462aa1da",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/top_retention_stories.csv",
+      "size": 5468,
+      "sha256": "009da53f190b5f98f3c65d137bcfcb5de43303b997219f1ded714ee30bdc9706",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/top_sessions.csv",
+      "size": 9521,
+      "sha256": "73453ea7e5801938f6cffb91c8437fab72db8aa35689787185168cdaaa3ec7c3",
+      "type": "csv"
+    },
+    {
+      "path": "economic_validation_output/top_vps_mirror_sessions.csv",
+      "size": 9518,
+      "sha256": "b6731ce4f3fcc961da5572a6951d932e47fbf86c88882c99522f7cf0500f7554",
+      "type": "csv"
+    },
+    {
+      "path": "ecosystem_dossier_output/ARC_SE_ECOSYSTEM_DOSSIER_EN.pdf",
+      "size": 2278175,
+      "sha256": "0313e9d204e8cc59c2fedee6d554508da72c9a9df8cc88d5c37c53b47c51ebef",
+      "type": "pdf"
+    },
+    {
+      "path": "ecosystem_dossier_output/ARC_SE_ECOSYSTEM_DOSSIER_QA_REPORT.md",
+      "size": 587,
+      "sha256": "cecd4f0d1979db50e701b59b52ad340c6e4ac7c6c5548a189cf505ea6d108e47",
+      "type": "md"
+    },
+    {
+      "path": "ecosystem_dossier_output/ARC_SE_ECOSYSTEM_DOSSIER_SOURCE_MAP.md",
+      "size": 1764,
+      "sha256": "413b60c8e7c3b26037111a9d72bbda79545f743459354c0ec6fb0c07e11c6533",
+      "type": "md"
+    },
+    {
+      "path": "index.html",
+      "size": 68604,
+      "sha256": "1f1db79668a1b836304186f3f09020dcbb38323e4c5fc6a4614babff06156c75",
+      "type": "html"
+    },
+    {
+      "path": "investment_memorandum_output/ARC_SE_INVESTMENT_MEMORANDUM_FINAL.pdf",
+      "size": 98353,
+      "sha256": "af0274e83c24d83d57f0529f64c23507fd21711f21d9c63834ca1f8e02be6fb4",
+      "type": "pdf"
+    },
+    {
+      "path": "investment_memorandum_output/ARC_SE_INVESTMENT_MEMORANDUM_QA_REPORT.pdf",
+      "size": 74797,
+      "sha256": "fc21366927bdfce732935006fd89a8da1b4b1c724d15412c535cc432173928e9",
+      "type": "pdf"
+    },
+    {
+      "path": "investment_memorandum_output/future_markets_commercialization_qa.json",
+      "size": 515,
+      "sha256": "98d7aaae709fb5f7036a89a14bf3931a20c6d23e4767a757c56cb78e5302f3db",
+      "type": "json"
+    },
+    {
+      "path": "investment_memorandum_output/investment_opportunity_memorandum_qa.json",
+      "size": 1507,
+      "sha256": "c7dbf744385c63106e213c30d57e32b5a0b912a3d4e344be1824b581522fe569",
+      "type": "json"
+    },
+    {
+      "path": "lang/bg.json",
+      "size": 60937,
+      "sha256": "5cb3a1eb53c6c0fccf9595d217157d03f2f77debbfdbe41f0f3ac6e19056e525",
+      "type": "json"
+    },
+    {
+      "path": "lang/de.json",
+      "size": 45026,
+      "sha256": "2820e22e7f7992957077af7588896ddc4dad39e036d6c3b0064191b678ca7b29",
+      "type": "json"
+    },
+    {
+      "path": "lang/en.json",
+      "size": 42825,
+      "sha256": "b588260bd35306ee99e6b37df8855fc1ebac727dbe3b12a5841f6477375c701b",
+      "type": "json"
+    },
+    {
+      "path": "lang/es.json",
+      "size": 45583,
+      "sha256": "021624cecb468f11f0f4f54eb16a131f55d61d4c81e65bd7d68094a11efa75b8",
+      "type": "json"
+    },
+    {
+      "path": "lang/fr.json",
+      "size": 46174,
+      "sha256": "04d962bb37825166e4f26d4966a62fa9f2a37a39f47b0cc8c6e7d66ff4609465",
+      "type": "json"
+    },
+    {
+      "path": "lang/ja.json",
+      "size": 47101,
+      "sha256": "ba85919fcf42f62bc481d3f3d55133d5e1ce24f1ec2401421e9c91c2abf4ef28",
+      "type": "json"
+    },
+    {
+      "path": "lang/language-packs.js",
+      "size": 343147,
+      "sha256": "d1e915ddd061794a16eebc542bc00356b635bfab1cee9edc22ce160d78e3f475",
+      "type": "javascript"
+    },
+    {
+      "path": "lang/tr.json",
+      "size": 44223,
+      "sha256": "12fa0d34910561a2288da0a20ee8a480dbd323a4b5e36ff393f72de16199d99c",
+      "type": "json"
+    },
+    {
+      "path": "lang/zh.json",
+      "size": 40358,
+      "sha256": "21dbe5a210d4c1df5c5abcb312615776f291f6f33141775995d2808e19c5e80d",
+      "type": "json"
+    },
+    {
+      "path": "legendary_sessions_output/ARC_SE_LEGENDARY_SESSIONS_HALL_OF_LEGENDS_BG.pdf",
+      "size": 2148179,
+      "sha256": "4ea29c7de9fa453629e09dc33e2a5cdbd1dec79b1e6b796373fa84bc628a5415",
+      "type": "pdf"
+    },
+    {
+      "path": "legendary_sessions_output/ARC_SE_LEGENDARY_SESSIONS_HALL_OF_LEGENDS_EN.pdf",
+      "size": 2101739,
+      "sha256": "92895b056d07886750ef4a6833384fef105d6eedac6dd735eaf699bad2baa04b",
+      "type": "pdf"
+    },
+    {
+      "path": "legendary_sessions_output/ARC_SE_LEGENDARY_SESSIONS_HALL_OF_LEGENDS_TR.pdf",
+      "size": 2108255,
+      "sha256": "ce8e1110ff5dc5a154baf3831de8fbe0527630ab4a3c668ce02a0b11ed101482",
+      "type": "pdf"
+    },
+    {
+      "path": "PDF_LINKAGE_VERIFICATION.md",
+      "size": 1502,
+      "sha256": "ba641c057f705f1019f5a7376276944f905a662ac742c204650ce0f3d50bf098",
+      "type": "md"
+    },
+    {
+      "path": "README_DEPLOY.md",
+      "size": 8471,
+      "sha256": "6741dceff4867317c3766dcbf73eaf66984ea4d5303bbfd602c99a29167a07c6",
+      "type": "md"
+    },
+    {
+      "path": "real_world_comparison_report_output/qa_checks.json",
+      "size": 1090,
+      "sha256": "6f537f2b7085315da07f646967475572daad71a447342cf2a08a26e1a3987ffb",
+      "type": "json"
+    },
+    {
+      "path": "real_world_comparison_valuation_output/ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_DATA.json",
+      "size": 67866,
+      "sha256": "1ef6e2b01b702d6cd16efe888f4051e04799c6fc5cb822b49dd478ab82e4e3cd",
+      "type": "json"
+    },
+    {
+      "path": "real_world_comparison_valuation_output/comparison_matrix_qa.json",
+      "size": 3338,
+      "sha256": "083f25fdf4afaadf30bd82dcce1d760577dead2266442f23b2c8e76b72dd7615",
+      "type": "json"
+    },
+    {
+      "path": "real_world_comparison_valuation_output/qa_checks.json",
+      "size": 1221,
+      "sha256": "9b0e95d93d7eebc8ddc15355b3793bed989b49094bab32cc97d1b3b0aaa80e6f",
+      "type": "json"
+    },
+    {
+      "path": "real_world_comparison_valuation_output/test_artifact.xlsx",
+      "size": 3304,
+      "sha256": "765f5c061b6c811b1d7db737751bc9372281eebdf8906ee81392848bfa20e110",
+      "type": "xlsx"
+    },
+    {
+      "path": "researches/ARC_SE_APPENDIX_A_EVIDENCE_BOOK.pdf",
+      "size": 1696550,
+      "sha256": "5efd556bfaf8477da3fac55bbc15f4b7b5cc186804c1e9e4ec3cb31f10f07999",
+      "type": "pdf"
+    },
+    {
+      "path": "researches/ARC_SE_VALUATION_AND_MARKET_POSITION_REPORT.pdf",
+      "size": 28000,
+      "sha256": "05d984a295c1fd513716cb0db751fcc0c02062c0a02c68c51df58039f8472d42",
+      "type": "pdf"
+    },
+    {
+      "path": "researches/ARCSE_FULL_ECOSYSTEM_VALUATION_REPORT.pdf",
+      "size": 85291,
+      "sha256": "208bdf327b9f0e3c0c2be0e3112570ebb75c46f27963d7bea3a3941615c26903",
+      "type": "pdf"
+    },
+    {
+      "path": "researches/RAPIDQUANT_ANCESTOR_REPORT.pdf",
+      "size": 619238,
+      "sha256": "7de9a0644c71b69f1b5940ef27e6e12475f1a6200c3e044a4fa07e64615ee061",
+      "type": "pdf"
+    },
+    {
+      "path": "strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_MARKET_POSITION_THESIS_EN.pdf",
+      "size": 297161,
+      "sha256": "fd62a7926d7cfd4194ceb371555dc75ed37bcf496076713d1984c44166cff7ee",
+      "type": "pdf"
+    },
+    {
+      "path": "strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_CHAPTER_MAP.md",
+      "size": 2493,
+      "sha256": "eca676ae7c827ca865bdcc7dcd01610b8cf1db90c4ce88895cc90d7d052e3bdc",
+      "type": "md"
+    },
+    {
+      "path": "strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_EN_HARDENED_CHANGELOG.pdf",
+      "size": 75150,
+      "sha256": "57c5fa6414700d76eb335a958e9935df3867faff4dcce73beb1888adb4acb31c",
+      "type": "pdf"
+    },
+    {
+      "path": "strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_EN_HARDENED_QA_REPORT.pdf",
+      "size": 74857,
+      "sha256": "41e32ac548bd2bd6045ab0ea3ae71326cccb0a107e46381378afb4d206716432",
+      "type": "pdf"
+    },
+    {
+      "path": "strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_EN_HARDENED_SOURCE_MAP.pdf",
+      "size": 78508,
+      "sha256": "4fd49494cae83eff5608820fc30cd47930c544dc989bdb79b6ac6a1357f85cf0",
+      "type": "pdf"
+    },
+    {
+      "path": "strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_EN_HARDENED.pdf",
+      "size": 357483,
+      "sha256": "af5c8171c0547f2661c08407e16e4dc42ba4cf04919a8dcb0ecb11f515000bb6",
+      "type": "pdf"
+    },
+    {
+      "path": "strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_EVIDENCE_TRACEABILITY_APPENDIX.md",
+      "size": 2538,
+      "sha256": "0124d2006ae43db552f2422af8959abac4adb7b76380af3e0caddf18edcef900",
+      "type": "md"
+    },
+    {
+      "path": "strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_QA_REPORT.md",
+      "size": 988,
+      "sha256": "b2cd6379c4d9fcce513c8bc78b5791681015fb30ffd9baacab6e548bacc642f0",
+      "type": "md"
+    },
+    {
+      "path": "strategic_acquisition_output/ARC_SE_STRATEGIC_ACQUISITION_THESIS_SOURCE_MAP.md",
+      "size": 3134,
+      "sha256": "67b821ee84c37a50ea6d75ce928e0277682056b8f4bfb224a344e7fa3cc7ad84",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_HARDENING_CHANGELOG.md",
+      "size": 1456,
+      "sha256": "45cdad565b235e6ce69f76e2402c7435a2c78169adc7d595b1b707921ea2967a",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_QA_REPORT.md",
+      "size": 1137,
+      "sha256": "2010e2f375f3f6a301e1bac64756a245efae684dadfa3ad50672f5a7e45256b7",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_SOURCE_MAP.md",
+      "size": 5851,
+      "sha256": "175772f9c834cc2573a938a837bf87373670e1ff1a3e14038c41e5e520d49568",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_THESIS_CHAPTER_MAP.md",
+      "size": 1956,
+      "sha256": "2fd38f915566ecdd6c106ba7626788d292e931f0e8798788290a00ff22f4bf53",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_THESIS_EN_HARDENED.pdf",
+      "size": 866855,
+      "sha256": "830d87c9081baa228db62dcdb779ec20f6a1c80d1de5311dcd312f4bd3a9d57e",
+      "type": "pdf"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_THESIS_EN.pdf",
+      "size": 747329,
+      "sha256": "eec782352069ed6194013753189786fb6967942e0d864d80fe4f37af2324fb7f",
+      "type": "pdf"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_THESIS_EVIDENCE_TRACEABILITY_APPENDIX.md",
+      "size": 2384,
+      "sha256": "ceea8ec86bfae8e6feb9adb8a883d488310a4e6e6f27062043daa7d2b452d4e5",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_THESIS_HARDENED_QA_REPORT.md",
+      "size": 1413,
+      "sha256": "b71d696d98a238b8caa3838168d8ec2341a834b505bfa0b4c4dffd8e797a5815",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_THESIS_HARDENING_CHANGELOG.md",
+      "size": 2062,
+      "sha256": "3dcad9d4501eecc7a1f604d096025315bb2969ba4fe6d1a25a29e468472ad93d",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_THESIS_QA_REPORT.md",
+      "size": 911,
+      "sha256": "ff30b3263911bcedb1e76c1c1d1811fab21193e12d45d3f5c648cc0c5d647042",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_THESIS_SOURCE_MAP.md",
+      "size": 1766,
+      "sha256": "ea165e11e655d5db8406182521d4169aaad2ccc393933223fd0eeabc31015866",
+      "type": "md"
+    },
+    {
+      "path": "valuation_thesis_output/ARC_SE_VALUATION_THESIS_SOURCE_TRACE_APPENDIX.md",
+      "size": 7088,
+      "sha256": "3ae3f7911a9e7b6c9fc3f9af146510f05d27e1958b994d3f83ae7d0f7faa27f7",
+      "type": "md"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_00.mp3",
+      "size": 21456,
+      "sha256": "0c5600ab170877849a2e0201a6a9f4b0e0b0a4f2ea94934d2bc7832ebda43cab",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_01.mp3",
+      "size": 23040,
+      "sha256": "c41b0c4b65e69d5f1d9d2e121421685cbcc33951758fd3a234825e0e6cae9cea",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_02.mp3",
+      "size": 33696,
+      "sha256": "0ed1d42705b16698c906b5253b665132c85dcf3f07cf471bed8991a72cd574f0",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_03.mp3",
+      "size": 20592,
+      "sha256": "12b2e817ec40ad8d41fc63c0c2605bdec8e4cbd8f6a895b4240495c614f44c88",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_04.mp3",
+      "size": 20160,
+      "sha256": "2572f506d3451bfa7bd73ff4a54a01c94dc325e83288664899af330acaf8cb71",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_05.mp3",
+      "size": 24480,
+      "sha256": "3ac07447a764489818e18e9c7abd5f21dd801096dd0f4c621b56aef761ffbf7a",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_06.mp3",
+      "size": 21168,
+      "sha256": "012381b3cb370cd1805b2fdfed34b59df75fe3d7cae6d669a0a60805559cc42a",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_07.mp3",
+      "size": 27216,
+      "sha256": "2ef8149b9f0cbf3a93deb573aaff28f8aaea4f7e38d2b1ff28a064f6ef14c908",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_08.mp3",
+      "size": 18720,
+      "sha256": "01013635144b5fb3cc21cf7e30d19a4a95b675010b75f00f3166bfcbd506438b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_09.mp3",
+      "size": 21456,
+      "sha256": "73f64b1cfb2c0fd25dd02db28c680dff9e0f07073b0da268f1eb335086f3d99f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_10.mp3",
+      "size": 18288,
+      "sha256": "eb4170c494a846206f1a90d3f1812a94f965ae4b9c21bc852831d24e810326f2",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_11.mp3",
+      "size": 17280,
+      "sha256": "dca436312911579fa8bd01acfafe7f31af20e1fc12582977626ee6610a6ba8ca",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_12.mp3",
+      "size": 17136,
+      "sha256": "5272b4f382c66e61c53c91039c302a89c567a1598380bc595b99ee20234a1fe8",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_13.mp3",
+      "size": 22320,
+      "sha256": "c46a195b6ef4f2a4d967627fa764b521be160db34e097c01f90e9c9c6c2bc389",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_14.mp3",
+      "size": 19584,
+      "sha256": "fd2b9f82b44403c231cafdd2454934f6ec168e2c8c4f839babc7a088d5260354",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_15.mp3",
+      "size": 16416,
+      "sha256": "e649f52549db570a98009fd8ee22685f524998b5028d788fd4e7aba5d958c141",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_16.mp3",
+      "size": 22320,
+      "sha256": "370bc3d3c2369674e1b1375cd18c18d3d2604c719d4cffbf9f1a1f002ee77167",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_17.mp3",
+      "size": 19584,
+      "sha256": "fd2b9f82b44403c231cafdd2454934f6ec168e2c8c4f839babc7a088d5260354",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_18.mp3",
+      "size": 16416,
+      "sha256": "e649f52549db570a98009fd8ee22685f524998b5028d788fd4e7aba5d958c141",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_19.mp3",
+      "size": 17136,
+      "sha256": "43006897d328ccb320450c32e6548e0fc5267c78f0ffb79354fe770bb20ba498",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_20.mp3",
+      "size": 22752,
+      "sha256": "fa1a07f31954734dee8ee4d177ef14ccb37187c3d6a8068f77b6d58766e148f3",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_21.mp3",
+      "size": 20304,
+      "sha256": "ddd5487035ad2bb93db0a7bdb68f0f83e3849f3e56eb396bb51a0f5156390ba4",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_22.mp3",
+      "size": 20304,
+      "sha256": "17194eae540e27bd5126e718fc15ee2d40a227213fc07aa01cf378f0de346f9e",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_23.mp3",
+      "size": 18720,
+      "sha256": "a019800a969c218d8caf60a07cc127c6c85905b331b0e5fefcee46014c1bd8b4",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_24.mp3",
+      "size": 29232,
+      "sha256": "a919119fe16c0c1e7fef26edeff742d93780e000f75075c75b022d3c3dd779b9",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_25.mp3",
+      "size": 19584,
+      "sha256": "16d130030afcd3faea7e08218161a4105166020a97a7877cbac9dcc49e25266f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_26.mp3",
+      "size": 27504,
+      "sha256": "68855b367f03c8dcd25166cd315ec14be00dd9beb5653efe47868c4481c0bb21",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_27.mp3",
+      "size": 15696,
+      "sha256": "c15eb3c1d9794a77e25210ce02b2d3ea47fbf9e93bda5e39665b2eb48f9b7e33",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_28.mp3",
+      "size": 18720,
+      "sha256": "3630b7e903bd7fbb61328a15020b5002d68811542f2f3014b62b30807503ca26",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/bg/v5_bg_29.mp3",
+      "size": 23328,
+      "sha256": "75155b0e61be00e852df4ebca508aa64365aeb7ffe9c0a3018af3f1a7bc7dae0",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_00.mp3",
+      "size": 22752,
+      "sha256": "0fea7758dd8c3f0e099113c8cacc2a682b98d7a2164221054fa37204a333beaf",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_01.mp3",
+      "size": 21312,
+      "sha256": "5f68b3fa0356b3947270190c55c20568ee707a8b23ba29146f13772e6a006e3c",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_02.mp3",
+      "size": 33408,
+      "sha256": "749513c6d4533320326d804a4c4ca8405031a354c056c41a7fa6b06b0da4d01b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_03.mp3",
+      "size": 17856,
+      "sha256": "b573bcb02fb112afd7f4314b5644df45fca8e3c8f9d4a8153189639d1ec9b93e",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_04.mp3",
+      "size": 17280,
+      "sha256": "a4fa0dc55e67caab5834a8277ab71d36d4973a7221eaa2ade01ca0796cd38173",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_05.mp3",
+      "size": 19584,
+      "sha256": "ae197444a256e953a2857ca0e4e03169f1ded8b41fb83c548c9dfbe7605a2407",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_06.mp3",
+      "size": 19440,
+      "sha256": "c37e35e24e69d48116ab73c32e197bdf5393e2b4f678066d20bbc599a35c58cd",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_07.mp3",
+      "size": 26208,
+      "sha256": "886f2f3c659cd61642e17059de65ac6c0896b568f32a6ad6f955556b854aa483",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_08.mp3",
+      "size": 16992,
+      "sha256": "7e82c54ce2bd1f52d7e9e26c4d6e7d5b117483802ae35d9553e6362391f2af75",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_09.mp3",
+      "size": 20304,
+      "sha256": "f3c830117443dc058093f1a030c3c154268be49769de0073eb1de2c6e5fb29e6",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_10.mp3",
+      "size": 19008,
+      "sha256": "1799335a03a72bc772e205f38d21f05887b2ecb2602cb5868568c99e0fa8850a",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_11.mp3",
+      "size": 15984,
+      "sha256": "2006eac6164a1f42498ec4c7bf79874945035759774e7c5f25bd825d635b7ce7",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_12.mp3",
+      "size": 18000,
+      "sha256": "33e13c78a24232052a55f3cb178433f2393ebf66e7776265badfd21c6c779bdb",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_13.mp3",
+      "size": 20880,
+      "sha256": "16740ac58f32ab314c82f4897c917e98dba6f5a8101908344dc9d778f4c66200",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_14.mp3",
+      "size": 19296,
+      "sha256": "9ac23bb4bc82ac0a01ee3874b64900b0d103b05be8eb9a1cb68956241d008d8f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_15.mp3",
+      "size": 15120,
+      "sha256": "09510a8bebd976e3bbaa465314c40cfa25af77400a7d364be37b85ee6de58993",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_16.mp3",
+      "size": 21168,
+      "sha256": "b99d801079a8c077e08a6749364017abb78993c1bbcdcbe308743a3fe8d0e44f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_17.mp3",
+      "size": 19296,
+      "sha256": "9ac23bb4bc82ac0a01ee3874b64900b0d103b05be8eb9a1cb68956241d008d8f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_18.mp3",
+      "size": 15120,
+      "sha256": "09510a8bebd976e3bbaa465314c40cfa25af77400a7d364be37b85ee6de58993",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_19.mp3",
+      "size": 19008,
+      "sha256": "a136243eb8a70bcbf6b2d2edc9b51ff40541f7e813b7b80406b79e88214799a1",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_20.mp3",
+      "size": 19584,
+      "sha256": "db54ade9325aa2c60b4157a715598e1b50e2d0b0a73cbedacf6ba08ddd847356",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_21.mp3",
+      "size": 20304,
+      "sha256": "fce728769ff36fdba9bbbcb63d7b4b2bb7de1ca6ca1c865add12f30510577613",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_22.mp3",
+      "size": 20880,
+      "sha256": "ad4be56d826bd09765fca6f0dcc836e6f4b6aa9f2b406ce74b80240e9b30caca",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_23.mp3",
+      "size": 17568,
+      "sha256": "435a2c187c15dbdf7cf5875597d6c8e2d0b55fe58bfeef996773a328173b92b5",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_24.mp3",
+      "size": 26064,
+      "sha256": "abc55a0dd80794f3b93c61884b225b5864090d0a9223114a51d0a48b9939216a",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_25.mp3",
+      "size": 20736,
+      "sha256": "5bc7ab35ba7335b8faff27d5493c3a6ee1140de7896645d2ecd5d889544ccf65",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_26.mp3",
+      "size": 29808,
+      "sha256": "23941f599d33636c45ace591bab4743371ccca03b2a54d1b8acb5c904924f826",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_27.mp3",
+      "size": 14400,
+      "sha256": "9c8738e3b0b67d19f9459adcbc82a76f527fbaabc8181a25de92d794142dc65c",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_28.mp3",
+      "size": 18432,
+      "sha256": "6828b01ded7eee037b1ebd99d5201cec32031832c5e4c0bd23a6e18da3da6c7b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/de/v5_de_29.mp3",
+      "size": 20448,
+      "sha256": "e08f956686461d5858ffb388174cc9357ffb77919ea9e69e6e0329514bc39484",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_00.mp3",
+      "size": 16704,
+      "sha256": "0e30662dccb6db549a9a2a4ae86156f541cb73d1bca0d5a4878ce3dd4643ca78",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_01.mp3",
+      "size": 18576,
+      "sha256": "39df74ccdd9b356c11353ec6ac61f80d7714f25bd4dc27eed1bf476431ff3dee",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_02.mp3",
+      "size": 28512,
+      "sha256": "32ed42c622aeb4f31fe188c309048bf439caf12803e0f8608b5279a526f9ff61",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_03.mp3",
+      "size": 14112,
+      "sha256": "34eb767410cb87ed955f8bf1fc7fa78874c7d0261092e32af36e6ed36eef5758",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_04.mp3",
+      "size": 16272,
+      "sha256": "3930f079feafcf451c9dfc552c686bfc29a644b4337e6db029b5d45b593db2da",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_05.mp3",
+      "size": 17712,
+      "sha256": "8c32d78a5f41be9ed8f25c80203eb9dc787cefa6be59f14f89c2d3f1295f9941",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_06.mp3",
+      "size": 15552,
+      "sha256": "1aee827152d6d8cc9fc791500487ff2c746ad249a597848c453bca9256a65b22",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_07.mp3",
+      "size": 23904,
+      "sha256": "0c574e2d4bee0ad1af6d14f310684b30744589785a48dc181a5edcfa0b0dc16e",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_08.mp3",
+      "size": 15552,
+      "sha256": "d12a77149d819a44d532335def9dbdf05dc4e20f6722c57d84a1ad191cd3af04",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_09.mp3",
+      "size": 13392,
+      "sha256": "914437c7ec2db227d89607eaaec3af74e5fb7c89c8d643bf4380f5964c7de81e",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_10.mp3",
+      "size": 16272,
+      "sha256": "524b5b4ef26725c9485b9b1c08a1243108e47bf8b0821afdd715da6c0014907f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_11.mp3",
+      "size": 14544,
+      "sha256": "bfed5536c1f6fe11069603c2565a3b68abccb9b9b6dc5d4b5420f0afa4cf417f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_12.mp3",
+      "size": 13968,
+      "sha256": "867dcb3493b61c7517ff7d0143b992148ff9919aa1f9c10166a3f647bc9cb54f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_13.mp3",
+      "size": 17424,
+      "sha256": "14f1eb682a3392dead18f4a14ce343f05954aeb3036ef348e388485e29199328",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_14.mp3",
+      "size": 16704,
+      "sha256": "798142852f4c39fecfefbbb4bfaad920fbd577bdce1447c20d150d628a42088b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_15.mp3",
+      "size": 10800,
+      "sha256": "b9b0ecbcd4b685872a5c5930903be93827b9d30bd0665171e679f23090fe564b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_16.mp3",
+      "size": 17280,
+      "sha256": "7c1b26f71fc46537830f0ef8f6c9d9fa8bb4b46934bc4a50f8477a514ea50dab",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_17.mp3",
+      "size": 16704,
+      "sha256": "798142852f4c39fecfefbbb4bfaad920fbd577bdce1447c20d150d628a42088b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_18.mp3",
+      "size": 10800,
+      "sha256": "b9b0ecbcd4b685872a5c5930903be93827b9d30bd0665171e679f23090fe564b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_19.mp3",
+      "size": 17280,
+      "sha256": "4a81b39f839c339f1ed4b5f5472728bd3b0981b943dc897faa5812ceaf144357",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_20.mp3",
+      "size": 14544,
+      "sha256": "c31219d4eed562a2c71e27d7bab62a09f08d3aa4a20563d932cc95658f8152b5",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_21.mp3",
+      "size": 20016,
+      "sha256": "b4366110ce1fca0d48a7a60995ddcbb8fb36377242c931f76d00f2c269e848d9",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_22.mp3",
+      "size": 15408,
+      "sha256": "88c862ab3b406f996267add27e5e8be9954adf26b5563b9c78bea004a8221915",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_23.mp3",
+      "size": 12528,
+      "sha256": "3046f013ae8e0d2ea715ca8868f811ffc55549070f8a88b67c39da73f5688219",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_24.mp3",
+      "size": 26064,
+      "sha256": "04d625325e9e464a46d2119886b8e19f76033d0dfcca5c6249627f3cc21ccd10",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_25.mp3",
+      "size": 17856,
+      "sha256": "448ddc3e372a02ebd9fbe9c0569ba6cecf9e7f3492b8ff16009584e8bd777c5e",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_26.mp3",
+      "size": 24480,
+      "sha256": "4169e7e0eabf8bd20b162ff5a334825aebc17cdebd94115709a6d4a36644682a",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_27.mp3",
+      "size": 14688,
+      "sha256": "c75f8e50315128a1ea6391c5bf9f06fef500a4b707661b29ceb8b01a7207391c",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_28.mp3",
+      "size": 16272,
+      "sha256": "5d2050c3c674dc7d84517c24f053fefefbc94596ba8a60a6f6805a56d4d7dc02",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/en/v5_en_29.mp3",
+      "size": 17136,
+      "sha256": "de979ce5c2645567b5c6c4c3f5dc76e731a528a6bad6b96297aed4b943a0b176",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_00.mp3",
+      "size": 19584,
+      "sha256": "353755f308c0dfb3a839779b243041c6be1d46a89030e2dd34d1529e0d410ab5",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_01.mp3",
+      "size": 21744,
+      "sha256": "cd1350bdeea0785e89a231e4ba470be4b486f62a0c0913d5f77e12f613ed1360",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_02.mp3",
+      "size": 32688,
+      "sha256": "9234a1325ca1db308a4f6c908641c077c2736c2e2177c37908b0efdd652c1423",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_03.mp3",
+      "size": 21168,
+      "sha256": "7ee18081ddb190d5bb053c03773f179df68d6a0915b72e80d2618671cc347ede",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_04.mp3",
+      "size": 23616,
+      "sha256": "7bad68e70d8d992ed73265eecde229201571b91c9ec2e7df8b639716e851caee",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_05.mp3",
+      "size": 20592,
+      "sha256": "b7ee70e3a399d281cb696b680bc7b7a0ef28ba7373f56523faffddbe3d403864",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_06.mp3",
+      "size": 19872,
+      "sha256": "51e1ba2c81c9bbc33fe6951cf664342b8987d23768f7452e8d10b95a6bc22fbd",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_07.mp3",
+      "size": 26784,
+      "sha256": "3da0285f37d2836644a1184a6c8dede4a76c4238b1b95bb66a8b561f77e0d425",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_08.mp3",
+      "size": 21456,
+      "sha256": "40720e2f52de2bf1b2262daf95e96957d89bd647fa0dfdbb5da9ef19bde956b4",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_09.mp3",
+      "size": 19728,
+      "sha256": "25075d2a488b8491a71360c481a1f168bb9ff136f44aaa75b8fe894c13d06df3",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_10.mp3",
+      "size": 19872,
+      "sha256": "ccc95631f0660caaa42ababbcd855a593cb393d27f05e9d5680b50e2055b9329",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_11.mp3",
+      "size": 16560,
+      "sha256": "8e7b42d663886ebaf5fabd05dbfdf30b3f74ad43927f86ce3d5b41a8999648f7",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_12.mp3",
+      "size": 18432,
+      "sha256": "f822343d7948a5d2e9eca8c2f1960d0161a937f7264554c2d23230bd09fb95f7",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_13.mp3",
+      "size": 21456,
+      "sha256": "df37ab48758725ed44d4941457880bf852815042c0a7424b565d0dbf101bb093",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_14.mp3",
+      "size": 21024,
+      "sha256": "fd78b686a79e569c760de66dd721857a9e164933ddc4dbe81f31916b5986becf",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_15.mp3",
+      "size": 15840,
+      "sha256": "45cfb5dd1bced81349d2a64cf61b35ea062e0c441384bd85bff47d741de3f3ff",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_16.mp3",
+      "size": 21312,
+      "sha256": "6ec25e315b4a3d0b614b6aaabbae9ba72dc0075935145e2d7306fadff19fa2e9",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_17.mp3",
+      "size": 21024,
+      "sha256": "fd78b686a79e569c760de66dd721857a9e164933ddc4dbe81f31916b5986becf",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_18.mp3",
+      "size": 15840,
+      "sha256": "45cfb5dd1bced81349d2a64cf61b35ea062e0c441384bd85bff47d741de3f3ff",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_19.mp3",
+      "size": 17280,
+      "sha256": "c2576fecb1eadd7cdf6ac026056f1c9eb85575aa1037b0ba292a367b294a1e39",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_20.mp3",
+      "size": 21456,
+      "sha256": "720a5c2b150bfc81026ad89cc9235e4aa66ef3edb392c3e1122fd808303c23c4",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_21.mp3",
+      "size": 20160,
+      "sha256": "2237e606a42fa3a03968e845e17e926a33bf3c8a68145ea5ca8e1cf4a4a60c0d",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_22.mp3",
+      "size": 19008,
+      "sha256": "edf7974145db4f50e3f6cfcd00a2fa73c1313ba0e19e4503d77247cb8a1c6f72",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_23.mp3",
+      "size": 16704,
+      "sha256": "f3405c5e4d097100a7cf9bfe504cc414dc7c8246f3ac25a14e3c8b1fec9b714c",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_24.mp3",
+      "size": 29664,
+      "sha256": "99a03f3bee861b1622410d36082d2e0fbb06129cc4a840bbb2102e0e5ebd9176",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_25.mp3",
+      "size": 22752,
+      "sha256": "0e0b2411c8ed301d50bfbe673795aefed32e1b6741e815ae17ec5cb8bb7f516d",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_26.mp3",
+      "size": 27072,
+      "sha256": "5e21dfea13da8729a2a5529d86359610fde6f381a9981c25b21782594b0bc4bf",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_27.mp3",
+      "size": 15696,
+      "sha256": "dd8127155a5f61d7eee37e58a9d6f8ff6ceef84a74ed046aa93a62938157995b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_28.mp3",
+      "size": 17856,
+      "sha256": "15288f8426b43a62f0adc1ec50ad3bdd97aae8bc73d43a886897da86ec7afd66",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/es/v5_es_29.mp3",
+      "size": 20592,
+      "sha256": "a81532c1bea5ccde9ab195f515ffd8ae481b1becc3975e1c3543816938fc5fb3",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_00.mp3",
+      "size": 21600,
+      "sha256": "1ffe96c2c62b7f73634d125d000456656b2633c9cf9fc2fead0e21e21e5601b5",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_01.mp3",
+      "size": 21312,
+      "sha256": "f5b44eadbb1c4fc91feb158be8aacfd807b999978d30c1b5ae93a5b820e62e72",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_02.mp3",
+      "size": 33552,
+      "sha256": "e5f266dbddde9049b6f8f0083bd9bce1c54ac32e9902c99c69cf048681706f17",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_03.mp3",
+      "size": 18576,
+      "sha256": "fc220499213ecd4ce112a1aaa548f59da0e139b04fc93669028fd34efc916b33",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_04.mp3",
+      "size": 18432,
+      "sha256": "b4d0305ac29c499de09562e880c3d66fe615d773d3ee6d72e6759801b5518fe0",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_05.mp3",
+      "size": 20880,
+      "sha256": "112c453b20690a4554d79b3d7b79829e089be74fd63663b1d43a66748ca2a4ac",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_06.mp3",
+      "size": 19872,
+      "sha256": "03291cfa56a3d0ce28fb28ccaeedcfaa65d59da9013d4249f6d092a9f6a62fc8",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_07.mp3",
+      "size": 24768,
+      "sha256": "702633c8092231d5a280e9b8c47369fa62669d8a8bcc43f4299bd677191fdb9f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_08.mp3",
+      "size": 18144,
+      "sha256": "d863ce441d45a81e56737ae9cd572d9aecb809e1a70a12af437d068929b3067b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_09.mp3",
+      "size": 19152,
+      "sha256": "90ce43bb7cc35c28d5b2a7258543d1e3a79ee26a1e5a767e07409d6e5f29b681",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_10.mp3",
+      "size": 19296,
+      "sha256": "cad1ece6cea253314cde4ca8a4521388e3100fc8f00c29abfa922186e58022d1",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_11.mp3",
+      "size": 16848,
+      "sha256": "9447d801235a46a9172ef338ace328a67d078ab98744083e51b3091872c506f7",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_12.mp3",
+      "size": 18144,
+      "sha256": "71bc534214ac800f8979d1352a06df2e1146c7442349f90b28cd098f5fd4f4c6",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_13.mp3",
+      "size": 19584,
+      "sha256": "f34e5acd623a044afc78f67606cc6c347804b0fa39cdddae4dd5ff46e61b3090",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_14.mp3",
+      "size": 17136,
+      "sha256": "3f5a5003c3f44311ee5a96d2baa0df4cd48dd6338269493314ac7f5c7c470fd2",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_15.mp3",
+      "size": 13392,
+      "sha256": "e0da3ef3637f2b8d390b2384082a8e051d28045b603ab650a1222cc9e0b0d496",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_16.mp3",
+      "size": 19152,
+      "sha256": "8e8f5b53104ba1544a3db6c24958790084cb2f25d049aa8c71d77af3b49d8283",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_17.mp3",
+      "size": 17136,
+      "sha256": "3f5a5003c3f44311ee5a96d2baa0df4cd48dd6338269493314ac7f5c7c470fd2",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_18.mp3",
+      "size": 13392,
+      "sha256": "e0da3ef3637f2b8d390b2384082a8e051d28045b603ab650a1222cc9e0b0d496",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_19.mp3",
+      "size": 19152,
+      "sha256": "089ee18ecd489ce4b8e79d786cb6a5df543667300e74677ff909b828b570ab6f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_20.mp3",
+      "size": 18144,
+      "sha256": "69b304b6a1370df1c0deecd070f0ad3b27f7a6a8f0d3fb4c354e6698ddbb77ff",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_21.mp3",
+      "size": 21312,
+      "sha256": "5393c2539e5aa66ebc63745d4ae684100edc98b60028ae49b191f0c5b22a557f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_22.mp3",
+      "size": 18144,
+      "sha256": "245b2bcbf193fbe843cb2c54728ca812481beda1e1e5c809f52c3e3b0f2981c7",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_23.mp3",
+      "size": 14688,
+      "sha256": "f4d4c557b4922b1f1ff25d2b69591c740d8a45430a4000160d88717d2142cba2",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_24.mp3",
+      "size": 26496,
+      "sha256": "71accaf876a261e7539a6aa8385fe34a5064e1a4c77b5a170ab2a15af49adc0b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_25.mp3",
+      "size": 21600,
+      "sha256": "14e2e3fb8bddc179e32c150d745e01d64eebd7d5f87eae108a60fdcdd95ff2a8",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_26.mp3",
+      "size": 28224,
+      "sha256": "0887a46acfdb03cb9346c18d3ed989365f044a82c60799aa913d9797b6ddb93b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_27.mp3",
+      "size": 15408,
+      "sha256": "0218f90749a4ebd7a6c1b4593e27d4ccbace51c31a609f150f51e8d63526477f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_28.mp3",
+      "size": 17136,
+      "sha256": "2ec4c474a8c1361c15f1f3a4cac155b773b806bcd38efa882c53a1ccaf858353",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/fr/v5_fr_29.mp3",
+      "size": 18864,
+      "sha256": "9d88fc08532d33ab0823fdd9ed177cbb366bab85f5cf450114ed4e7b41bd038a",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_00.mp3",
+      "size": 30096,
+      "sha256": "a5bc102a7aa4557a06e160fa6cd4f6d4ff6259205382470d85cdac753979d82b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_01.mp3",
+      "size": 26928,
+      "sha256": "67528448a2f42b140975e1ac15a79a33bc4b6d23c45e184d8ff7e35d3efed854",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_02.mp3",
+      "size": 41472,
+      "sha256": "ea7afb06969d472270ce1534469c03172ed61f50225af8963878ef8ed496f95f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_03.mp3",
+      "size": 17136,
+      "sha256": "4611e02a6291a01256f2a6fb812e1c2750ef6329af94dd69dd9a820a56bbbad9",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_04.mp3",
+      "size": 17424,
+      "sha256": "2e7d3a40db26a7642b2db81d0aec53d278437342e3a4d70739b502ab0bc630b1",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_05.mp3",
+      "size": 19296,
+      "sha256": "c626977d992e9631e3ad77eee2a770ba64a0d8e068feb5f31d883d808ff82989",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_06.mp3",
+      "size": 25056,
+      "sha256": "6c6ec061bc69613ba02e2bb8a6ed791c6f8d8861861dc31986818b179dea5bfe",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_07.mp3",
+      "size": 30240,
+      "sha256": "3e5c9523e00ea1e24067e8a8f4812307b5ef8471f4ccf71d461c5b626bb5b9da",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_08.mp3",
+      "size": 20304,
+      "sha256": "c22fa3a0a2b139e0c41b7894280a1282eec5e5c6970b30909f2cdbf9f3e1f69d",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_09.mp3",
+      "size": 23904,
+      "sha256": "d06782a129988baa713243a2a205e43ba23e21795a0535c4335925d0551cc296",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_10.mp3",
+      "size": 21888,
+      "sha256": "4399e251a628d8384b23e6dd88f897482a9159970d128c7e3c28bb4efbbdcd3f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_11.mp3",
+      "size": 17712,
+      "sha256": "cb01c71f5add8fb15ab81e49e898f02375f9d6f94f171be258024e73fb15557a",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_12.mp3",
+      "size": 20736,
+      "sha256": "3daafb25ff5fb7dd986c62ccf060860488bbf1f82b94c1542ae3a1916f8f1100",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_13.mp3",
+      "size": 25056,
+      "sha256": "1b0866f1d994f613657def31a97f7342a87f2b894f918cb27fcb02bbaa37dfea",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_14.mp3",
+      "size": 23328,
+      "sha256": "96394b0baeef1a445d77b19d4b4c46016123dc85584a130d22647a3d6c26c41c",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_15.mp3",
+      "size": 16992,
+      "sha256": "b8f9783f1107c5e2de515d33f8582d2419affb884af9419160d5bde1bfa46a17",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_16.mp3",
+      "size": 26352,
+      "sha256": "d8c354b2bfd000bbb22a47a7a918ba33725caf22b0c028b85caf0789b5c3ea91",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_17.mp3",
+      "size": 23328,
+      "sha256": "96394b0baeef1a445d77b19d4b4c46016123dc85584a130d22647a3d6c26c41c",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_18.mp3",
+      "size": 16992,
+      "sha256": "b8f9783f1107c5e2de515d33f8582d2419affb884af9419160d5bde1bfa46a17",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_19.mp3",
+      "size": 21456,
+      "sha256": "d9fb56e6d73d3fb34d0c0d9f527340b87e2f5ea587f08b551dc3eaa70f5efbb8",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_20.mp3",
+      "size": 21744,
+      "sha256": "4e0876b1764f3661894e3fcc6d9c3b461dc6f114b7a9f3afe1fb0899d8499c2f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_21.mp3",
+      "size": 25776,
+      "sha256": "546e3b5861c998af7000d756ff8285dafb08861eb4a01b53b8f7945bf6259ed0",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_22.mp3",
+      "size": 22320,
+      "sha256": "7d912129a455894e740106e43d13d4f19d0c4e60a71f51cece538ac7f86736b3",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_23.mp3",
+      "size": 15984,
+      "sha256": "48123fe1884983b42d02ec19408031f3e28877b0457d1893daae52dfbf73aaac",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_24.mp3",
+      "size": 36000,
+      "sha256": "44564218c359ed4b16e4456a7880b5763ceb37acae84cead1a1578837d191837",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_25.mp3",
+      "size": 26640,
+      "sha256": "9f2143c138a5daeccddcdfcaed44a2b7098b4494c6ea66dac84c05611b6d8115",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_26.mp3",
+      "size": 31680,
+      "sha256": "917fa4b00c40228dc5f8da6cc60998fa4b56b805ca523f11d69b8a7952178423",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_27.mp3",
+      "size": 18144,
+      "sha256": "c977bce3d015d5ca1b2a2911086609c14796c45298966997668465310f034243",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_28.mp3",
+      "size": 17568,
+      "sha256": "481cb7aa00c576dd30009caa30901a697136eaa7748ed95c01759bff6dadf9b0",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/ja/v5_ja_29.mp3",
+      "size": 22608,
+      "sha256": "4b197cf86604e14ff962423c2616385dd899534f7eb35ef174b71c8793a37669",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/market_chaos.wav",
+      "size": 1764044,
+      "sha256": "09f0c4acf0dd9d83cb060da0070d7b6312b986f22289677466d1bd6a1c30906d",
+      "type": "wav"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_00.mp3",
+      "size": 30384,
+      "sha256": "3b45872e99c63cc09071a751729dc824a962ef94403670de1d20c7834a4fc532",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_01.mp3",
+      "size": 27648,
+      "sha256": "9d5865affc83017845270a024833f859e5a74107c54752683a5793d139a9b68a",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_02.mp3",
+      "size": 40032,
+      "sha256": "1cf49f559dc2523c6ed790914741ea3dca523580f5ec946d30abb634b75839f2",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_03.mp3",
+      "size": 20160,
+      "sha256": "a998d0e065047dc5407caf10bc352234dea787a666dc6532d46997f425cf3d78",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_04.mp3",
+      "size": 19872,
+      "sha256": "fbdc7e7a8a436e6801774287a9151101d64da86406a41b58d601bbb4c580344f",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_05.mp3",
+      "size": 23472,
+      "sha256": "868fe278b76fd03a32670c2d0afbd95340eae77705d1d85469cc1b69419d7487",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_06.mp3",
+      "size": 25344,
+      "sha256": "9130932620fa3d72a92873a3b9d3580d5f220eddb6586ee51711d2ca46fa755d",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_07.mp3",
+      "size": 27648,
+      "sha256": "9f6480ab321d72e148d0581d0ced386a338c3f1e16b5c9a67e8945beba8fb161",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_08.mp3",
+      "size": 24480,
+      "sha256": "c9b04a36a6b6f378da817ae62f84ac4d5756c9e9c967de8f1aa1e7871fcac002",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_09.mp3",
+      "size": 25488,
+      "sha256": "b3505c667ccc61b38a25da76a705afefdaa84d5c197e9a862f8ceec51d702798",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_10.mp3",
+      "size": 21312,
+      "sha256": "dc025588ee01f11803cf63a3ab3e5f60b168279b1f36da4f2a4139d03ba04520",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_11.mp3",
+      "size": 15984,
+      "sha256": "d06b2c0bda3a7914b64f9066ac4e624191d561ad53844606ebfbfa3f11c51160",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_12.mp3",
+      "size": 23472,
+      "sha256": "7789f351e3dcf17ca9f22d5a9c8d94d98a4d2bb988907a3c4c9d573b00c8f21e",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_13.mp3",
+      "size": 24480,
+      "sha256": "e4e79c1afdcf2c9310e3b58b09f4acaa47e41ac573f4151fd4bbdbaaeb2cfbee",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_14.mp3",
+      "size": 24048,
+      "sha256": "26e89c5e1749ba9a526e2d2e0006362bdbc2c9cfb00b6b0065028ac389729fb2",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_15.mp3",
+      "size": 14976,
+      "sha256": "635d78475cbd16ee2be5c0a40da2e9eec29b76f0d7712bcbc737acbf653eda6d",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_16.mp3",
+      "size": 23904,
+      "sha256": "e0c83c24cce8a4716ae979a91d7c02cc31a11d4712cbbe058885d501a26440f3",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_17.mp3",
+      "size": 24048,
+      "sha256": "26e89c5e1749ba9a526e2d2e0006362bdbc2c9cfb00b6b0065028ac389729fb2",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_18.mp3",
+      "size": 14976,
+      "sha256": "635d78475cbd16ee2be5c0a40da2e9eec29b76f0d7712bcbc737acbf653eda6d",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_19.mp3",
+      "size": 23616,
+      "sha256": "332fcd72da3a8d4c6a56c6e4611ca31a97a7c853ca809305a7888dc789f7b607",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_20.mp3",
+      "size": 17568,
+      "sha256": "f4986305ec7bf39c4106810427ae732565cb848b94694a60e3d76ba8c53bce67",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_21.mp3",
+      "size": 26208,
+      "sha256": "b17d1e59c7e55300ecbe68c88c127afcaab1e505d9c126315e576dd547339f9b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_22.mp3",
+      "size": 21888,
+      "sha256": "fc5c6cbf25f615e385ca308b1ccc02b62f765c0ac16cb592630a67535bccb42b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_23.mp3",
+      "size": 17424,
+      "sha256": "72ca5e2858478b730b6e85bf334e87fc3cad94b8d2c1ba18fea72e5cdd989fbe",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_24.mp3",
+      "size": 27504,
+      "sha256": "25d3f2e2fbb9de1f02c8f17ace9504fb752698b9ca433354d32d60b3153f901d",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_25.mp3",
+      "size": 25344,
+      "sha256": "fed7fff79e86b7ceeb6cd22338ba8f2d3756e605c02c9f9df1eaeb072c5e5baf",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_26.mp3",
+      "size": 33840,
+      "sha256": "076f5281b1722b7d3c85c2ef04443d20259e1902eac22251a1ee7b10c0224f05",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_27.mp3",
+      "size": 18720,
+      "sha256": "7c07aaef9d1f4aac807248bccfa20257f185b35f1bc7b30a6ff25a81d4d86a21",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_28.mp3",
+      "size": 19440,
+      "sha256": "6646614d4390cb540427e4df6da7456852c2648a7e6d8d7077cfa852178ee1b0",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/tr/v5_tr_29.mp3",
+      "size": 22464,
+      "sha256": "02e6b64d7f2d5a88fc062db55b0bb0e92e9ee048c8bcfbd5b4aafb56b4a7913d",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_00.mp3",
+      "size": 27648,
+      "sha256": "2571f6e0ca2339d6cbb49202708bf6ccf2351d4c3b5ff44b764910a075d4266e",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_01.mp3",
+      "size": 21888,
+      "sha256": "de7ff3be6bbfd508af001a1afef8b8d5a87e53a5c4beb9291028423547a5121b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_02.mp3",
+      "size": 31248,
+      "sha256": "67792d897b36b697a94766c85f0058f4010482199813bb79a9dc5187a65e6dac",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_03.mp3",
+      "size": 15840,
+      "sha256": "e99ec31bb93e6d3e7d8d75b980e84bdf9685c9bd4fbcb1d5ac1522144e127070",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_04.mp3",
+      "size": 16848,
+      "sha256": "74ccb11ad26b51353fcbb71c947bd0610a6f3ab2bf8436fb3ddc72846da74c0e",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_05.mp3",
+      "size": 15408,
+      "sha256": "aaff5a85d5d76b3ce5d8155cf418ab9cf24c135cf7e24c4d88d716c58a66fe77",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_06.mp3",
+      "size": 16704,
+      "sha256": "3069d3644a0cdce5daca7f1d03a58fc579db0498a2abd2d4fa460f2f97d27be2",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_07.mp3",
+      "size": 24192,
+      "sha256": "dd795306d051b65e88012d3b81c44ebab2a0a6e7a24d4d3aa9d94a79760c7f92",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_08.mp3",
+      "size": 16704,
+      "sha256": "a1e8642dd472659703a3f5614587d203a38f28e632677614070c1b650c00c290",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_09.mp3",
+      "size": 20736,
+      "sha256": "61ac43cf201cf1713181ccb4ed60f35f130c4df4cb26b84a6110b1e219e83faa",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_10.mp3",
+      "size": 17856,
+      "sha256": "58500459fe523d79e893075d2984cf756bc63e15f57380ec05b94dda7f8b28bf",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_11.mp3",
+      "size": 18000,
+      "sha256": "e11e99fd0af28a786285ffe1820e05cd61c2b3f54b02f5f1a34fb1784beb2426",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_12.mp3",
+      "size": 21456,
+      "sha256": "3321078d4c0ee47959870b4336dd8af4ba124866e38bf005bfa10f769d9e262c",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_13.mp3",
+      "size": 21312,
+      "sha256": "f462a3bd30972040f7dc4f3301774e0eea55964374f50beead532ed539469b3a",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_14.mp3",
+      "size": 17712,
+      "sha256": "ef54ed5de9dd82f1486037c19ca2ffb6b7a76a9fe58afa12e444a8deb82f693b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_15.mp3",
+      "size": 15552,
+      "sha256": "af262cca0dcf8ccc67e8549cca32908d977add5d06a60957a3a377ddc9128128",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_16.mp3",
+      "size": 22032,
+      "sha256": "f656600e0a1b8126c4629e32fb4d6ccf3b5a64425cfdda5d72f0fb5ea8f15771",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_17.mp3",
+      "size": 17712,
+      "sha256": "ef54ed5de9dd82f1486037c19ca2ffb6b7a76a9fe58afa12e444a8deb82f693b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_18.mp3",
+      "size": 15552,
+      "sha256": "af262cca0dcf8ccc67e8549cca32908d977add5d06a60957a3a377ddc9128128",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_19.mp3",
+      "size": 22176,
+      "sha256": "b20c50d3beb277ca2253ccec23dd971dfce8cb40dfc63fa6e89d64bdb7a425d3",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_20.mp3",
+      "size": 17424,
+      "sha256": "951fe481508831130c03ef31b266d64d8e6e3ad51a69f440512385532b0e2ed6",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_21.mp3",
+      "size": 25344,
+      "sha256": "f3a24fedf3ca96151a16b57ebabd39e7dc67b8fc4a840578ca2795f0c7ed40b6",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_22.mp3",
+      "size": 21312,
+      "sha256": "6ac9ec49f031b11b03998657538146d606220f51909585ffa76766a92a848389",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_23.mp3",
+      "size": 16560,
+      "sha256": "83510bd3d99468d7b6e6f0d5d0d768a236e8a1bf69b8c1cc4422c7648967a8c9",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_24.mp3",
+      "size": 25776,
+      "sha256": "b5c5eae24214ee056dd87c86f323cc4f2cec580d6c2ea5aa2544e07b54bba481",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_25.mp3",
+      "size": 21600,
+      "sha256": "e82077e0a5a4bcf01f604671d891bbe02559bf7ead0dc1904d3b9fc32971756b",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_26.mp3",
+      "size": 30240,
+      "sha256": "416ad7a39913c061f1701e56bdf2ceecba9f830a6eb9d58ce530a3410594d903",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_27.mp3",
+      "size": 13680,
+      "sha256": "aedd523351fc10460def92ce224866075d3506e730d7abfc318a7ff99e128ff3",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_28.mp3",
+      "size": 12960,
+      "sha256": "cbaae233ccfdab873873cf2b56367426006f599cd01b97869157d37d01621ff1",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/audio/zh/v5_zh_29.mp3",
+      "size": 22896,
+      "sha256": "c0c9c2ba08834bdd2831c8ebf3ce0bd5eb8bc8a5334e41964b8b34cae0e5af30",
+      "type": "mp3"
+    },
+    {
+      "path": "why_arc_exists_video_v5/evidence_plates/v5_down_extraction_plate.png",
+      "size": 198588,
+      "sha256": "4003fa4c182fea13e39626e751ff19b42493ec0b44cc9473de05a838a66e0330",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/evidence_plates/v5_micro_monster_plate.png",
+      "size": 201181,
+      "sha256": "5d23c4bba46eaf61adc8e9d4120bacb1348a9ad303630136fd86e21d98aadba4",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/evidence_plates/v5_resurrection_proof_plate.png",
+      "size": 219190,
+      "sha256": "0bd20ed6c2c52d1d9b2b92a19180254f6e3a3372eac21d346de6789567123bb2",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/evidence_plates/v5_retention_plate.png",
+      "size": 139210,
+      "sha256": "4ad1bc5907444acf075ea76bd141d49e65521f5549760d05cd8d4a05ab665d71",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/evidence_plates/v5_up_extraction_plate.png",
+      "size": 186715,
+      "sha256": "82dc52c57f3e6b88312a0ba22361949a2cc7dd1863b74f8674076dc619c706d9",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/encoded_0005_market_chaos.png",
+      "size": 441273,
+      "sha256": "7b9ae7af45c57f7887d9b779bc97c61a2dfb4cf3ee721ac400ca6a5051ec0765",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/encoded_0019_founder_full.png",
+      "size": 212531,
+      "sha256": "b26bd49ab830aa677e2ba06eae146fd1137020e4d21e9b07ceae95720844dd73",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/encoded_0226_future_watcher.png",
+      "size": 616029,
+      "sha256": "229fad3f724b5cf7ac7bb2f8f076be3873ce69c6518f13c0d668c059367a37c3",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/encoded_0257_transfer_full.png",
+      "size": 108356,
+      "sha256": "146bb004ba29afc5454577f5b15ea6ebff7bde10e87db75d7640972a6422b026",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0005_market_chaos.png",
+      "size": 94947,
+      "sha256": "f1218d49fad15841f3b90cb2c62ce9b49a5dffc1a9b32c89f2575479557d81a0",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0010_cut_to_black.png",
+      "size": 6109,
+      "sha256": "0f52608dd021e7069ef19f9d8f46f6d651aaf5cbac5154465092de3574cf8514",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0015_founder_liquid_text.png",
+      "size": 63973,
+      "sha256": "a97c039ec84d18f3bd23d3baae3c699a8babf5d9b6cae899baa145e8ca966138",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0019_founder_full.png",
+      "size": 77164,
+      "sha256": "741313c8c5665a7b63abe96366dfa775a34c385cf378805b205931137b7505ed",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0023_watcher_blueprint.png",
+      "size": 368042,
+      "sha256": "a84af5d8f1344ac19fc17901a61fc7dc334c10d4129bd9e8466a6fdd06fa91ba",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0023_watcher_equilibrium.png",
+      "size": 778393,
+      "sha256": "e8e191146898a96740d6fc8552a1dfbf504daad52d5993334c4500a0ff34486d",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0024_arc_question.png",
+      "size": 659025,
+      "sha256": "1efc94698e2eb422125e67e853a51a569897460cfc113a3846a1d7a743574bbe",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0029_watcher_blueprint.png",
+      "size": 369417,
+      "sha256": "3c4b381a6a2ade22b606494a34c62c2111f5a2ee75303768fc3a2dd71843264b",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0030_watcher_real.png",
+      "size": 781767,
+      "sha256": "d073bd8eda113947648747211e0555a8fbd36d46a593a317d372fdbac0b17227",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0036_watcher_real.png",
+      "size": 782016,
+      "sha256": "a329cc1af4d6abb40a43fc5c3f3f01e054699d202bbb378a56bf70bf7c89ace2",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0041_watcher_performance.png",
+      "size": 440311,
+      "sha256": "141e09c38a3369b324f4da679c5e89ab20be1eb7a0dbaa489a58f927e8139c6d",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0058_coordinator_blueprint.png",
+      "size": 348462,
+      "sha256": "036b38af1274cad67003e90e0a972cca484086de92c97cb81825e41c2ee0ba53",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0064_coordinator_blueprint.png",
+      "size": 344528,
+      "sha256": "68caff04126b983466e7d3d3c12c62faff5079817726715ac7050750ee7b0a2f",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0065_coordinator_real.png",
+      "size": 663409,
+      "sha256": "fb481ee6a7417904aea0019f22d3f1b9a6d3ed22548139ee2a864b788ac908a3",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0068_coordinator.png",
+      "size": 658757,
+      "sha256": "49533c3a020c617e43cf9f833baa5f3dec37f3980b94465c0df13d0a90ee85f7",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0071_coordinator_real.png",
+      "size": 663816,
+      "sha256": "6a9a9b7158908dffe336fc2345d1b0683b0daa69fa7d3b61abc31d2d72ad92e8",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0080_core_blueprint.png",
+      "size": 258056,
+      "sha256": "93c5d0ba7458d3da8638a8d0d8c7aaaaeec7a308690c2ddf5d8b55de2f07c43f",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0086_core_blueprint.png",
+      "size": 254814,
+      "sha256": "c412cefc90e7367f7bab142c027119a2c5f458918bf3b3f519a625efc5b1e589",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0088_core_real.png",
+      "size": 383886,
+      "sha256": "8f05f3a9adce81eca1160bfc87b6cc4cda8c7fb2116ad8d567e9efeed19b95b6",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0094_core_real.png",
+      "size": 382337,
+      "sha256": "09d8ff1cc76c36cfefbf7915a544e31c22a5fb737335b6d6b720568df6251e8c",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0095_core_execution.png",
+      "size": 860738,
+      "sha256": "9bdabe7acab959acc418bf1ebfa5f38ba9756f7163f815d16ce048fc82fee75d",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0109_down_blueprint.png",
+      "size": 269779,
+      "sha256": "a4bdd093b7bc07bef161ecc1e78d89d694e72ca0e5f101e2f183e13c8e136a61",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0115_down_blueprint.png",
+      "size": 264817,
+      "sha256": "b9ebe68cc803a3ba6f7a0f118e63793092338cca82bf30848660dae8e2989f01",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0117_down_real.png",
+      "size": 400983,
+      "sha256": "b6b30b491d99306ba53131ba60fa0eaefca2af1b7fdef5a7f0ffb7bcaf1deb75",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0122_down_extraction.png",
+      "size": 368286,
+      "sha256": "41f13b1ad8250613b012b6d4cadba9c5b7e572b6a0237f10d53466a640a88a20",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0123_down_real.png",
+      "size": 400599,
+      "sha256": "538634e26953723d02012b7d2c414348cde7f815c503a675bdace4e7e21433e9",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0131_up_blueprint.png",
+      "size": 250282,
+      "sha256": "820864ce3cf891403856423081cb8cbbac1e682ba23d675d4ac72c5a95f8d76b",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0133_up_extraction.png",
+      "size": 349464,
+      "sha256": "9f2d61a6e50f04bffe498295b55151dc226b7c6c61b7b6b00a14468c97601815",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0137_up_blueprint.png",
+      "size": 247225,
+      "sha256": "ce5f58f6bba368bd3652991e690930dff1a2fc1ca0b7b37a9cf28c07048de73b",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0139_up_real.png",
+      "size": 381237,
+      "sha256": "3446447875b8d02c647858da9974321362fa242c7481ba8c508ff60d1918ed6d",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0144_loss.png",
+      "size": 710078,
+      "sha256": "eecf4d0a489d19f14b61481abfecae2a8d790652463f40b496372e8b21d83f97",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0145_up_real.png",
+      "size": 382232,
+      "sha256": "5e2ecc034e0a89234ea136e5febc203c9bed7af6490fdc4069139a5176343618",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0152_may15.png",
+      "size": 919393,
+      "sha256": "81562f911385c22db11d838b55deaa58f36436a004ecbcaeabe302964846dbdc",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0153_strike_blueprint.png",
+      "size": 266293,
+      "sha256": "092024a45a3adf4e64867ca64c067ab53cc731b2d38d32cc9d1d77bc3d6ac65a",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0159_strike_blueprint.png",
+      "size": 264289,
+      "sha256": "b09f6280b0b91d4f5698049a942074cdeb3d077bbc8cf9c5ed5f66e60873ae19",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0160_strike_real.png",
+      "size": 347120,
+      "sha256": "d9fbe4af7fd350f9400e4912d629410cebec44f18128642b28ba7a4991075c74",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0161_resurrection.png",
+      "size": 1165354,
+      "sha256": "c0925e9d3713eb14da9e7020dd8a00b2d1295f1223673a798787fd76b21a3326",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0166_strike_real.png",
+      "size": 342626,
+      "sha256": "9d0ef64472c891573ea22706598d21d95017e1622a61748b487322760e392bef",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0167_micro_blueprint.png",
+      "size": 294943,
+      "sha256": "1838abe1c23e6c50f50ff077b16cb4f12e48518d1b265149e809278a4a550738",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0173_micro_blueprint.png",
+      "size": 289442,
+      "sha256": "2ff471f5d6d80963e9317e55ba12b091aa863dd69ae24af3a8b0d665c357082e",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0175_micro_real.png",
+      "size": 385264,
+      "sha256": "1f3d95e409c5c62d13795e3804d5e99753df3ad5008b8250b97b8db3d5d4a133",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0178_micro_monster.png",
+      "size": 362352,
+      "sha256": "a5bb8f62b215ec284c134dc1da1a51d535c910ed588b0935ca68936db6886514",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0181_micro_real.png",
+      "size": 385000,
+      "sha256": "d803f9a07dff28c34a31e8d993264cd7076076e09cdbc60b5da0af87a3601109",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0188_micro_retention.png",
+      "size": 248903,
+      "sha256": "ebcf83a6d8c441c222477dab9970a18e2c15e478702b245d2c785692e53d75c5",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0189_realization.png",
+      "size": 914782,
+      "sha256": "8e75ed5e2785acbed8cfa9d77dbe378722cf43d04e96660b8d876f7b5534c60e",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0195_realization.png",
+      "size": 914430,
+      "sha256": "b59337dec7ae19d74982dad4fbf016ac688b814bd9c5340fbc6b09f18d84ecf0",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0197_cooperation.png",
+      "size": 187962,
+      "sha256": "52c660459c8d955a55c8cedc74600230323caf9c5e9ed8e4ca47efb7c6a08ced",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0199_cooperation.png",
+      "size": 189751,
+      "sha256": "72f1f717904be4f677ff803d5c543af742ba79f5b7ada868a128ee13a700276d",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0203_cooperation.png",
+      "size": 187691,
+      "sha256": "62c4c67902d6b880c6df8eb5dec01f3d3a1d67da3c0c7a3090bc6c9b57339875",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0205_final.png",
+      "size": 164459,
+      "sha256": "2518aeefeff05a284047dbcfd8c03dc22adfc013fb4e9e0e1158531357e14c78",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0206_final.png",
+      "size": 167443,
+      "sha256": "518754807243c22e2344f891d8f0c3eb65d96d86e98a82495a233e076b9978bc",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0210_evidence_vault.png",
+      "size": 165335,
+      "sha256": "7d67cca8a7477e0bb57c0ca227d88815f8a805e2f926ca3c8b2e89a2d6199258",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0220_epilogue_black.png",
+      "size": 6109,
+      "sha256": "0f52608dd021e7069ef19f9d8f46f6d651aaf5cbac5154465092de3574cf8514",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0226_future_watcher.png",
+      "size": 361853,
+      "sha256": "d94adc4029dec83a25c29bd98d287ff950773414aa81e3f5c7aba223a72e7579",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0235_future_down.png",
+      "size": 270256,
+      "sha256": "396ea2a066e3c59a1e1e0c8030c5946f2032ba721e0d754b44e9f200e068c81b",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0244_future_strike.png",
+      "size": 272427,
+      "sha256": "3eefba08f80dcd1b270897771ca6c83390c7f789bcb9fad2fb6fa47412ec8806",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0253_transfer_begun.png",
+      "size": 30227,
+      "sha256": "c081d0625f674a8363a5d9a3a4b671355436ec6573392d2b8de11e223bb48433",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/qa/v5_0257_transfer_full.png",
+      "size": 42156,
+      "sha256": "66fc2f197dd2e9c721a9c00fe7b7e6685c208244bf38f3c9737c385fa34d9806",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_BG.mp4",
+      "size": 21203607,
+      "sha256": "b0c04e5519514eaf7f0cba1752f7101154853a291fb2fa13984755347476b460",
+      "type": "video"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_BG.srt",
+      "size": 3102,
+      "sha256": "ef063660341a809e05bbaf38751b4371cc76ca16fc56ce5ce86eb9e3080c67b3",
+      "type": "srt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_BG.vtt",
+      "size": 3001,
+      "sha256": "36b609239a56661853afb7474026045cb10e6e5c8868367757cec632c11e486b",
+      "type": "vtt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_DE.mp4",
+      "size": 21205812,
+      "sha256": "cc2b484aa2248ffd927194bc82c3fd08f8b8ab4fb1c989ace90d251afae2ece1",
+      "type": "video"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_DE.srt",
+      "size": 2204,
+      "sha256": "2e18c1fbb7ad04496f3010557c9382a6903acf0c655c497f22df75ce025c37ed",
+      "type": "srt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_DE.vtt",
+      "size": 2103,
+      "sha256": "fe9a09c7f505ab3e96030851d0f92aeac439b84ca338205519198241ee90407c",
+      "type": "vtt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_EN.mp4",
+      "size": 21198423,
+      "sha256": "20d955a09be6069254a4ed196a513197125742bf5d7411f7e3e778569f3f4feb",
+      "type": "video"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_EN.srt",
+      "size": 2114,
+      "sha256": "edb34dacdff5d20446d19f9262939d8a489c21673b46112610de53a4711592fb",
+      "type": "srt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_EN.vtt",
+      "size": 2013,
+      "sha256": "2ed19dfba7e690f7ae379832400477753b711cc74394578aa5ce57c2dffd76ae",
+      "type": "vtt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ES.mp4",
+      "size": 21204258,
+      "sha256": "934afc4a487d8c7416a3ded8b4e68cf653529866d0e383536afd66e5b7b550d8",
+      "type": "video"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ES.srt",
+      "size": 2266,
+      "sha256": "87136cc7e9326bebd7109e4612809ae15493863345f1b4dfb3015f28019b3a2a",
+      "type": "srt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ES.vtt",
+      "size": 2165,
+      "sha256": "3745f9d0e61665a500080bace0373e9844b438ac4c0102267a6b237b867f5229",
+      "type": "vtt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_FR.mp4",
+      "size": 21205162,
+      "sha256": "59c950a7140d99da6df8eb3c973a4d4046e0a38fe03f7b5863213cc9097bd652",
+      "type": "video"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_FR.srt",
+      "size": 2346,
+      "sha256": "10532c649b0c8b18bdffa446b6d1e8a172347531e6df0187fb5d67de25a0fb26",
+      "type": "srt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_FR.vtt",
+      "size": 2245,
+      "sha256": "c8823335ed63cdf87231d380dff1773f010e6094ba442a05179e3a2bb52b4d57",
+      "type": "vtt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_JA.mp4",
+      "size": 21198346,
+      "sha256": "a47121034989c87b84fc965ecbf349447af50d568a906a9cfcc4da265e064b5d",
+      "type": "video"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_JA.srt",
+      "size": 2783,
+      "sha256": "0579f3f8d09ab2b23cdcccfd25d04fcafd7bab2b95e184816822f000084bf057",
+      "type": "srt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_JA.vtt",
+      "size": 2682,
+      "sha256": "43f7099896c9882c8c5f0ff5d856379777ce815773ebbb79b19b08486cf0869b",
+      "type": "vtt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_LOCALIZATION_MANIFEST.json",
+      "size": 3134,
+      "sha256": "a83c514e9634361ddfff87e8f2779eba3f5f21b5ffcd61baf7211f2b7460c2e2",
+      "type": "json"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_TR.mp4",
+      "size": 21205738,
+      "sha256": "7119ac253d4c7d4beee8b3e88f9105a474adb9e5932ff86ee5e743d5817ac352",
+      "type": "video"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_TR.srt",
+      "size": 2294,
+      "sha256": "db6c91bc79ae7678794c49d1ccb55d70ea05143e9cf9f7c0b584acf296c9fcdb",
+      "type": "srt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_TR.vtt",
+      "size": 2193,
+      "sha256": "e327dcd10f72f408ce9e8481200e6b93a47bf87daf6f2b9becf570b69624bcbe",
+      "type": "vtt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_video_only.mp4",
+      "size": 19078807,
+      "sha256": "b2c5be4096c1e2fc7d32c49ebf6cd2657d6e18166c13162022190a172e7ce1d3",
+      "type": "video"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ZH.mp4",
+      "size": 21201986,
+      "sha256": "336168633235be7c29cabb60649a4024a9ee1c73684bde0d672be2c6ed46c14a",
+      "type": "video"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ZH.srt",
+      "size": 2178,
+      "sha256": "01c935626c34443c6afd277cfc9213bca05b962adb33efb7353ca7d632c259d7",
+      "type": "srt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARC_SE_WHY_ARC_EXISTS_V5_ZH.vtt",
+      "size": 2077,
+      "sha256": "7275f2fef409ff40da47aa3ff2d3d7a546b3b2255a5d4eadefa65dfdedaa5b9b",
+      "type": "vtt"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/arcse frontpage.png",
+      "size": 1440586,
+      "sha256": "8273c809a5e96c7e342a488b21cf5ac0d23d6f29931ccd667b33b95bfaf2aa90",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ARCSE future vision Image Jun 8, 2026, 09_35_30 PM.png",
+      "size": 1628989,
+      "sha256": "7290ab01b7cbc93b3faf6e26ae5151f5bf4e5ec51896f5d975fcf054430bb4f0",
+      "type": "image"
+    },
+    {
+      "path": "why_arc_exists_video_v5/render/ChatGPT Image Jun 8, 2026, 09_45_01 PM.png",
+      "size": 1773979,
+      "sha256": "9f745fed59b51fe657dd13b5ecb5d8f38c048e0a582304d46ff3b1b4bd8b225e",
+      "type": "image"
+    }
+  ]
+}

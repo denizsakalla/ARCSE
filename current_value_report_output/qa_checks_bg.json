@@ -1,0 +1,18 @@
+{
+  "основен_доклад": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_CURRENT_VALUE_REPORT.pdf",
+  "карта_на_източници": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_CURRENT_VALUE_REPORT_SOURCE_MAP.pdf",
+  "доклад_за_проверка": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_CURRENT_VALUE_REPORT_QA_REPORT.pdf",
+  "страници_доклад": 12,
+  "страници_източници": 3,
+  "диапазон_страници": true,
+  "глави_налични": true,
+  "компании_налични": true,
+  "източници_налични": true,
+  "латински_букви_в_основен_и_източници": [],
+  "без_латински_букви": true,
+  "минимум_знаци_на_страница": 1777,
+  "средно_знаци_на_страница": 2168.4,
+  "страници_под_1200_знака": [],
+  "автоматична_проверка": true,
+  "страници_проверка": 1
+}

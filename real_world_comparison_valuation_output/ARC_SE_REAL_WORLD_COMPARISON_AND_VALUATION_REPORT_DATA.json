@@ -1,0 +1,1376 @@
+{
+  "date_checked": "2026-06-06",
+  "companies": [
+    {
+      "company": "Datadog",
+      "category": "Observability, cloud monitoring, security telemetry",
+      "value": "$83.33B",
+      "valuation_type": "Public market cap",
+      "date_checked": "2026-06-06",
+      "source": "CompaniesMarketCap; end-of-day source reported Jun 5, 2026",
+      "url": "https://companiesmarketcap.com/datadog/marketcap/",
+      "customers_buy": "A unified cloud monitoring platform spanning infrastructure, logs, traces, dashboards, application performance, security signals, alerts, workflows, and integrations.",
+      "market_pays": "Buyers pay to reduce downtime, shorten incident investigation, make complex systems legible, consolidate tooling, and protect revenue in distributed cloud environments.",
+      "arc_overlap": "Operational truth, evidence correlation, Watcher memory, replay artifacts, source maps, and cross-system interpretation all resemble the need for observable truth.",
+      "differences": "ARC SE is not a commercial telemetry SaaS, not an agent/integration network, not an enterprise support organization, and not priced through recurring cloud-monitoring contracts.",
+      "needs": "Instrumentation, ingestion, integrations, access control, reliability, SaaS delivery, customer support, commercial packaging, security posture, and repeatable buyer ROI."
+    },
+    {
+      "company": "Splunk",
+      "category": "Log analytics, security, observability",
+      "value": "$28B",
+      "valuation_type": "Acquisition equity value",
+      "date_checked": "2026-06-06",
+      "source": "Cisco investor release; acquisition completed Mar 18, 2024",
+      "url": "https://investor.cisco.com/news/news-details/2024/Cisco-Completes-Acquisition-of-Splunk/",
+      "customers_buy": "Machine-data search, log analytics, security investigation, observability workflows, dashboards, alerting, and digital resilience across large operational estates.",
+      "market_pays": "Markets pay for indexed operational memory and the ability to investigate incidents, security threats, downtime, and digital behavior at enterprise scale.",
+      "arc_overlap": "ARC SE has archive interrogation, evidence rows, reconstruction practices, operational memory, source traceability, and post-event truth recovery.",
+      "differences": "ARC SE is not a general log platform, SIEM, observability cloud, enterprise ingestion layer, or Cisco-scale distribution asset.",
+      "needs": "Generalized ingestion/query, enterprise deployment, security use cases, user administration, production uptime, compliance, and customer-facing resilience workflows."
+    },
+    {
+      "company": "Dynatrace",
+      "category": "AI-powered observability and application intelligence",
+      "value": "$12.72B",
+      "valuation_type": "Public market cap",
+      "date_checked": "2026-06-06",
+      "source": "CompaniesMarketCap; June 2026 market-cap page",
+      "url": "https://companiesmarketcap.com/dynatrace/marketcap/",
+      "customers_buy": "Automated discovery, full-stack observability, real-time context, application performance monitoring, infrastructure analytics, root-cause assistance, and AI-enabled operations.",
+      "market_pays": "Buyers pay when the platform converts system complexity into precise operational answers and reduces manual investigation burden.",
+      "arc_overlap": "ARC SE overlaps in root-cause discipline, parity testing, evidence-backed interpretation, and the attempt to convert operational disorder into actionable truth.",
+      "differences": "ARC SE is not an automated enterprise observability platform with OneAgent-style discovery, enterprise telemetry, or broad production deployment.",
+      "needs": "Automated environment discovery, telemetry pipeline, explainable diagnostics, service maps, enterprise SLAs, and long-term production validation."
+    },
+    {
+      "company": "New Relic",
+      "category": "All-in-one observability platform",
+      "value": "$6.5B",
+      "valuation_type": "Acquisition equity valuation",
+      "date_checked": "2026-06-06",
+      "source": "New Relic completion release; Nov 8, 2023",
+      "url": "https://newrelic.com/press-release/20231108",
+      "customers_buy": "Observability across monitored entities, APM, infrastructure, logging, distributed tracing, service maps, workloads, search, dashboards, and querying.",
+      "market_pays": "Customers pay for the ability to understand connected systems and move from reactive firefighting toward coordinated investigation and optimization.",
+      "arc_overlap": "ARC SE has connected evidence, operational maps, session telemetry, replay interpretation, and a documentation corpus that ties system behavior to decisions.",
+      "differences": "ARC SE has no comparable commercial SaaS platform, monitored-entity universe, customer base, or observability subscription model.",
+      "needs": "Deployable monitoring agents, a queryable data plane, customer onboarding, dashboards, alerting, platform UX, and commercial retention metrics."
+    },
+    {
+      "company": "Palantir",
+      "category": "Decision intelligence, operational AI, ontology-driven enterprise operations",
+      "value": "$327.47B",
+      "valuation_type": "Public market cap",
+      "date_checked": "2026-06-06",
+      "source": "CompaniesMarketCap; May 2026 market-cap page",
+      "url": "https://companiesmarketcap.com/palantir/marketcap/",
+      "customers_buy": "Data operations, ontology, AI workflows, decision support, governed action, deployment infrastructure, and operating-system-like software for complex institutions.",
+      "market_pays": "Buyers and investors pay for operational decision systems that connect data, logic, security, workflows, humans, and AI into mission-critical action.",
+      "arc_overlap": "ARC SE partially overlaps conceptually through Operational Truth, Watcher Intelligence, Coordinator Governance, evidence-to-action movement, and autonomous organism coordination.",
+      "differences": "ARC SE is not Palantir, not an enterprise operating system, not a government/commercial platform at scale, and not supported by Palantir's customer footprint.",
+      "needs": "Institutional customers, ontology/product abstraction, deployment tooling, security model, auditable workflows, revenue proof, and field implementation capacity."
+    },
+    {
+      "company": "Celonis",
+      "category": "Process intelligence and process mining",
+      "value": "About $13B",
+      "valuation_type": "Private post-money valuation / source-dependent",
+      "date_checked": "2026-06-06",
+      "source": "TechCrunch; Aug 2022 Series D extension reporting",
+      "url": "https://techcrunch.com/2022/08/23/celonis-secures-another-1b-to-find-and-fix-process-problems-in-enterprise-systems/",
+      "customers_buy": "Process intelligence, process mining, enterprise process understanding, friction detection, improvement workflows, and business execution visibility.",
+      "market_pays": "Buyers pay to understand how work actually flows across ERP, operations, finance, supply chain, and enterprise systems, then remove waste and leakage.",
+      "arc_overlap": "ARC SE overlaps in reconstructing what really happened, operational truth, archaeology, source maps, and process interpretation after complex events.",
+      "differences": "ARC SE is not an ERP-connected process-mining platform, has no enterprise process connector layer, and lacks large-customer ROI case studies.",
+      "needs": "Connector ecosystem, process schemas, enterprise ROI evidence, deployment methodology, executive dashboards, and repeatable process-improvement outcomes."
+    },
+    {
+      "company": "Snowflake",
+      "category": "Cloud data platform and AI data infrastructure",
+      "value": "$82.58B",
+      "valuation_type": "Public market cap",
+      "date_checked": "2026-06-06",
+      "source": "CompaniesMarketCap; June 2026 market-cap page",
+      "url": "https://companiesmarketcap.com/snowflake/marketcap/",
+      "customers_buy": "A fully managed data and AI platform for data storage, analytics, applications, collaboration, governance, and enterprise intelligence.",
+      "market_pays": "Markets pay for scalable, governed, multi-workload data infrastructure that becomes a durable layer for analytics, AI, and enterprise applications.",
+      "arc_overlap": "ARC SE overlaps only in the disciplined use of structured evidence, corpus governance, operational data, and analytics-driven interpretation.",
+      "differences": "ARC SE is not a data cloud, data warehouse, compute platform, marketplace, or global enterprise data infrastructure provider.",
+      "needs": "Scalable data plane, governed access, multi-tenant architecture, data workloads, customer usage, productized platform, and enterprise-grade reliability."
+    },
+    {
+      "company": "Bloomberg",
+      "category": "Financial knowledge system, market data, analytics, terminal workflows",
+      "value": "Not publicly disclosed",
+      "valuation_type": "Private company; no verified current market cap",
+      "date_checked": "2026-06-06",
+      "source": "Bloomberg Terminal official product page; valuation not disclosed",
+      "url": "https://professional.bloomberg.com/products/bloomberg-terminal/",
+      "customers_buy": "Market data, news, research, analytics, charts, collaboration, execution and order-management tools, and financial decision workspaces.",
+      "market_pays": "Buyers pay for trusted, timely knowledge that changes decisions in high-value financial workflows and connects users into a professional network.",
+      "arc_overlap": "ARC SE overlaps in being a knowledge-and-decision corpus: archived truth, research, source mapping, operational memory, and decision interpretation.",
+      "differences": "ARC SE is not a financial terminal, market-data vendor, news operation, trading network, or decades-old subscription utility.",
+      "needs": "Institutional data coverage, real-time feeds, user network, workflow UX, compliance, commercial licensing, and high-trust decision support."
+    },
+    {
+      "company": "Scale AI",
+      "category": "AI data, model evaluation, safety and alignment infrastructure",
+      "value": "About $29B",
+      "valuation_type": "Private valuation from strategic investment",
+      "date_checked": "2026-06-06",
+      "source": "TechCrunch; Meta investment reporting Jun 13, 2025",
+      "url": "https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/",
+      "customers_buy": "Data collection, curation, annotation, RLHF, evaluation, red-teaming, safety, alignment workflows, and expert labeling for ML systems.",
+      "market_pays": "Markets pay because model performance depends on high-quality evidence, evaluation, and feedback loops that are hard to reproduce at scale.",
+      "arc_overlap": "ARC SE overlaps in evaluation discipline, evidence quality, replay, confidence labels, Watcher analysis, and converting historical outcomes into system intelligence.",
+      "differences": "ARC SE is not a data-labeling network, RLHF vendor, AI evaluation marketplace, or broad ML data platform.",
+      "needs": "Customer-grade evaluation products, scalable data operations, model-facing benchmarks, workforce/process maturity, and repeatable model-improvement evidence."
+    },
+    {
+      "company": "QuantConnect",
+      "category": "Quant research, backtesting, live-trading infrastructure",
+      "value": "No verified current valuation; source-dependent historic records",
+      "valuation_type": "Private; conflicting Reg CF/source-dependent values",
+      "date_checked": "2026-06-06",
+      "source": "QuantConnect official site plus P2PMarketData/Crowdonomics historical funding pages",
+      "url": "https://www.quantconnect.com/",
+      "customers_buy": "Cloud research, financial data, backtesting, optimization, LEAN infrastructure, live deployment, broker integrations, and quant strategy workflow tooling.",
+      "market_pays": "Buyers pay for research-to-production infrastructure, realistic backtests, broker connectivity, data availability, and strategy development speed.",
+      "arc_overlap": "ARC SE overlaps through RapidQuant lineage, replay thinking, parity, paper/live boundaries, organism tests, and trading-strategy evidence.",
+      "differences": "ARC SE is not a public quant cloud, broker integration platform, dataset marketplace, or generalized LEAN-style development environment.",
+      "needs": "Open quant workflow, broker/data integrations, user base, backtest/live deployment product, research UX, and evidence that strategies generalize."
+    },
+    {
+      "company": "NinjaTrader",
+      "category": "Retail futures trading platform and brokerage tooling",
+      "value": "$1.5B",
+      "valuation_type": "Acquisition agreement value",
+      "date_checked": "2026-06-06",
+      "source": "NinjaTrader/Kraken release; Mar 20, 2025",
+      "url": "https://ninjatrader.com/news/kraken-to-acquire-ninjatrader-introducing-the-next-era-of-professional-trading/",
+      "customers_buy": "Futures trading platform, desktop/web/mobile tools, charting, simulation, low-margin access, brokerage services, and add-on ecosystem.",
+      "market_pays": "Buyers pay for trading workflow ownership, user accounts, brokerage economics, platform retention, and regulated futures access.",
+      "arc_overlap": "ARC SE overlaps in trading research, replay, parity, execution logic, and strategy/organism testing.",
+      "differences": "ARC SE is not a brokerage, not a retail futures platform, not a regulated trading service, and not a mass-market execution UI.",
+      "needs": "Regulatory posture, brokerage connectivity, user base, trading UI, risk controls, support, and operational reliability under live-market conditions."
+    },
+    {
+      "company": "TradeStation",
+      "category": "Professional electronic trading platform and brokerage technology",
+      "value": "$411M historical acquisition; $1.43B proposed SPAC EV not completed",
+      "valuation_type": "Historical acquisition / abandoned proposed transaction",
+      "date_checked": "2026-06-06",
+      "source": "SEC Monex acquisition release; BusinessWire 2021 proposed transaction",
+      "url": "https://www.sec.gov/Archives/edgar/data/1111559/000119312511104211/dex991.htm",
+      "customers_buy": "Trading platform technology, brokerage access, analysis tools, strategy automation, APIs, charts, and active-trader workflow.",
+      "market_pays": "Markets pay for durable trading workflow, brokerage integration, active users, proprietary platform technology, and recurring account relationships.",
+      "arc_overlap": "ARC SE overlaps in strategy logic, replay, parity testing, research-to-execution thinking, and documentation of operational outcomes.",
+      "differences": "ARC SE is not a broker-dealer platform, not an active-trader commercial product, and not valued through account economics.",
+      "needs": "Broker/dealer integration, live execution, regulated operations, customer accounts, APIs, trading platform UX, and audited risk controls."
+    }
+  ],
+  "additional_examples": [
+    {
+      "company": "Elastic",
+      "category": "Search, log analytics, security and observability",
+      "value": "$5.67B",
+      "valuation_type": "Public market cap",
+      "source": "CompaniesMarketCap; May 2026",
+      "url": "https://companiesmarketcap.com/elastic/marketcap/",
+      "logic": "Search and operational data platforms show that markets value searchable truth infrastructure and analytics layers."
+    },
+    {
+      "company": "Grafana Labs",
+      "category": "Open-source observability dashboards",
+      "value": "Over $6B",
+      "valuation_type": "Private valuation from funding/secondary transaction",
+      "source": "TechCrunch; Aug 21, 2024",
+      "url": "https://techcrunch.com/2024/08/21/grafana-labs-is-now-valued-at-6b/",
+      "logic": "Dashboard and observability workflows have strategic value when they become the shared visibility layer for teams."
+    },
+    {
+      "company": "AppDynamics",
+      "category": "Application performance monitoring",
+      "value": "$3.7B",
+      "valuation_type": "Acquisition value",
+      "source": "Cisco newsroom; Jan 2017",
+      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2017/m01/placehold-1.html",
+      "logic": "Application intelligence and root-cause visibility have been purchased strategically even before public-market maturity."
+    },
+    {
+      "company": "UiPath",
+      "category": "Automation and process orchestration",
+      "value": "$5.84B",
+      "valuation_type": "Public market cap",
+      "source": "CompaniesMarketCap; June 2026",
+      "url": "https://companiesmarketcap.com/uipath/marketcap/",
+      "logic": "Automation markets value repeatable orchestration, process control, governed execution, and workflow efficiency."
+    },
+    {
+      "company": "Alteryx",
+      "category": "Analytics automation and data preparation",
+      "value": "$4.4B",
+      "valuation_type": "Acquisition value",
+      "source": "Alteryx release; Dec 2023 / completed 2024",
+      "url": "https://www.alteryx.com/about-us/newsroom/press-release/alteryx-enters-into-definitive-agreement-to-be-acquired-by-clearlake-capital-group-and-insight-partners-for-4-4-billion",
+      "logic": "Analytics automation markets pay for tools that transform raw data into repeatable operational insight."
+    },
+    {
+      "company": "ClickHouse",
+      "category": "Analytical database and data infrastructure",
+      "value": "$15B",
+      "valuation_type": "Private valuation from reported funding",
+      "source": "TechCrunch; Jan 16, 2026",
+      "url": "https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/",
+      "logic": "High-scale analytics infrastructure can command strategic value where it becomes a core substrate for data and AI workloads."
+    }
+  ],
+  "capabilities": [
+    [
+      "Operational Truth",
+      "Make the system say what actually happened, not what the narrative wishes happened.",
+      "Present as ARC SE doctrine: source maps, evidence rows, parity checks, missing-proof labels.",
+      "Core diligence asset. It reduces narrative risk and turns messy history into inspectable truth."
+    ],
+    [
+      "Evidence Infrastructure",
+      "Store, label, connect, and interpret artifacts so claims can be traced.",
+      "Present through Appendix A, source maps, QA reports, evidence screenshots, and book-level traceability.",
+      "This is the difference between a story and an investable archive."
+    ],
+    [
+      "Replay Systems",
+      "Reconstruct sessions, tests, and outcomes so past behavior can be reviewed and compared.",
+      "Present through May15, RapidQuant, parity/replay language, and performance reconstruction.",
+      "Replay is a replacement barrier and a validation pathway."
+    ],
+    [
+      "Archaeology",
+      "Recover lost system history and turn fragments into usable continuity.",
+      "Present through May15 Resurrection and 3005 reconstruction framing.",
+      "Hard to recreate because it depends on historical scars, recovered artifacts, and interpretive continuity."
+    ],
+    [
+      "Parity",
+      "Compare runs, systems, organisms, or reconstructions against each other for truth alignment.",
+      "Present as a repeated ARC SE method in Evolution, Hall of Legends, Appendix A, and valuation materials.",
+      "Supports reproducibility, diligence, and present-day methodology value."
+    ],
+    [
+      "Autonomous Organisms",
+      "Specialized internal systems that act as roles in an evolving ecosystem.",
+      "Present in Ecosystem Dossier: 3001 Watcher, 3002 Coordinator, 3004 truth, 3005/3006 predators, 3007 micro, 3008 strike.",
+      "Creates architectural optionality beyond one bot or one strategy."
+    ],
+    [
+      "Watcher Intelligence",
+      "Observe historical/system behavior and extract missed signals, truth, and strategic memory.",
+      "Present with file-scale memory and missed-profit signal references in prior valuation and ecosystem materials.",
+      "Potentially strategic because intelligence accumulates across time."
+    ],
+    [
+      "Coordinator Governance",
+      "Organize command discipline, system control, and rule-bound orchestration.",
+      "Present through Coordinator references and command-row continuity.",
+      "Governance is an existing architecture asset and a transferability requirement."
+    ],
+    [
+      "Research Layer",
+      "Transform experiments into researched, cited, and comparable claims.",
+      "Present through the research PDFs, market-position documents, and evidence books.",
+      "Needed for investor diligence and current asset interpretation."
+    ],
+    [
+      "Documentation Layer",
+      "Package the system into documents that preserve context, claims, limitations, and source discipline.",
+      "Present through Founder Story, Evolution, May15, Hall of Legends, Ecosystem, Valuation, Strategic Acquisition, Investment Memo, Master Book.",
+      "Documentation is a transfer asset; without it, the system remains founder-dependent."
+    ],
+    [
+      "Continuity Archive",
+      "Preserve lineage from RapidQuant through ARC SE evolution, failures, recoveries, and organisms.",
+      "Present across all source books and source maps.",
+      "Continuity is central to replacement difficulty and strategic memory."
+    ]
+  ],
+  "capability_interactions": [
+    [
+      "Interaction",
+      "Why The Combination Matters",
+      "Evidence Basis",
+      "Investor Question It Answers"
+    ],
+    [
+      "Operational Truth + Evidence Infrastructure",
+      "Truth discipline needs artifacts; artifacts need interpretation. Together they make claims auditable.",
+      "Appendix A; source maps; QA reports",
+      "Can diligence inspect the thesis instead of trusting narrative?"
+    ],
+    [
+      "Replay Systems + Parity",
+      "Replay without parity can become anecdotal. Parity gives a method for comparing versions, runs, and reconstructions.",
+      "May15; RapidQuant; Hall of Legends",
+      "Can prior behavior be reconstructed and checked?"
+    ],
+    [
+      "Archaeology + Continuity Archive",
+      "Recovered fragments become strategically useful only when placed into lineage.",
+      "May15 Resurrection; Evolution",
+      "What history would be lost if the founder vanished?"
+    ],
+    [
+      "Autonomous Organisms + Coordinator Governance",
+      "Specialized organisms become investable only when governed, controlled, and explainable.",
+      "Ecosystem Dossier; Evolution",
+      "Can autonomy be made institutional rather than chaotic?"
+    ],
+    [
+      "Watcher Intelligence + Documentation Layer",
+      "Intelligence accumulation needs readable transfer packaging.",
+      "Evolution; Ecosystem; valuation reports",
+      "Can the intelligence survive a handoff?"
+    ],
+    [
+      "Research Layer + Company Category Evidence",
+      "Market category research gives investors language without pretending ARC SE is a peer.",
+      "This report; prior valuation work",
+      "What real-world budgets and categories could ARC SE touch?"
+    ],
+    [
+      "Operational Truth + Valuation Discipline",
+      "The same truth rules applied to performance claims must apply to valuation claims.",
+      "Valuation Thesis; this report",
+      "Is the valuation framework conservative and evidence-tied?"
+    ]
+  ],
+  "current_scorecard": [
+    [
+      "Asset / Capability",
+      "Current Maturity",
+      "Evidence Strength",
+      "Transfer Readiness",
+      "Priority Missing Proof"
+    ],
+    [
+      "Continuity Archive",
+      "High",
+      "Strong package-level source continuity",
+      "Medium",
+      "Independent navigation of archive and continuity index."
+    ],
+    [
+      "Evidence Corpus",
+      "High",
+      "Source maps, Appendix A, QA reports, screenshots",
+      "Medium",
+      "Third-party audit and indexed evidence register."
+    ],
+    [
+      "Replay / Parity",
+      "Medium-high",
+      "Repeated method references and reconstructed sessions",
+      "Low-medium",
+      "Independent replay pack with reproducible steps."
+    ],
+    [
+      "Operational Truth",
+      "High",
+      "Confidence labels and missing-proof discipline",
+      "Medium",
+      "External review confirming claims and boundaries."
+    ],
+    [
+      "Organism Architecture",
+      "Medium-high",
+      "Ecosystem Dossier and Evolution",
+      "Low-medium",
+      "Executable role map and operator handoff."
+    ],
+    [
+      "Watcher Intelligence",
+      "Medium",
+      "Prior reports cite file-scale/missed-signal logic",
+      "Low-medium",
+      "Archive-to-intelligence map and reproducible analysis examples."
+    ],
+    [
+      "Coordinator Governance",
+      "Medium",
+      "Command/governance doctrine",
+      "Low-medium",
+      "Governance log map and policy model."
+    ],
+    [
+      "Research / Documentation",
+      "High",
+      "Multiple polished books, source maps, QA reports",
+      "Medium-high",
+      "Diligence index and maintained update process."
+    ],
+    [
+      "Historical Reconstruction Capability",
+      "High",
+      "May15 Resurrection and archaeology continuity",
+      "Medium",
+      "Reconstruction procedure and recovered-artifact register."
+    ]
+  ],
+  "buyer_logic": [
+    [
+      "Buyer Type",
+      "What They Might Recognize",
+      "Why It Could Matter",
+      "What Would Stop Them",
+      "Proof That Moves Them"
+    ],
+    [
+      "Observability / operations vendor",
+      "Operational truth, replay, evidence correlation.",
+      "Could enrich investigation, postmortem, and root-cause workflows.",
+      "No general telemetry platform or customer deployments.",
+      "Reproducible incident/replay demo and integration design."
+    ],
+    [
+      "AI governance / evaluation buyer",
+      "Confidence labels, replay, Watcher intelligence, governance.",
+      "AI systems need empirical observation, evaluation, and control.",
+      "No model-evaluation product yet.",
+      "Benchmark pack, agent governance demo, safety/eval workflows."
+    ],
+    [
+      "Quant or trading infrastructure buyer",
+      "RapidQuant lineage, parity, replay, paper/live boundary discipline.",
+      "Could accelerate strategy research and historical validation.",
+      "No broker product or audited live strategy proof.",
+      "Independent backtest/live proof and risk-controlled forward runs."
+    ],
+    [
+      "Strategic acquirer",
+      "Continuity archive, hard-to-rebuild evidence, organism architecture.",
+      "Could buy time, history, and an unusual intelligence asset.",
+      "Founder dependence and transfer risk.",
+      "Clean handoff, IP review, data room, operator training."
+    ],
+    [
+      "Financial/institutional buyer",
+      "Research corpus and operational memory.",
+      "May support diligence, proprietary research, or decision workflows.",
+      "No terminal/data product and no recurring subscription base.",
+      "Defined workflow with measurable saved time or improved decisions."
+    ]
+  ],
+  "category_matrix": [
+    [
+      "Category",
+      "Market Examples",
+      "Known Company Values",
+      "Why Buyers Pay",
+      "Why Investors Care",
+      "ARC SE Intersection"
+    ],
+    [
+      "Observability",
+      "Datadog, Splunk, Dynatrace, New Relic, Elastic, Grafana Labs, AppDynamics",
+      "$83.33B DDOG; $28B Splunk; $12.72B DT; $6.5B New Relic; $5.67B Elastic; >$6B Grafana; $3.7B AppDynamics",
+      "Visibility, incident response, root-cause analysis, lower downtime, system trust.",
+      "Mission-critical systems generate durable demand for truth infrastructure.",
+      "Operational truth, evidence infrastructure, replay, source maps, Watcher interpretation."
+    ],
+    [
+      "Decision Intelligence",
+      "Palantir, Bloomberg, enterprise AI workflow systems",
+      "$327.47B PLTR; Bloomberg valuation not public",
+      "Turn data and knowledge into governed decisions.",
+      "Decision layers can become deeply embedded in operations.",
+      "Watcher Intelligence, Coordinator Governance, documentation corpus, evidence-to-action logic."
+    ],
+    [
+      "Operational Analytics",
+      "Alteryx, Snowflake, Elastic, ClickHouse",
+      "$4.4B Alteryx; $82.58B Snowflake; $5.67B Elastic; $15B ClickHouse",
+      "Convert raw data into repeatable operational insight.",
+      "Analytics infrastructure can become a persistent layer of enterprise workflow.",
+      "Research layer, evidence corpus, source maps, performance reconstruction."
+    ],
+    [
+      "Process Intelligence",
+      "Celonis, UiPath, Alteryx",
+      "About $13B Celonis; $5.84B UiPath; $4.4B Alteryx",
+      "Show how work actually happens and where value leaks.",
+      "Process visibility plus automation can produce measurable ROI.",
+      "Archaeology, operational truth, parity, Coordinator command discipline."
+    ],
+    [
+      "Research Infrastructure",
+      "QuantConnect, Bloomberg, academic/financial research tools",
+      "QuantConnect current valuation not verified; Bloomberg private",
+      "Compress research time, manage data, test assumptions.",
+      "Research tools can create switching costs and specialist ecosystems.",
+      "RapidQuant lineage, replay, documentation, source maps, strategy records."
+    ],
+    [
+      "Quant Infrastructure",
+      "QuantConnect, NinjaTrader, TradeStation",
+      "$1.5B NinjaTrader; $411M historical TradeStation acquisition; QuantConnect source-dependent",
+      "Backtest, simulate, connect, and deploy trading strategies.",
+      "Trading infrastructure creates value when workflow, execution, and data are controlled.",
+      "Replay systems, parity, organism tests, paper/live boundaries."
+    ],
+    [
+      "Governance Systems",
+      "Palantir ontology/security, UiPath orchestration, enterprise compliance layers",
+      "Values are category-adjacent, not copied",
+      "Control who can act, what can change, and how decisions are recorded.",
+      "Governed AI and automation need institutional guardrails.",
+      "Coordinator Governance, confidence labels, source discipline, missing-proof boundaries."
+    ],
+    [
+      "Data Infrastructure",
+      "Snowflake, ClickHouse, Elastic, Confluent",
+      "$82.58B Snowflake; $15B ClickHouse; $5.67B Elastic; Confluent source-dependent/acquired context",
+      "Store, query, govern, and scale data workloads.",
+      "Data substrate can become a long-term platform asset.",
+      "Evidence corpus and continuity archive, but ARC SE is not a data cloud."
+    ],
+    [
+      "Knowledge Systems",
+      "Bloomberg, Palantir, internal enterprise knowledge graphs",
+      "Bloomberg not public; Palantir public market cap is date-sensitive",
+      "Make critical knowledge searchable, timely, trusted, and actionable.",
+      "Knowledge workflows create retention and high-value daily use.",
+      "Documentation layer, research corpus, operational truth, evidence archive."
+    ],
+    [
+      "Autonomous Systems",
+      "Scale AI evaluation, Palantir AIP, Datadog Bits AI, UiPath agents",
+      "Scale about $29B; public market caps date-sensitive",
+      "Operationalize agents while preserving evaluation and control.",
+      "AI adoption increases demand for evaluation, governance, and replay.",
+      "Autonomous organisms, Watcher, Coordinator, replay, confidence rules."
+    ]
+  ],
+  "asset_inventory": [
+    [
+      "Continuity",
+      "Cross-book lineage from founder origin through evolution, resurrection, ecosystem, valuation and acquisition logic.",
+      "Founder Story; Evolution; May15; Hall of Legends; Ecosystem; Master Book",
+      "High strategic importance because continuity is hard to buy after the fact."
+    ],
+    [
+      "Archaeology",
+      "Recovered and interpreted lost session history; ability to rebuild meaning from fragments.",
+      "May15 Resurrection; Hall of Legends; Appendix A",
+      "High replacement difficulty; depends on artifact access and interpretive memory."
+    ],
+    [
+      "Resurrection",
+      "System recovery and evidence recovery after failure/loss.",
+      "May15 Resurrection; Evolution Documentary",
+      "Supports transfer narrative: ARC SE can survive disruption if methods are retained."
+    ],
+    [
+      "Parity",
+      "Method for comparing reconstructions/runs and detecting truth alignment.",
+      "Evolution; Hall of Legends; Appendix A",
+      "Important for reproducibility and investor proof milestones."
+    ],
+    [
+      "Replay",
+      "Reconstruction of prior sessions and performance evidence.",
+      "RapidQuant; May15; Appendix A",
+      "Important because current asset value depends on replayable proof, not memory."
+    ],
+    [
+      "Evidence Corpus",
+      "Screenshots, source maps, QA reports, PDFs, ranking/evidence rows, performance claims with confidence labels.",
+      "Appendix A; source maps; evidence screenshots",
+      "Central investor asset. Without it, claims collapse into story."
+    ],
+    [
+      "Organism Architecture",
+      "Role-based ecosystem: Watcher, Coordinator, truth, predators, micro, strike organisms.",
+      "Ecosystem Dossier; Evolution",
+      "Creates strategic optionality beyond a single bot."
+    ],
+    [
+      "Watcher Intelligence",
+      "Memory and signal layer that interprets system history and missed opportunity.",
+      "Evolution; Ecosystem; Valuation Thesis",
+      "Potentially valuable if proven prospectively and made transferable."
+    ],
+    [
+      "Coordinator Governance",
+      "Command discipline and orchestration logic.",
+      "Evolution; Ecosystem; Valuation Thesis",
+      "Necessary for control, transferability, and autonomous-system safety."
+    ],
+    [
+      "Documentation Corpus",
+      "Investor-grade books, source maps, QA reports, and structured thesis documents.",
+      "All package documents",
+      "A real asset because it lowers diligence cost and founder-dependence."
+    ],
+    [
+      "Operational Truth",
+      "The discipline that separates what is known, inferred, missing, and still unproven.",
+      "Appendix A; source maps; valuation reports",
+      "Most important present-stage value driver."
+    ]
+  ],
+  "current_asset_components": [
+    [
+      "Asset",
+      "Why It Matters",
+      "Evidence Supporting It",
+      "Replacement Difficulty",
+      "Strategic Importance"
+    ],
+    [
+      "RapidQuant Lineage",
+      "Shows ARC SE did not appear from nowhere; it has ancestor DNA in replay, parity, trading research, and paper/live boundaries.",
+      "RapidQuant Ancestor Report; Evolution Documentary; Appendix A references.",
+      "High: a new team can imitate lineage language but cannot recreate the original path-dependent history.",
+      "Establishes origin, continuity, and accumulated method rather than a one-off project."
+    ],
+    [
+      "May15 Resurrection",
+      "Demonstrates historical reconstruction, recovery after loss, and the ability to turn damaged history into usable evidence.",
+      "ARC_SE_MAY15_RESURRECTION_3.pdf; Hall of Legends; Appendix A.",
+      "Very high: recovered history is artifact-dependent and cannot be purchased off the shelf.",
+      "One of the strongest current asset-value pillars because it proves archaeology and resilience."
+    ],
+    [
+      "Appendix A Evidence Archive",
+      "Converts claims into inspected rows, confidence labels, rankings, and missing-evidence boundaries.",
+      "researches/ARC_SE_APPENDIX_A_EVIDENCE_BOOK.pdf.",
+      "High: evidence must be accumulated before it can be audited.",
+      "Core diligence asset; reduces narrative risk."
+    ],
+    [
+      "Operational Truth",
+      "Defines the discipline of saying what is known, inferred, missing, and not yet proven.",
+      "Appendix A; source maps; QA reports; valuation and strategic-acquisition materials.",
+      "Very high: it is a methodology and culture, not a feature checklist.",
+      "Protects valuation credibility and prevents inflated claims."
+    ],
+    [
+      "Parity",
+      "Compares runs, organisms, reconstructions, and interpretations for truth alignment.",
+      "Evolution Documentary; Hall of Legends; Appendix A.",
+      "Medium-high: requires comparable artifacts, method, and judgment.",
+      "Supports reproducibility and current methodology value."
+    ],
+    [
+      "Replay",
+      "Makes prior behavior inspectable and supports reconstruction of system history.",
+      "RapidQuant; May15; Appendix A; Evolution.",
+      "High: replay value depends on accumulated artifacts and accurate interpretation.",
+      "Turns history into an asset rather than a memory."
+    ],
+    [
+      "Watcher Architecture",
+      "Represents accumulated observation, memory, missed-signal analysis, and intelligence over time.",
+      "Evolution Documentary; Ecosystem Dossier; Valuation Thesis.",
+      "High: intelligence compounds through exposure to history.",
+      "Potentially rare strategic asset if evidence-linked and transferable."
+    ],
+    [
+      "Coordinator Architecture",
+      "Represents command discipline, orchestration, governance, and control structure.",
+      "Evolution Documentary; Ecosystem Dossier; Strategic Acquisition materials.",
+      "High: governance emerges through pressure, failures, and rule design.",
+      "Turns autonomy from chaos into controlled system behavior."
+    ],
+    [
+      "Organism Ecosystem",
+      "Shows ARC SE evolved beyond a single bot into specialized roles and interdependent systems.",
+      "Ecosystem Dossier; Evolution Documentary.",
+      "High: role specialization is path-dependent and difficult to clean-room recreate.",
+      "Creates strategic optionality and accumulated architecture value."
+    ],
+    [
+      "Documentation Corpus",
+      "Transfers context, reduces founder dependence, and makes the asset inspectable.",
+      "Founder Story, Evolution, May15, Hall of Legends, Ecosystem, Valuation, Strategic Acquisition, Investment Memorandum, Master Book.",
+      "Medium-high: polished documents can be recreated, but faithful source-linked continuity is hard.",
+      "Makes the system legible to investors and acquirers."
+    ],
+    [
+      "Research Corpus",
+      "Connects ARC SE to market categories, evidence standards, valuation doctrine, and strategic interpretation.",
+      "Prior valuation reports; Strategic Acquisition Thesis; this report.",
+      "Medium-high: research can be repeated but source-specific interpretation takes time.",
+      "Gives the asset institutional language without converting it into a peer-copy thesis."
+    ],
+    [
+      "Continuity Archive",
+      "Preserves years of accumulated work, failures, recoveries, evidence, methodology, and intelligence.",
+      "All major ARC SE books and source maps.",
+      "Very high: time and lived sequence cannot be bought instantly.",
+      "The dominant current asset-value driver."
+    ],
+    [
+      "Historical Reconstruction Capability",
+      "Shows ARC SE can recover, interpret, and preserve lost or fragmented system history.",
+      "May15 Resurrection; Hall of Legends; Appendix A.",
+      "Very high: depends on archaeology, evidence, and judgment.",
+      "Supports replacement difficulty and resilience value."
+    ],
+    [
+      "Years of Accumulated Work",
+      "Represents time, iteration, failures, decisions, and accumulated context already embedded in the asset.",
+      "Founder Story; Evolution; Master Book; source maps.",
+      "Very high: a team can spend money, but it cannot instantly compress years of lived continuity.",
+      "Creates present-day strategic value before any future commercialization is considered."
+    ]
+  ],
+  "value_separation": [
+    [
+      "Doctrine",
+      "Definition",
+      "Primary Drivers",
+      "How It Should Affect Current Valuation"
+    ],
+    [
+      "CURRENT ASSET VALUE",
+      "The value of what ARC SE already contains today.",
+      "RapidQuant lineage, ARC SE continuity, May15 Resurrection, Appendix A, Operational Truth, replay, parity, Watcher, Coordinator, organisms, documentation, research, accumulated work, evidence, and replacement difficulty.",
+      "Primary valuation framework. Current ranges should be argued from accumulated asset value and difficulty to recreate, not from hypothetical future revenue."
+    ],
+    [
+      "FUTURE COMMERCIALIZATION VALUE",
+      "A separate discussion about what ARC SE might become if productized, sold, deployed, licensed, or institutionalized.",
+      "Customers, ARR, SaaS, pilots, compliance, institutional adoption, and platform expansion.",
+      "Secondary and explicitly non-primary. It can create upside optionality, but it must not drive today's asset valuation."
+    ],
+    [
+      "CATEGORY EVIDENCE",
+      "Real-world companies prove markets pay for adjacent problems.",
+      "Observability, decision intelligence, quant infrastructure, process intelligence, data infrastructure, knowledge systems, autonomous governance.",
+      "Explains why the asset may matter; it does not set price and does not convert ARC SE into a peer."
+    ],
+    [
+      "REPLACEMENT DIFFICULTY",
+      "The cost, time, research, archaeology, and evidence burden required to recreate ARC SE from zero.",
+      "Years required, reconstruction effort, parity investigations, evidence gathering, continuity recreation, documentation recreation.",
+      "Central pricing lens for current asset value."
+    ]
+  ],
+  "proof_gaps": [
+    [
+      "Missing Proof",
+      "Why It Matters",
+      "Current Effect On Valuation",
+      "Milestone To Close Gap"
+    ],
+    [
+      "Independent technical audit",
+      "Confirms system reality and reduces founder-dependence risk.",
+      "Caps higher current-stage ranges.",
+      "Third-party review of code, data, replay, and evidence chain."
+    ],
+    [
+      "Reproducible demo pack",
+      "Shows another operator can run the system and observe expected behavior.",
+      "Separates archive value from transferable system value.",
+      "Step-by-step replay/parity package with logs and expected outputs."
+    ],
+    [
+      "Continuity audit",
+      "Validates that RapidQuant, ARC SE evolution, resurrection, organisms, and documentation are part of one accumulated asset.",
+      "Raises or lowers replacement-difficulty confidence.",
+      "Chronology, artifact map, claim-to-source index, and exception log."
+    ],
+    [
+      "Archaeology register",
+      "Shows what was recovered, why it matters, and why it cannot be recreated off the shelf.",
+      "Supports present-day asset value independent of future commercialization.",
+      "Recovered artifact inventory and reconstruction notes."
+    ],
+    [
+      "Evidence index",
+      "Lets diligence inspect Appendix A, screenshots, source maps, QA reports, and documents without relying on memory.",
+      "Turns accumulated work into transferable asset value.",
+      "Indexed data room with confidence labels and missing-proof flags."
+    ],
+    [
+      "Parity investigation pack",
+      "Shows the method used to compare runs, organisms, reconstructions, and truth alignment.",
+      "Supports current methodology value.",
+      "Repeatable parity examples with inputs, outputs, and interpretation."
+    ],
+    [
+      "Watcher / Coordinator architecture map",
+      "Clarifies accumulated intelligence and governance structure.",
+      "Supports ecosystem value and replacement difficulty.",
+      "Role maps, command maps, organism dependencies, and evidence links."
+    ],
+    [
+      "Asset ownership package",
+      "A present-day asset cannot be valued cleanly if ownership is unclear.",
+      "Creates legal/transfer discount.",
+      "Asset register, code/source inventory, license review, and assignment package."
+    ],
+    [
+      "Team and operating process",
+      "Founder-only assets carry key-person risk.",
+      "Limits valuation even when assets are strong.",
+      "Operator manual, onboarding, roles, maintenance cadence, governance model."
+    ]
+  ],
+  "replacement_factors": [
+    [
+      "Factor",
+      "Difficulty",
+      "Rebuild Time",
+      "Why Difficult",
+      "Evidence Basis"
+    ],
+    [
+      "Years",
+      "High",
+      "2-5+ years",
+      "A team can code faster than it can recreate lived sequence, failures, recoveries, and judgment under pressure.",
+      "Founder Story; Evolution; Master Book"
+    ],
+    [
+      "Knowledge",
+      "High",
+      "12-30 months",
+      "System logic is embedded in context, naming, organism roles, and historical decisions.",
+      "Evolution; Ecosystem"
+    ],
+    [
+      "Research",
+      "Medium-High",
+      "6-18 months",
+      "Comparable-market research can be repeated, but ARC SE-specific interpretation requires internal evidence.",
+      "Valuation; Strategic Acquisition; this report"
+    ],
+    [
+      "Evidence",
+      "High",
+      "1-3+ years",
+      "Screenshots, source maps, QA, session records and claims have to exist before they can be audited.",
+      "Appendix A; evidence screenshots; source maps"
+    ],
+    [
+      "Parity",
+      "Medium-High",
+      "6-18 months",
+      "Requires comparable systems/runs and a disciplined method for detecting mismatch.",
+      "Evolution; Hall of Legends; Appendix A"
+    ],
+    [
+      "Archaeology",
+      "Very High",
+      "Uncertain",
+      "Recovered history is path-dependent; if artifacts are gone, a team can imitate the output but not the original evidentiary path.",
+      "May15 Resurrection"
+    ],
+    [
+      "Operational Truth",
+      "Very High",
+      "12-36 months",
+      "Requires a culture of admitting missing proof, not inflating claims.",
+      "Appendix A; source maps; QA reports"
+    ],
+    [
+      "Intelligence Accumulation",
+      "High",
+      "12-36 months",
+      "Watcher-style value compounds through observed history and failure analysis.",
+      "Evolution; Ecosystem; Valuation"
+    ],
+    [
+      "Organism Evolution",
+      "High",
+      "12-30 months",
+      "Role specialization emerged from pressure and iteration, not from a generic architecture chart.",
+      "Ecosystem Dossier"
+    ],
+    [
+      "Documentation",
+      "Medium-High",
+      "6-18 months",
+      "A polished archive can be made, but faithful continuity requires source discipline and evidence maps.",
+      "All books; QA/source maps"
+    ]
+  ],
+  "rebuild_timeline": [
+    [
+      "Phase",
+      "Estimated Time",
+      "What A New Team Would Do",
+      "Why It Is Hard",
+      "Residual Risk"
+    ],
+    [
+      "Surface clone",
+      "1-3 months",
+      "Build dashboards, documents, diagrams, and a generic bot/replay shell.",
+      "Easy to imitate appearance; hard to recreate proof.",
+      "High risk of fake equivalence."
+    ],
+    [
+      "Functional prototype",
+      "3-9 months",
+      "Build a working evidence archive, replay scripts, source maps, and role labels.",
+      "Requires disciplined evidence ingestion and architecture choices.",
+      "May still lack historical truth."
+    ],
+    [
+      "Evidence reconstruction",
+      "6-18 months",
+      "Collect artifacts, classify confidence, reconstruct sessions, verify claims.",
+      "Depends on artifact access and institutional honesty.",
+      "Missing evidence can permanently cap proof."
+    ],
+    [
+      "Organism emergence",
+      "12-30 months",
+      "Develop specialized agents/roles and governance relationships.",
+      "Role specialization is learned through failures and pressure.",
+      "May produce a system that looks similar but behaves differently."
+    ],
+    [
+      "Operational truth culture",
+      "12-36 months",
+      "Create rules for claiming, withholding, labeling, and revising truth.",
+      "Culture is not a library import.",
+      "Inflation risk if incentives reward narrative."
+    ],
+    [
+      "Asset transfer",
+      "6-18 months after system maturity",
+      "Package code, docs, governance, evidence maps, demos, and operator training.",
+      "A founder-native asset must become team-readable.",
+      "Key-person risk remains until handoff is proven."
+    ]
+  ],
+  "current_valuation": [
+    [
+      "Valuation Range",
+      "Why Someone Might Pay It",
+      "Evidence Supporting It",
+      "Missing Proof",
+      "Investor Interpretation"
+    ],
+    [
+      "$0-250k",
+      "If diligence treats ARC SE as mostly founder-native documents, code fragments, and unverified claims.",
+      "Some continuity, documents, and evidence artifacts exist even in the skeptical case.",
+      "Evidence index, ownership register, independent navigation, reproducible replay/parity examples.",
+      "A liquidation-style floor for an archive whose accumulated work is acknowledged but not yet trusted as transferable."
+    ],
+    [
+      "$250k-1M",
+      "If a buyer values the documented archive, source maps, RapidQuant lineage, May15 continuity, and research corpus as a strategic research asset today.",
+      "Founder Story; Evolution; May15; Appendix A; RapidQuant; documentation corpus; source maps.",
+      "Indexed evidence register, claim-to-source map, artifact ownership package, operator orientation.",
+      "Reasonable asset-value range for archive-plus-method if diligence confirms the materials are real, organized, and usable."
+    ],
+    [
+      "$1M-2.5M",
+      "If diligence validates Operational Truth, replay/parity method, continuity archive, and Appendix A as a hard-to-rebuild evidence infrastructure.",
+      "Operational Truth doctrine; May15 Resurrection; Appendix A; replay/parity references; RapidQuant lineage.",
+      "Independent technical review, reproducible replay pack, parity examples, clean asset inventory.",
+      "Current asset/IP methodology thesis. This is not a revenue or venture-growth argument."
+    ],
+    [
+      "$2.5M-5M",
+      "If the accumulated system is accepted as a coherent continuity-and-reconstruction asset that would require years of work to recreate.",
+      "Dense documentation, research corpus, continuity archive, evidence inventory, replacement difficulty, archaeology record.",
+      "External diligence, archive transfer test, reconstruction procedure, Watcher/Coordinator role map.",
+      "Upper current asset range where the buyer prices time compression, accumulated evidence, and difficult-to-recreate history."
+    ],
+    [
+      "$5M-10M",
+      "If ARC SE is treated as a rare strategic asset combining continuity, resurrection work, evidence archive, operational truth, parity/replay, organisms, and accumulated intelligence.",
+      "Ecosystem Dossier; May15; Appendix A; RapidQuant; Valuation Thesis; Strategic Acquisition; this category evidence.",
+      "Deep audit, validated asset register, third-party recreation estimate, architecture transfer package.",
+      "Stretch but still current-asset logic. The argument is scarcity and rebuild difficulty, not future customers."
+    ],
+    [
+      "$10M-25M",
+      "If a strategic buyer concludes that recreating ARC SE from zero would cost years, rare reconstruction work, accumulated intelligence, and irreplaceable continuity.",
+      "Watcher/Coordinator logic, organism ecosystem, continuity archive, replacement difficulty, archaeology, documentation corpus.",
+      "Independent rebuild-cost study, evidence audit, ownership clarity, transfer test, operator training.",
+      "Strategic asset valuation. It requires conviction that the accumulated ARC SE corpus is cheaper to buy than rebuild."
+    ],
+    [
+      "$25M-50M",
+      "If the buyer places premium value on the entire accumulated archive and methodology as a unique operational-truth/intelligence asset.",
+      "Current evidence supports the ingredients: continuity, May15, Appendix A, parity/replay, organisms, documentation, research.",
+      "Very high-confidence audit, legal transferability, independent reconstruction validation, asset-control package.",
+      "Exceptional current-asset discussion for a motivated strategic buyer; still not based on future commercialization."
+    ],
+    [
+      "$50M-100M+",
+      "If ARC SE is judged to contain uniquely scarce, non-replicable accumulated intelligence and reconstruction history with strategic importance to a buyer.",
+      "Current evidence suggests strategic ingredients, but this level requires unusually strong confirmation.",
+      "Independent verification of uniqueness, rebuild impossibility/expense, clean transfer, and strategic necessity.",
+      "Rare strategic-asset scenario only. It must be argued from irreplaceability and accumulated work, not from SaaS, ARR, or public peer valuations."
+    ]
+  ],
+  "future_commercialization": [
+    [
+      "Topic",
+      "What It Means",
+      "Relationship To Current Valuation",
+      "Doctrine Boundary"
+    ],
+    [
+      "Customers / pilots",
+      "Potential proof that someone will use or buy a productized version.",
+      "Not a primary driver of today's asset valuation.",
+      "Future commercialization may add upside, but it is a separate discussion."
+    ],
+    [
+      "ARR / SaaS revenue",
+      "Recurring software revenue if ARC SE is later packaged as a commercial platform.",
+      "Not used to justify current asset ranges.",
+      "No current range should be defended by invented future ARR."
+    ],
+    [
+      "Institutional adoption",
+      "Possible later deployment by teams, funds, enterprises, or strategic buyers.",
+      "Not required to recognize accumulated present-day asset value.",
+      "Adoption can validate transferability later; it does not create the existing archive."
+    ],
+    [
+      "Compliance / enterprise readiness",
+      "Controls that may matter if ARC SE enters regulated or enterprise settings.",
+      "A future commercialization requirement, not the core current valuation basis.",
+      "Current value still derives from continuity, evidence, methodology, and replacement difficulty."
+    ],
+    [
+      "Productization",
+      "Turning ARC SE assets into UI, workflows, integrations, or services.",
+      "Separate from the value of the existing corpus and methodology.",
+      "Product upside should not replace asset appraisal."
+    ],
+    [
+      "Strategic optionality",
+      "The right buyer may see future uses for the asset.",
+      "Can influence willingness to pay, but only after the current asset is valued on its own terms.",
+      "Optionality is additive, not primary."
+    ]
+  ],
+  "graduation": [
+    [
+      "Valuation Thesis",
+      "Evidence Already Present",
+      "Missing Evidence",
+      "Required Milestones",
+      "Comparable Market Logic"
+    ],
+    [
+      "$0",
+      "Narrative and artifacts exist.",
+      "Evidence acceptance, ownership clarity, operational verification.",
+      "None. This is the failure-to-verify case.",
+      "Unverified private assets can have little market value even if effort was real."
+    ],
+    [
+      "$1M",
+      "Continuity archive, documentation, source maps, evidence corpus.",
+      "Transferability and independent review.",
+      "Create data room; asset inventory; source map; reproducible orientation demo.",
+      "Markets pay for specialized research and evidence assets when diligence lowers uncertainty."
+    ],
+    [
+      "$2M-5M",
+      "Replay/parity, archaeology, operational truth, organism map.",
+      "Third-party audit and continuity validation.",
+      "External technical audit; replay pack; parity examples; operator handoff.",
+      "Adjacent categories value truth infrastructure, but ARC SE's price must come from its own asset evidence."
+    ],
+    [
+      "$10M",
+      "Ecosystem maturity, May15 Resurrection, Appendix A, Watcher/Coordinator, high replacement difficulty.",
+      "Independent rebuild-cost analysis and clean transfer package.",
+      "Rebuild estimate; evidence audit; ownership review; architecture map.",
+      "Strategic buyers can pay for assets that compress years of work and preserve difficult history."
+    ],
+    [
+      "$25M-50M",
+      "Full corpus plus governance architecture and rare reconstruction capability.",
+      "High-confidence proof of uniqueness, continuity, and transferability.",
+      "Data room, third-party verification, reconstruction study, operator training.",
+      "This is premium asset valuation, not a revenue multiple."
+    ],
+    [
+      "$50M-100M+",
+      "Uniquely scarce operational-truth/intelligence archive with very high replacement difficulty.",
+      "Exceptional independent confirmation of irreplaceability and strategic necessity.",
+      "Rebuild-impossibility case; legal transfer; complete evidence archive; buyer-specific strategic rationale.",
+      "Higher ranges require proof that buying ARC SE is materially cheaper or faster than recreating it."
+    ],
+    [
+      "$100M+",
+      "A buyer judges the accumulated ARC SE asset to be uniquely strategic and non-replicable.",
+      "Extraordinary evidence of uniqueness, control, and strategic necessity.",
+      "Institutional-grade asset audit and irreplaceability opinion.",
+      "Rare strategic-asset case only; not a startup projection."
+    ]
+  ],
+  "buying_assets": [
+    [
+      "Asset",
+      "Why It Matters",
+      "Replacement Difficulty",
+      "Estimated Rebuild Effort",
+      "Strategic Importance"
+    ],
+    [
+      "Operational Truth Infrastructure",
+      "Turns claims into inspectable evidence and separates known, inferred, and missing proof.",
+      "Very high",
+      "12-36 months plus cultural discipline",
+      "Central diligence and governance asset."
+    ],
+    [
+      "Evidence Corpus",
+      "Provides artifacts, metrics, source maps, QA, and traceability for investor review.",
+      "High",
+      "1-3+ years",
+      "Core asset; without evidence the thesis weakens sharply."
+    ],
+    [
+      "Replay Systems",
+      "Allows historical behavior to be reviewed, compared, and potentially reproduced.",
+      "High",
+      "6-24 months",
+      "Validation and replacement-difficulty lever."
+    ],
+    [
+      "Parity Methodology",
+      "Detects truth alignment between runs, reconstructions, and organisms.",
+      "Medium-high",
+      "6-18 months",
+      "Required for reproducibility milestones."
+    ],
+    [
+      "Watcher Intelligence",
+      "Accumulates system memory and missed-signal interpretation.",
+      "High",
+      "12-36 months",
+      "Potential strategic differentiator if made prospective and transferable."
+    ],
+    [
+      "Coordinator Governance",
+      "Controls execution logic, command discipline, and autonomy.",
+      "High",
+      "9-24 months",
+      "Needed for transferability and risk control."
+    ],
+    [
+      "Autonomous Organisms",
+      "Role-based system architecture creates specialization and optionality.",
+      "High",
+      "12-30 months",
+      "Turns ARC SE from one tool into an ecosystem."
+    ],
+    [
+      "Continuity Archive",
+      "Preserves lineage, failures, recoveries, and strategic memory.",
+      "Very high",
+      "Cannot be fully recreated",
+      "Hardest-to-copy asset; path-dependent."
+    ],
+    [
+      "Research Corpus",
+      "Connects ARC SE to market categories, evidence logic, and asset-proof requirements.",
+      "Medium",
+      "3-12 months",
+      "Makes investor discussion coherent."
+    ],
+    [
+      "Documentation Corpus",
+      "Transfers context and reduces founder dependence.",
+      "Medium-high",
+      "6-18 months",
+      "Essential for acquisition, diligence, and onboarding."
+    ],
+    [
+      "Archaeology Archive",
+      "Recovered history and reconstruction work that explain how the system survived.",
+      "Very high",
+      "Uncertain; artifact-dependent",
+      "Strategic memory and resilience proof."
+    ]
+  ],
+  "risk_discounts": [
+    [
+      "Risk",
+      "Current Impact",
+      "Why It Matters",
+      "Mitigation"
+    ],
+    [
+      "Founder dependence",
+      "High discount",
+      "If only one person can interpret ARC SE, acquirer value is constrained.",
+      "Operator manuals, handoff demos, independent runbooks."
+    ],
+    [
+      "Evidence indexing gap",
+      "High discount",
+      "A dense archive has less value if diligence cannot navigate it.",
+      "Source-linked evidence register and claim-to-artifact index."
+    ],
+    [
+      "Continuity verification risk",
+      "High discount",
+      "The valuation thesis depends on accumulated lineage being real and coherent.",
+      "Independent chronology review and continuity audit."
+    ],
+    [
+      "Transfer and IP uncertainty",
+      "Medium-high discount",
+      "Acquirer needs clean title and deployable assets.",
+      "IP inventory, repo map, license review, assignment package."
+    ],
+    [
+      "Rebuild-cost uncertainty",
+      "Medium-high discount",
+      "Replacement difficulty is central, so the rebuild estimate must be credible.",
+      "Third-party recreation analysis and phase-by-phase rebuild budget."
+    ],
+    [
+      "Method-transfer risk",
+      "Medium discount",
+      "Operational Truth, parity, replay, and archaeology must survive outside founder memory.",
+      "Runbooks, replay examples, parity procedures, and operator training."
+    ],
+    [
+      "Evidence overfitting",
+      "Medium discount",
+      "Historical evidence may be real but narrower than the valuation narrative implies.",
+      "Confidence labels, missing-proof boundaries, and external review."
+    ],
+    [
+      "Category ambiguity",
+      "Medium discount",
+      "Category overlap explains relevance but not price.",
+      "Asset-first valuation memo separating category evidence from price formation."
+    ]
+  ],
+  "diligence_questions": [
+    [
+      "Diligence Area",
+      "Investor Question",
+      "Evidence Needed",
+      "Current Answer"
+    ],
+    [
+      "Reality of system",
+      "Can ARC SE be run and observed by someone else?",
+      "Independent demo, logs, reproducible instructions.",
+      "Not yet sufficiently proven in this report package."
+    ],
+    [
+      "Evidence integrity",
+      "Can every material claim be traced?",
+      "Source map, Appendix A, evidence rows, QA reports.",
+      "Strong internal evidence discipline; external audit still missing."
+    ],
+    [
+      "Asset completeness",
+      "What exactly exists today?",
+      "Asset register, documentation map, evidence index, source inventory.",
+      "Strong corpus exists; formal asset registry should be completed."
+    ],
+    [
+      "Replacement difficulty",
+      "Would recreating ARC SE be materially expensive or slow?",
+      "Rebuild analysis, continuity archive, documentation, artifact map.",
+      "Strong qualitative case; needs third-party validation."
+    ],
+    [
+      "Continuity",
+      "Is the lineage from RapidQuant to ARC SE coherent and source-supported?",
+      "Chronology, source map, exception log, documentary trace.",
+      "Strong package-level claim; needs independent continuity audit."
+    ],
+    [
+      "Archaeology",
+      "What was recovered and why is it hard to recreate?",
+      "May15 reconstruction notes, recovered-artifact register, Appendix A links.",
+      "Strong narrative/evidence basis; should be indexed."
+    ],
+    [
+      "Replay / parity",
+      "Can the methods be inspected and repeated?",
+      "Replay pack, parity examples, inputs/outputs, interpretation notes.",
+      "Method exists in documents; reproducible pack would strengthen valuation."
+    ],
+    [
+      "Governance",
+      "Can autonomous organisms be controlled and audited?",
+      "Coordinator policies, logs, access rules, test harness.",
+      "Governance doctrine exists; institutional controls need packaging."
+    ],
+    [
+      "Transferability",
+      "Can value survive beyond founder context?",
+      "Operator training, documentation map, data room, handoff test.",
+      "Documentation helps; handoff proof still required."
+    ],
+    [
+      "Legal/IP",
+      "What exactly is owned and transferable?",
+      "Asset register, code/source inventory, license review.",
+      "Must be completed before acquisition-grade valuation."
+    ]
+  ],
+  "local_sources": [
+    {
+      "source": "ARC_SE_FOUNDER_STORY_1.pdf",
+      "used_for": "Founder continuity, survival through failure, persistence, origin of truth-first framing.",
+      "confidence": "Continuity source; qualitative."
+    },
+    {
+      "source": "ARC_SE_EVOLUTION_DOCUMENTARY_2.pdf",
+      "used_for": "RapidQuant lineage, truth crisis, organism emergence, Watcher, Coordinator, parity, ecosystem summary.",
+      "confidence": "High for historical and evidence-architecture claims."
+    },
+    {
+      "source": "ARC_SE_MAY15_RESURRECTION_3.pdf",
+      "used_for": "Resurrection event, archaeology, reconstruction, recovery of lost session history.",
+      "confidence": "High for May15 continuity and archaeology narrative."
+    },
+    {
+      "source": "legendary_sessions_output/ARC_SE_LEGENDARY_SESSIONS_HALL_OF_LEGENDS_EN.pdf",
+      "used_for": "May9, May15, 3005, parity, Top 10 and Wall of Legends continuity.",
+      "confidence": "Continuity and evidence synthesis."
+    },
+    {
+      "source": "ecosystem_dossier_output/ARC_SE_ECOSYSTEM_DOSSIER_EN.pdf",
+      "used_for": "Organism roles, why the ecosystem expanded, Watcher/Coordinator doctrine.",
+      "confidence": "High for ecosystem structure as packaged in Book 5."
+    },
+    {
+      "source": "researches/ARC_SE_APPENDIX_A_EVIDENCE_BOOK.pdf",
+      "used_for": "Primary session metrics, confidence rules, missing-evidence boundaries.",
+      "confidence": "High where Appendix A promotes evidence rows; not a commercial audit."
+    },
+    {
+      "source": "researches/RAPIDQUANT_ANCESTOR_REPORT.pdf",
+      "used_for": "RapidQuant/RapidEdge ancestor context, 720 paper trades, 29 live trades, +$1,254.53 validation PnL, replay/parity DNA.",
+      "confidence": "High for April archive; medium for direct lineage inference."
+    },
+    {
+      "source": "ARC_SE_VALUATION_THESIS_EN_HARDENED.pdf",
+      "used_for": "Prior valuation boundaries, evidence-weighted framing, milestone gaps and replacement-difficulty logic.",
+      "confidence": "Source material only; not copied as a final valuation."
+    },
+    {
+      "source": "ARC_SE_STRATEGIC_ACQUISITION_MARKET_POSITION_THESIS_EN.pdf",
+      "used_for": "Strategic acquisition context, buyer interpretation, transfer-risk framing.",
+      "confidence": "Source material only."
+    }
+  ]
+}

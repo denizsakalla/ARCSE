@@ -1,0 +1,12 @@
+{
+  "english_pdf": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_FUTURE_MARKETS_AND_COMMERCIALIZATION_REPORT_EN.pdf",
+  "bulgarian_pdf": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_FUTURE_MARKETS_AND_COMMERCIALIZATION_REPORT_BG.pdf",
+  "en_pages": 29,
+  "bg_pages": 25,
+  "en_target_page_count": true,
+  "bg_target_page_count": true,
+  "en_pages_under_250_words": [],
+  "bg_pages_under_220_words": [],
+  "required_terms_present": true,
+  "automated_pass": true
+}

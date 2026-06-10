@@ -1,0 +1,22 @@
+{
+  "report_pages": 24,
+  "source_map_pages": 3,
+  "target_length_pass": true,
+  "blank_report_pages": [],
+  "min_report_page_chars": 1492,
+  "forbidden_exact_hits": [],
+  "required_missing": [],
+  "date_checked_present": true,
+  "company_rows_present": true,
+  "valuation_type_present": true,
+  "source_json": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\real_world_comparison_valuation_output\\ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_DATA.json",
+  "report_pdf": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT.pdf",
+  "source_map_pdf": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_SOURCE_MAP.pdf",
+  "matrix_xlsx": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_COMPARISON_MATRIX.xlsx",
+  "matrix_xlsx_exists": true,
+  "matrix_xlsx_bytes": 40252,
+  "matrix_sheet_count": 20,
+  "matrix_qa_available": true,
+  "asset_valuation_doctrine_present": true,
+  "qa_pdf": "C:\\Users\\User\\Desktop\\ARCPDF\\INVESTORS PRESENTATION\\ARC_SE_REAL_WORLD_COMPARISON_AND_VALUATION_REPORT_QA_REPORT.pdf"
+}
