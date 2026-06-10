@@ -34,6 +34,10 @@
           </span>
           Investor Room
         </a>
+        <button class="headquarters-entry" type="button" data-headquarters-open data-i18n-static>
+          <span aria-hidden="true">&#127963;</span>
+          ARC SE Headquarters
+        </button>
         <div class="language-switcher" data-language-switcher>
           <button class="language-toggle" type="button" aria-label="Select language" aria-expanded="false" data-language-toggle>
             <span aria-hidden="true">🌐</span>
@@ -63,8 +67,235 @@
         <a href="#room-leviathan">Archive</a>
         <a href="#room-sessions">Sessions</a>
         <a href="#room-vault">Vault</a>
+        <button type="button" data-headquarters-open data-i18n-static>&#127963; ARC SE Headquarters</button>
       </div>
     </header>
+
+    <section class="headquarters-layer" data-headquarters-layer data-i18n-static aria-hidden="true">
+      <div class="hq-boot" data-hq-boot aria-hidden="true">
+        <div class="hq-boot-card">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span class="hq-live-dot"></span>
+          <p data-hq-boot-line>Connecting to preserved intelligence...</p>
+        </div>
+      </div>
+
+      <div class="hq-minimal" data-hq-minimal>
+        <div class="hq-minimal-core">
+          <span class="hq-rule"></span>
+          <h1>ARC SE</h1>
+          <p>Transferable Operational Intelligence</p>
+          <form class="hq-minimal-search" data-hq-search-form>
+            <label for="hq-search-minimal">Search accumulated operational intelligence</label>
+            <input id="hq-search-minimal" data-hq-search-input type="search" autocomplete="off" placeholder="Search accumulated operational intelligence..." aria-describedby="hq-search-examples">
+            <div class="hq-autocomplete" data-hq-autocomplete role="listbox" aria-label="ARC SE intelligence suggestions"></div>
+          </form>
+          <p id="hq-search-examples" class="hq-examples">May 15 Resurrection / 3005 Monster Session / Project Leviathan / Founder Story / TOI / Paper vs Live / 3008 Strike / Valuation / Predator Down / 3007 Micro Harvester</p>
+          <span class="hq-rule"></span>
+        </div>
+      </div>
+
+      <div class="hq-command" data-hq-command>
+        <header class="hq-command-top">
+          <a class="brand hq-brand" href="#room-introduction" data-hq-close aria-label="Return to ARC SE museum">
+            <span class="brand-mark" aria-hidden="true"></span>
+            <span class="brand-copy">
+              <strong>ARC SE</strong>
+              <span>Transferable Operational Intelligence</span>
+            </span>
+          </a>
+          <form class="hq-top-search" data-hq-search-form>
+            <label for="hq-search-command">Search ARC SE intelligence</label>
+            <input id="hq-search-command" data-hq-search-input type="search" autocomplete="off" placeholder="Search ARC SE intelligence... e.g. May 15 Resurrection, 3005 Monster, TOI, Founder Story">
+            <div class="hq-autocomplete" data-hq-autocomplete role="listbox" aria-label="ARC SE intelligence suggestions"></div>
+          </form>
+          <div class="hq-top-actions">
+            <span class="hq-language-pill" data-language-current>EN</span>
+            <button class="hq-profile-button" type="button" data-hq-close aria-label="Return to public museum">
+              <span class="brand-mark" aria-hidden="true"></span>
+            </button>
+          </div>
+        </header>
+
+        <div class="hq-app-shell">
+          <aside class="hq-sidebar" aria-label="Headquarters sections">
+            <button class="active" type="button" data-hq-query="Command Center">Command Center</button>
+            <button type="button" data-hq-query="Intelligence Search">Intelligence Search</button>
+            <button type="button" data-hq-query="Investor Room">Investor Room</button>
+            <button type="button" data-hq-query="Legendary Sessions">Legendary Sessions</button>
+            <button type="button" data-hq-query="ARC SE Organisms">ARC SE Organisms</button>
+            <button type="button" data-hq-query="TOI Research Library">TOI Research Library</button>
+            <button type="button" data-hq-query="Founder Story">Founder Story</button>
+            <button type="button" data-hq-query="May 15 Resurrection">May 15 Resurrection</button>
+            <button type="button" data-hq-query="Evidence Vault">Evidence Vault</button>
+            <button type="button" data-hq-query="Performance Analytics">Performance Analytics</button>
+            <button type="button" data-hq-query="Timeline of Evolution">Timeline of Evolution</button>
+            <button type="button" data-hq-query="Documents & Reports">Documents & Reports</button>
+            <button type="button" data-hq-query="Watchlist of organisms">Watchlist of organisms</button>
+          </aside>
+
+          <main class="hq-main" aria-live="polite">
+            <section class="hq-hero-panel">
+              <div>
+                <div class="hq-title-row">
+                  <h2>ARC SE Watcher Command Center</h2>
+                  <span>3001</span>
+                </div>
+                <p>Real-time overview of all organisms, intelligence, and performance.</p>
+              </div>
+              <div class="hq-status-chip"><span></span> Transferable Operational Intelligence connected</div>
+            </section>
+
+            <section class="hq-query-card" data-hq-query-card>
+              <div>
+                <small>What would you like to know?</small>
+                <h3 data-hq-result-title>Ask ARC SE anything.</h3>
+                <p data-hq-result-copy>Search across founder story, TOI, May 15, organisms, evidence, PDFs, videos, timeline, valuation, and reconstructions.</p>
+              </div>
+              <div class="hq-popular-searches">
+                <button type="button" data-hq-query="May 15 Resurrection">May 15 Resurrection</button>
+                <button type="button" data-hq-query="3005 Monster Session">3005 Monster Session</button>
+                <button type="button" data-hq-query="TOI Report">TOI Report</button>
+                <button type="button" data-hq-query="Founder Story">Founder Story</button>
+                <button type="button" data-hq-query="Valuation Analysis">Valuation Analysis</button>
+                <button type="button" data-hq-query="Transferable Intelligence">Transferable Intelligence</button>
+              </div>
+            </section>
+
+            <section class="hq-kpi-grid">
+              <article><small>Intelligence Objects</small><strong data-hq-count="850">0</strong><span>Verified public release files</span></article>
+              <article><small>Legendary Sessions</small><strong data-hq-count="12">0</strong><span>Recovered evidence windows</span></article>
+              <article><small>Research Reports</small><strong data-hq-count="112">0</strong><span>PDF and diligence artifacts</span></article>
+              <article><small>Evidence Items</small><strong data-hq-count="398">0</strong><span>Images and proof surfaces</span></article>
+            </section>
+
+            <section class="hq-grid">
+              <article class="hq-card hq-network-card">
+                <div class="hq-card-head">
+                  <div><small>Organism Network Overview</small><h3>3001 central intelligence topology</h3></div>
+                  <span>Live graph</span>
+                </div>
+                <div class="hq-network">
+                  <svg viewBox="0 0 640 430" aria-label="ARC SE organism network">
+                    <defs>
+                      <linearGradient id="hqLine" x1="0" x2="1"><stop offset="0" stop-color="#d4b979"/><stop offset="1" stop-color="#376df4"/></linearGradient>
+                    </defs>
+                    <g class="hq-lines">
+                      <path d="M320 210 L158 88"></path>
+                      <path d="M320 210 L482 86"></path>
+                      <path d="M320 210 L548 220"></path>
+                      <path d="M320 210 L456 348"></path>
+                      <path d="M320 210 L184 348"></path>
+                      <path d="M320 210 L92 220"></path>
+                    </g>
+                  </svg>
+                  <button class="hq-node hq-node-core" type="button" data-hq-query="3001 Watcher"><strong>3001</strong><span>Watcher</span></button>
+                  <button class="hq-node hq-node-3002" type="button" data-hq-query="3002 Coordinator"><strong>3002</strong><span>Coordinator</span></button>
+                  <button class="hq-node hq-node-3004" type="button" data-hq-query="3004 Sacred"><strong>3004</strong><span>Sacred</span></button>
+                  <button class="hq-node hq-node-3005 warning" type="button" data-hq-query="3005 Down Predator"><strong>3005</strong><span>DOWN</span></button>
+                  <button class="hq-node hq-node-3006" type="button" data-hq-query="3006 Up Predator"><strong>3006</strong><span>UP</span></button>
+                  <button class="hq-node hq-node-3007 micro" type="button" data-hq-query="3007 Micro Harvester"><strong>3007</strong><span>Micro</span></button>
+                  <button class="hq-node hq-node-3008 strike" type="button" data-hq-query="3008 Strike"><strong>3008</strong><span>Strike</span></button>
+                </div>
+              </article>
+
+              <article class="hq-card hq-performance-card">
+                <div class="hq-card-head">
+                  <div><small>Live Performance Overview</small><h3>Accumulated operational memory</h3></div>
+                  <span>Flowing</span>
+                </div>
+                <svg class="hq-flow-chart" viewBox="0 0 640 240" preserveAspectRatio="none" aria-label="Live performance overview">
+                  <line x1="0" y1="190" x2="640" y2="190"></line>
+                  <line x1="0" y1="126" x2="640" y2="126"></line>
+                  <line x1="0" y1="62" x2="640" y2="62"></line>
+                  <path class="hq-chart-area" d="M0 198 C80 176 112 146 176 152 C240 158 246 88 314 96 C374 104 392 132 452 100 C512 68 552 74 640 42 L640 240 L0 240 Z"></path>
+                  <path class="hq-chart-line" d="M0 198 C80 176 112 146 176 152 C240 158 246 88 314 96 C374 104 392 132 452 100 C512 68 552 74 640 42"></path>
+                </svg>
+              </article>
+
+              <article class="hq-card hq-flow-card">
+                <div class="hq-card-head">
+                  <div><small>Intelligence Flow</small><h3>Archive to reconstruction</h3></div>
+                  <span>Healthy</span>
+                </div>
+                <ol class="hq-flow-list">
+                  <li><b></b><span>Preserved evidence enters Watcher</span></li>
+                  <li><b></b><span>Coordinator aligns timeline and state</span></li>
+                  <li><b></b><span>TOI layer validates historical reconstruction</span></li>
+                  <li><b></b><span>Investor vault receives verified outputs</span></li>
+                </ol>
+              </article>
+
+              <article class="hq-card hq-sessions-card">
+                <div class="hq-card-head">
+                  <div><small>Latest Legendary Sessions</small><h3>Recovered operational evidence</h3></div>
+                  <span>Verified</span>
+                </div>
+                <div class="hq-session-list">
+                  <button type="button" data-hq-query="May 15 Resurrection"><strong>May 15 Resurrection</strong><span>Reconstruction / report / proof surface</span></button>
+                  <button type="button" data-hq-query="3005 Monster Session"><strong>3005 Monster Session</strong><span>Down Predator evidence profile</span></button>
+                  <button type="button" data-hq-query="Project Leviathan"><strong>Project Leviathan</strong><span>Restricted archive state</span></button>
+                </div>
+              </article>
+
+              <article class="hq-card hq-additions-card">
+                <div class="hq-card-head">
+                  <div><small>Recent Intelligence Additions</small><h3>Public diligence surface</h3></div>
+                  <span>Updated</span>
+                </div>
+                <div class="hq-additions">
+                  <a href="DEPLOYMENT_MANIFEST_20260609.json" target="_blank" rel="noopener">Deployment manifest</a>
+                  <a href="ARC_SE_TRANSFERABLE_OPERATIONAL_INTELLIGENCE_REPORT.pdf" target="_blank" rel="noopener">TOI report</a>
+                  <a href="ARC_SE_VALUATION_THESIS_EN_HARDENED.pdf" target="_blank" rel="noopener">Valuation thesis</a>
+                </div>
+              </article>
+
+              <article class="hq-card hq-quick-card">
+                <div class="hq-card-head">
+                  <div><small>Quick Access</small><h3>Open public rooms</h3></div>
+                  <span>Bridge</span>
+                </div>
+                <div class="hq-quick-grid">
+                  <a href="#room-toi" data-hq-close>TOI Room</a>
+                  <a href="#room-founder" data-hq-close>Founder Story</a>
+                  <a href="#room-sessions" data-hq-close>Legendary Sessions</a>
+                  <a href="#room-vault" data-hq-close>Evidence Vault</a>
+                </div>
+              </article>
+            </section>
+          </main>
+
+          <aside class="hq-right-column">
+            <article class="hq-side-card">
+              <small>Live System Status</small>
+              <h3>All public surfaces reachable</h3>
+              <ul>
+                <li><span class="ok"></span> Language packs online</li>
+                <li><span class="ok"></span> Documentary localized</li>
+                <li><span class="ok"></span> Evidence vault linked</li>
+                <li><span class="warn"></span> 3005 marked historical risk</li>
+              </ul>
+            </article>
+            <article class="hq-side-card">
+              <small>Intelligence Timeline</small>
+              <div class="hq-mini-timeline">
+                <button type="button" data-hq-query="Founder Story"><b>Origin</b><span>Founder Story</span></button>
+                <button type="button" data-hq-query="May 15 Resurrection"><b>May 15</b><span>Resurrection</span></button>
+                <button type="button" data-hq-query="3007 Micro Harvester"><b>Micro</b><span>3007 harvest layer</span></button>
+                <button type="button" data-hq-query="3008 Strike"><b>3008</b><span>Governed strike organism</span></button>
+              </div>
+            </article>
+            <article class="hq-side-card">
+              <small>Important Notifications</small>
+              <div class="hq-notice-list">
+                <p><strong>TOI connected.</strong> Search can route visitors into preserved operational history.</p>
+                <p><strong>Evidence verified.</strong> PDFs, visuals, videos, and reports remain public-room compatible.</p>
+              </div>
+            </article>
+          </aside>
+        </div>
+      </div>
+    </section>
 
     <aside class="journey-rail" aria-label="Journey progress">
       <a href="#room-introduction" data-rail="room-introduction"><span>01</span></a>

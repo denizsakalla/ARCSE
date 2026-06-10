@@ -47,6 +47,7 @@ function rememberI18nSurface() {
   }
 
   document.querySelectorAll("[aria-label], [alt], [title]").forEach((element) => {
+    if (element.closest("[data-i18n-static]")) return;
     ["aria-label", "alt", "title"].forEach((attr) => {
       const value = element.getAttribute(attr);
       if (!value) return;
@@ -148,7 +149,9 @@ function applyVideoAssets(pack) {
 }
 
 function setLanguageMenuState(lang) {
-  document.querySelector("[data-language-current]").textContent = supportedLanguages[lang] || "EN";
+  document.querySelectorAll("[data-language-current]").forEach((element) => {
+    element.textContent = supportedLanguages[lang] || "EN";
+  });
   document.querySelectorAll("[data-lang-select]").forEach((button) => {
     const active = button.dataset.langSelect === lang;
     button.classList.toggle("active", active);
@@ -252,6 +255,234 @@ document.addEventListener("click", (event) => {
   if (!event.target.closest("[data-language-switcher]")) {
     languageMenu?.classList.remove("open");
     languageToggle?.setAttribute("aria-expanded", "false");
+  }
+});
+
+const headquartersLayer = document.querySelector("[data-headquarters-layer]");
+const headquartersOpenButtons = Array.from(document.querySelectorAll("[data-headquarters-open]"));
+const headquartersCloseButtons = Array.from(document.querySelectorAll("[data-hq-close]"));
+const hqBoot = document.querySelector("[data-hq-boot]");
+const hqBootLine = document.querySelector("[data-hq-boot-line]");
+const hqMinimal = document.querySelector("[data-hq-minimal]");
+const hqCommand = document.querySelector("[data-hq-command]");
+const hqInputs = Array.from(document.querySelectorAll("[data-hq-search-input]"));
+const hqAutocompleteMenus = Array.from(document.querySelectorAll("[data-hq-autocomplete]"));
+const hqQueryCard = document.querySelector("[data-hq-query-card]");
+const hqResultTitle = document.querySelector("[data-hq-result-title]");
+const hqResultCopy = document.querySelector("[data-hq-result-copy]");
+let hqBooting = false;
+let hqHasCounted = false;
+
+const hqSuggestions = [
+  "May 15 Resurrection",
+  "3005 Monster Session",
+  "Project Leviathan",
+  "Founder Story",
+  "TOI",
+  "Paper vs Live",
+  "3008 Strike",
+  "Valuation",
+  "Predator Down",
+  "3007 Micro Harvester"
+];
+
+const hqBootLines = [
+  "Connecting to preserved intelligence...",
+  "Scanning operational archives...",
+  "Reading evidence...",
+  "Validating historical reconstruction...",
+  "Synchronizing knowledge graph...",
+  "Loading organism topology...",
+  "Transferable Operational Intelligence connected."
+];
+
+const hqProfiles = [
+  {
+    match: /may\s*15|resurrection/i,
+    title: "May 15 Resurrection intelligence opened",
+    copy: "TOI reconstruction, resurrection report, Hall of Legends evidence, source screenshots, organism state, and timeline are linked into one verified operating memory."
+  },
+  {
+    match: /3005|monster|predator down|down predator/i,
+    title: "3005 Down Predator profile opened",
+    copy: "Monster-session behavior, downside movement intelligence, proof surfaces, reconstruction evidence, and related PDFs are staged for review."
+  },
+  {
+    match: /founder|origin/i,
+    title: "Founder Story opened",
+    copy: "The human origin, pressure event, mission logic, and preservation thesis are now the active intelligence thread."
+  },
+  {
+    match: /leviathan/i,
+    title: "Project Leviathan archive opened",
+    copy: "Restricted historical runtime evidence, mobile retained state, basis/equity surfaces, and governance lessons are connected."
+  },
+  {
+    match: /toi|transferable/i,
+    title: "TOI research library opened",
+    copy: "Transferable Operational Intelligence, reconstruction controls, evidence validation, and operational memory transfer are active."
+  },
+  {
+    match: /valuation|value|investment/i,
+    title: "Valuation intelligence opened",
+    copy: "Valuation thesis, investment memorandum, strategic acquisition logic, future markets, and current-value reports are indexed."
+  },
+  {
+    match: /3007|micro|harvester/i,
+    title: "3007 Micro Harvester opened",
+    copy: "Micro capture, peak-versus-realized evidence, replay value recovery, and version lineage are highlighted in the graph."
+  },
+  {
+    match: /3008|strike/i,
+    title: "3008 Strike Organism opened",
+    copy: "Governed strike behavior, capital truth, current 3008 framing, and operational controls are connected."
+  },
+  {
+    match: /paper|live|parity/i,
+    title: "Paper vs Live intelligence opened",
+    copy: "Parity, live causal reality checks, paper-to-live realism, and separated trust surfaces are staged."
+  }
+];
+
+function openHeadquarters() {
+  if (!headquartersLayer) return;
+  headquartersLayer.classList.add("is-active", "is-command-ready");
+  headquartersLayer.classList.remove("is-minimal", "is-booting");
+  headquartersLayer.setAttribute("aria-hidden", "false");
+  hqMinimal?.setAttribute("aria-hidden", "true");
+  hqCommand?.removeAttribute("aria-hidden");
+  document.body.classList.add("headquarters-open");
+  window.setTimeout(() => hqInputs[1]?.focus({ preventScroll: true }), 450);
+  animateHqCounters();
+}
+
+function closeHeadquarters() {
+  if (!headquartersLayer) return;
+  headquartersLayer.classList.remove("is-active", "is-minimal", "is-booting", "is-command-ready");
+  headquartersLayer.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("headquarters-open");
+}
+
+function setHqQuery(value) {
+  hqInputs.forEach((input) => {
+    if (input.value !== value) input.value = value;
+  });
+  updateHqAutocomplete(value);
+}
+
+function updateHqAutocomplete(value) {
+  const query = value.trim().toLowerCase();
+  const matches = hqSuggestions.filter((item) => !query || item.toLowerCase().includes(query)).slice(0, 6);
+  hqAutocompleteMenus.forEach((menu) => {
+    if (!query) {
+      menu.classList.remove("open");
+      menu.innerHTML = "";
+      return;
+    }
+    menu.innerHTML = matches.map((item) => `<button type="button" data-hq-suggestion="${item}">${item}</button>`).join("");
+    menu.classList.toggle("open", matches.length > 0);
+  });
+}
+
+function resolveHqProfile(query) {
+  return hqProfiles.find((profile) => profile.match.test(query)) || {
+    title: `${query || "ARC SE"} intelligence opened`,
+    copy: "ARC SE searched founder story, TOI, organism topology, evidence vault, reports, videos, screenshots, timeline, valuation, and reconstructions."
+  };
+}
+
+function setHeadquartersResult(query) {
+  const profile = resolveHqProfile(query);
+  if (hqResultTitle) hqResultTitle.textContent = profile.title;
+  if (hqResultCopy) hqResultCopy.textContent = profile.copy;
+  hqQueryCard?.classList.remove("is-resolved");
+  void hqQueryCard?.offsetWidth;
+  hqQueryCard?.classList.add("is-resolved");
+  document.querySelectorAll("[data-hq-query]").forEach((button) => {
+    button.classList.toggle("active", button.dataset.hqQuery?.toLowerCase() === query.toLowerCase());
+  });
+}
+
+async function runHeadquartersBoot(query) {
+  if (!headquartersLayer || hqBooting) return;
+  hqBooting = true;
+  headquartersLayer.classList.add("is-booting");
+  hqBoot?.setAttribute("aria-hidden", "false");
+  for (const line of hqBootLines) {
+    if (hqBootLine) {
+      hqBootLine.textContent = line;
+      hqBootLine.classList.remove("pulse");
+      void hqBootLine.offsetWidth;
+      hqBootLine.classList.add("pulse");
+    }
+    await new Promise((resolve) => window.setTimeout(resolve, 430));
+  }
+  headquartersLayer.classList.remove("is-booting");
+  hqBoot?.setAttribute("aria-hidden", "true");
+  setHeadquartersResult(query);
+  animateHqCounters();
+  hqBooting = false;
+}
+
+function animateHqCounters() {
+  if (hqHasCounted) return;
+  hqHasCounted = true;
+  document.querySelectorAll("[data-hq-count]").forEach((element) => {
+    const target = Number(element.dataset.hqCount || 0);
+    const duration = 1200;
+    const start = performance.now();
+    function frame(now) {
+      const progress = Math.min(1, (now - start) / duration);
+      const eased = 1 - Math.pow(1 - progress, 3);
+      element.textContent = Math.round(target * eased).toLocaleString();
+      if (progress < 1) requestAnimationFrame(frame);
+    }
+    requestAnimationFrame(frame);
+  });
+}
+
+headquartersOpenButtons.forEach((button) => {
+  button.addEventListener("click", openHeadquarters);
+});
+
+headquartersCloseButtons.forEach((button) => {
+  button.addEventListener("click", closeHeadquarters);
+});
+
+hqInputs.forEach((input) => {
+  input.addEventListener("input", () => {
+    setHqQuery(input.value);
+    const query = input.value.trim();
+    if (query.length >= 2) {
+      window.clearTimeout(input._hqTimer);
+      input._hqTimer = window.setTimeout(() => runHeadquartersBoot(query), 650);
+    }
+  });
+});
+
+document.querySelectorAll("[data-hq-search-form]").forEach((form) => {
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const input = form.querySelector("[data-hq-search-input]");
+    const query = input?.value.trim() || "ARC SE";
+    setHqQuery(query);
+    runHeadquartersBoot(query);
+  });
+});
+
+document.addEventListener("click", (event) => {
+  const suggestion = event.target.closest("[data-hq-suggestion]");
+  if (suggestion) {
+    const query = suggestion.dataset.hqSuggestion;
+    setHqQuery(query);
+    hqAutocompleteMenus.forEach((menu) => menu.classList.remove("open"));
+    runHeadquartersBoot(query);
+  }
+  const queryButton = event.target.closest("[data-hq-query]");
+  if (queryButton) {
+    const query = queryButton.dataset.hqQuery;
+    setHqQuery(query);
+    runHeadquartersBoot(query);
   }
 });
 

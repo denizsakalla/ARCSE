@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T05:10:14.211Z",
+  "generatedAt": "2026-06-10T06:12:29.553Z",
   "releaseRoot": "ARC_SE_PUBLIC_DIGITAL_HEADQUARTERS_RELEASE_20260609",
   "checks": {
     "requiredPathsPresent": true,
@@ -13,7 +13,7 @@
   },
   "counts": {
     "files": 850,
-    "refs": 66,
+    "refs": 67,
     "languageFiles": 8,
     "pdfs": 112,
     "images": 398,

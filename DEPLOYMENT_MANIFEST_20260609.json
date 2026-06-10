@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T05:10:15.646Z",
+  "generatedAt": "2026-06-10T06:12:31.201Z",
   "releaseRoot": "ARC_SE_PUBLIC_DIGITAL_HEADQUARTERS_RELEASE_20260609",
   "excludedTopLevel": [
     "ARC_SE_PUBLIC_DIGITAL_HEADQUARTERS_RELEASE_20260609"
@@ -7,7 +7,7 @@
   "counts": {
     "files": 850,
     "folders": 44,
-    "bytes": 402579312,
+    "bytes": 402620950,
     "byType": {
       "file": 1,
       "image": 398,
@@ -2638,14 +2638,14 @@
     },
     {
       "path": "arcse-experience.css",
-      "size": 72687,
-      "sha256": "cf43557919060bb40bc9f2082c21c4e49bdb790eab1eb3ed203474f9375e3030",
+      "size": 91279,
+      "sha256": "cf32d340e267660423f129ac655353fe6f447a58e2579ad8795ca08dda2d9251",
       "type": "css"
     },
     {
       "path": "arcse-experience.js",
-      "size": 31842,
-      "sha256": "95063854f5ee1798443b94f901de734cee0833237be2d34f9f0aa05c5a666492",
+      "size": 40399,
+      "sha256": "fc7e9866ff321636ac0e3b48a6445f2842ce812f036a3f92c65b48631db36f8d",
       "type": "javascript"
     },
     {
@@ -2675,13 +2675,13 @@
     {
       "path": "DEPLOYMENT_MANIFEST_20260609.json",
       "size": 188548,
-      "sha256": "1aabea53642a261a3126c8bc647bd64d9ca814c610f4586fd91bc5128b124290",
+      "sha256": "2ec4b7d5793aa1c47dad90237deb2f7a1ce40aa8dfb2cb86a5df0182f947a7b4",
       "type": "json"
     },
     {
       "path": "DEPLOYMENT_VALIDATION_LOCAL_20260609.json",
       "size": 771,
-      "sha256": "13bb3b0af9f1ef1499d096a9cefe082f230167d0501675f6f53c0db03fab5316",
+      "sha256": "1c9bc2a34da6dd91250bb88b59848aec02c279cf01b7f9d68ea5285e75704d2b",
       "type": "json"
     },
     {
@@ -2860,8 +2860,8 @@
     },
     {
       "path": "index.html",
-      "size": 68604,
-      "sha256": "1f1db79668a1b836304186f3f09020dcbb38323e4c5fc6a4614babff06156c75",
+      "size": 83093,
+      "sha256": "8a992d5e36268fcad3fc923701b5ad72b2116917a7c54d4c50f1a9b2dd1b05e2",
       "type": "html"
     },
     {
